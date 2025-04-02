@@ -181,51 +181,95 @@ class _AudioListScreenState extends State<AudioListScreen> {
             },
           ),
           
-          // 音频列表
+          // 音频列表区域
           Expanded(
-            child: ListView.builder(
-              itemCount: _audioService.audioItems.length,
-              itemBuilder: (context, index) {
-                final audioItem = _audioService.audioItems[index];
-                final isSelected = index == _audioService.currentIndex;
+            child: Column(
+              children: [
+                // 音频列表 (占据85%的空间)
+                Expanded(
+                  flex: 85,
+                  child: ListView.builder(
+                    itemCount: _audioService.audioItems.length,
+                    itemBuilder: (context, index) {
+                      final audioItem = _audioService.audioItems[index];
+                      final isSelected = index == _audioService.currentIndex;
+                      
+                      return ListTile(
+                        leading: Container(
+                          width: 40,
+                          height: 40,
+                          decoration: BoxDecoration(
+                            color: isSelected ? const Color(0xFFFFD700).withOpacity(0.2) : const Color(0xFF2D2442),
+                            borderRadius: BorderRadius.circular(8),
+                          ),
+                          child: Icon(
+                            Icons.music_note,
+                            color: isSelected ? const Color(0xFFFFD700) : Colors.white70,
+                          ),
+                        ),
+                        title: Text(
+                          audioItem.fileName,
+                          style: TextStyle(
+                            color: isSelected ? const Color(0xFFFFD700) : Colors.white,
+                            fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
+                          ),
+                        ),
+                        subtitle: Text(
+                          'Tap to play',
+                          style: TextStyle(
+                            color: Colors.grey.shade500,
+                            fontSize: 12,
+                          ),
+                        ),
+                        trailing: isSelected && _audioService.isPlaying
+                            ? const Icon(Icons.volume_up, color: Color(0xFFFFD700))
+                            : null,
+                        onTap: () {
+                          setState(() {
+                            _audioService.play(index);
+                          });
+                        },
+                      );
+                    },
+                  ),
+                ),
                 
-                return ListTile(
-                  leading: Container(
-                    width: 40,
-                    height: 40,
-                    decoration: BoxDecoration(
-                      color: isSelected ? const Color(0xFFFFD700).withOpacity(0.2) : const Color(0xFF2D2442),
-                      borderRadius: BorderRadius.circular(8),
-                    ),
-                    child: Icon(
-                      Icons.music_note,
-                      color: isSelected ? const Color(0xFFFFD700) : Colors.white70,
+                // 底部空间 (占据15%的空间，其中放置版权声明)
+                Expanded(
+                  flex: 15,
+                  child: Center(
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 12.0),
+                      margin: const EdgeInsets.symmetric(horizontal: 16.0),
+                      decoration: BoxDecoration(
+                        color: const Color(0xFF2D2442).withOpacity(0.7),
+                        borderRadius: BorderRadius.circular(8.0),
+                        border: Border.all(color: const Color(0xFFFFD700).withOpacity(0.3)),
+                      ),
+                      child: Row(
+                        children: [
+                          const Icon(
+                            Icons.info_outline,
+                            color: Color(0xFFFFD700),
+                            size: 24,
+                          ),
+                          const SizedBox(width: 12),
+                          Expanded(
+                            child: Text(
+                              'All music in this app is AI-generated and free from any copyright restrictions.',
+                              style: TextStyle(
+                                color: Colors.white.withOpacity(0.9),
+                                fontSize: 13,
+                                height: 1.5,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
                     ),
                   ),
-                  title: Text(
-                    audioItem.fileName,
-                    style: TextStyle(
-                      color: isSelected ? const Color(0xFFFFD700) : Colors.white,
-                      fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
-                    ),
-                  ),
-                  subtitle: Text(
-                    'Tap to play',
-                    style: TextStyle(
-                      color: Colors.grey.shade500,
-                      fontSize: 12,
-                    ),
-                  ),
-                  trailing: isSelected && _audioService.isPlaying
-                      ? const Icon(Icons.volume_up, color: Color(0xFFFFD700))
-                      : null,
-                  onTap: () {
-                    setState(() {
-                      _audioService.play(index);
-                    });
-                  },
-                );
-              },
+                ),
+              ],
             ),
           ),
         ],
