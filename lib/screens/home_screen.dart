@@ -203,26 +203,37 @@ class _HomeScreenState extends State<HomeScreen> {
 
   void _onTabTapped(int index) {
     if (_selectedIndex != index) {
-      setState(() {
-        _selectedIndex = index;
-      });
-      
-      // 如果切换到Chats标签页，触发刷新
-      if (index == 3) { // Chats标签页索引为3
-        refreshChatsList();
-      }
-      
-      // 如果这是从HomeScreenWithCharacter创建的，且用户通过底部导航回到Home标签
-      // 将导航栈替换为普通的HomeScreen，移除额外参数
-      if (index == 0 && widget is HomeScreenWithCharacter) {
-        // 延迟执行，避免在构建周期中修改widget树
-        Future.microtask(() {
-          Navigator.of(context).pushReplacement(
-            MaterialPageRoute(
-              builder: (context) => const HomeScreen(),
-            ),
-          );
+      // 如果用户点击了"Create"选项卡（索引为2），直接导航到EditCharacterScreen
+      if (index == 2) {
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => const EditCharacterScreen(),
+          ),
+        );
+        // 不更新selectedIndex，保持在当前选项卡
+      } else {
+        setState(() {
+          _selectedIndex = index;
         });
+        
+        // 如果切换到Chats标签页，触发刷新
+        if (index == 3) { // Chats标签页索引为3
+          refreshChatsList();
+        }
+        
+        // 如果这是从HomeScreenWithCharacter创建的，且用户通过底部导航回到Home标签
+        // 将导航栈替换为普通的HomeScreen，移除额外参数
+        if (index == 0 && widget is HomeScreenWithCharacter) {
+          // 延迟执行，避免在构建周期中修改widget树
+          Future.microtask(() {
+            Navigator.of(context).pushReplacement(
+              MaterialPageRoute(
+                builder: (context) => const HomeScreen(),
+              ),
+            );
+          });
+        }
       }
     }
   }
