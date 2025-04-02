@@ -1,0 +1,212 @@
+name: jiveup
+description: "JiveUp - AI character interaction app"
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.5.3
+  image_picker: ^1.0.7
+  path_provider: ^2.1.2
+  package_info_plus: ^8.3.0
+  flutter_animate: ^4.5.0
+  just_audio: ^0.9.36
+  audio_session: ^0.1.18
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^5.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/welcome_bg.jpg
+    - assets/images/bg_login_shadow.png
+    - assets/images/login_logo_icon.png
+    - assets/images/sophia.jpg
+    - assets/images/emma.jpg
+    - assets/images/lily.jpg
+    - assets/images/alex.jpg
+    - assets/images/sl_about.png
+    - assets/json/sheldf.json
+    - assets/images/tabar_nor/btn_tab_home_nor.png
+    - assets/images/tabar_nor/btn_tab_avatar_nor.png
+    - assets/images/tabar_nor/btn_tab_create_nor.png
+    - assets/images/tabar_nor/btn_tab_chats_nor.png
+    - assets/images/tabar_nor/btn_tab_me_nor.png
+    - assets/images/tabar_pre/btn_tab_home_pre.png
+    - assets/images/tabar_pre/btn_tab_avatar_pre.png
+    - assets/images/tabar_pre/btn_tab_create_pre.png
+    - assets/images/tabar_pre/btn_tab_chats_pre.png
+    - assets/images/tabar_pre/btn_tab_me_pre.png
+    - assets/images/avert/btn_friends_like_nor.png
+    - assets/images/avert/btn_friends_hi_nor.png
+    - assets/images/avert/btn_friends_dislike_nor.png
+    - assets/images/userInfo/1/user_1.jpg
+    - assets/images/userInfo/2/user_2.jpg
+    - assets/images/userInfo/3/user_3.jpg
+    - assets/images/userInfo/4/user_4.jpg
+    - assets/images/userInfo/5/user_5.jpg
+    - assets/images/userInfo/6/user_6.jpg
+    - assets/images/userInfo/7/user_7.jpg
+    - assets/images/userInfo/8/user_8.jpg
+    - assets/images/userInfo/9/user_9.jpg
+    - assets/images/userInfo/10/user_10.jpg
+    - assets/images/userInfo/11/user_11.jpg
+    - assets/images/userInfo/12/user_12.jpg
+    - assets/images/userInfo/13/user_13.jpg
+    - assets/images/userInfo/14/user_14.jpg
+    - assets/images/userInfo/15/user_15.jpg
+    - assets/images/userInfo/16/user_16.jpg
+    - assets/images/userInfo/17/user_17.jpg
+    - assets/images/userInfo/18/user_18.jpg
+    - assets/images/userInfo/19/user_19.jpg
+    - assets/images/userInfo/20/user_20.jpg
+    - assets/images/userInfo/21/user_21.jpg
+    - assets/images/userInfo/22/user_22.jpg
+    - assets/images/userInfo/23/user_23.jpg
+    - assets/images/userInfo/24/user_24.jpg
+    - assets/images/userInfo/25/user_25.jpg
+    - assets/images/userInfo/26/user_26.jpg
+    - assets/images/userInfo/27/user_27.jpg
+    - assets/images/userInfo/28/user_28.jpg
+    - assets/images/userInfo/29/user_29.jpg
+    - assets/images/userInfo/30/user_30.jpg
+    - assets/images/userInfo/1/ask/ask_1_1.jpg
+    - assets/images/userInfo/1/ask/ask_1_2.jpg
+    - assets/images/userInfo/2/ask/ask_2_1.jpg
+    - assets/images/userInfo/2/ask/ask_2_2.jpg
+    - assets/images/userInfo/3/ask/ask_3_1.jpg
+    - assets/images/userInfo/3/ask/ask_3_2.jpg
+    - assets/images/userInfo/4/ask/ask_4_1.jpg
+    - assets/images/userInfo/4/ask/ask_4_2.jpg
+    - assets/images/userInfo/5/ask/ask_5_1.jpg
+    - assets/images/userInfo/5/ask/ask_5_2.jpg
+    - assets/images/userInfo/6/ask/ask_6_1.jpg
+    - assets/images/userInfo/6/ask/ask_6_2.jpg
+    - assets/images/userInfo/7/ask/ask_7_1.jpg
+    - assets/images/userInfo/7/ask/ask_7_2.jpg
+    - assets/images/userInfo/8/ask/ask_8_1.jpg
+    - assets/images/userInfo/8/ask/ask_8_2.jpg
+    - assets/images/userInfo/9/ask/ask_9_1.jpg
+    - assets/images/userInfo/9/ask/ask_9_2.jpg
+    - assets/images/userInfo/10/ask/ask_10_1.jpg
+    - assets/images/userInfo/10/ask/ask_10_2.jpg
+    - assets/images/userInfo/11/ask/ask_11_1.jpg
+    - assets/images/userInfo/11/ask/ask_11_2.jpg
+    - assets/images/userInfo/12/ask/ask_12_1.jpg
+    - assets/images/userInfo/12/ask/ask_12_2.jpg
+    - assets/images/userInfo/13/ask/ask_13_1.jpg
+    - assets/images/userInfo/13/ask/ask_13_2.jpg
+    - assets/images/userInfo/14/ask/ask_14_1.jpg
+    - assets/images/userInfo/14/ask/ask_14_2.jpg
+    - assets/images/userInfo/15/ask/ask_15_1.jpg
+    - assets/images/userInfo/15/ask/ask_15_2.jpg
+    - assets/images/userInfo/16/ask/ask_16_1.jpg
+    - assets/images/userInfo/16/ask/ask_16_2.jpg
+    - assets/images/userInfo/17/ask/ask_17_1.jpg
+    - assets/images/userInfo/17/ask/ask_17_2.jpg
+    - assets/images/userInfo/18/ask/ask_18_1.jpg
+    - assets/images/userInfo/18/ask/ask_18_2.jpg
+    - assets/images/userInfo/19/ask/ask_19_1.jpg
+    - assets/images/userInfo/19/ask/ask_19_2.jpg
+    - assets/images/userInfo/20/ask/ask_20_1.jpg
+    - assets/images/userInfo/20/ask/ask_20_2.jpg
+    - assets/images/userInfo/21/ask/ask_21_1.jpg
+    - assets/images/userInfo/21/ask/ask_21_2.jpg
+    - assets/images/userInfo/22/ask/ask_22_1.jpg
+    - assets/images/userInfo/22/ask/ask_22_2.jpg
+    - assets/images/userInfo/23/ask/ask_23_1.jpg
+    - assets/images/userInfo/23/ask/ask_23_2.jpg
+    - assets/images/userInfo/24/ask/ask_24_1.jpg
+    - assets/images/userInfo/24/ask/ask_24_2.jpg
+    - assets/images/userInfo/25/ask/ask_25_1.jpg
+    - assets/images/userInfo/25/ask/ask_25_2.jpg
+    - assets/images/userInfo/26/ask/ask_26_1.jpg
+    - assets/images/userInfo/26/ask/ask_26_2.jpg
+    - assets/images/userInfo/27/ask/ask_27_1.jpg
+    - assets/images/userInfo/27/ask/ask_27_2.jpg
+    - assets/images/userInfo/28/ask/ask_28_1.jpg
+    - assets/images/userInfo/28/ask/ask_28_2.jpg
+    - assets/images/userInfo/29/ask/ask_29_1.jpg
+    - assets/images/userInfo/29/ask/ask_29_2.jpg
+    - assets/images/userInfo/30/ask/ask_30_1.jpg
+    - assets/images/userInfo/30/ask/ask_30_2.jpg
+    - assets/images/
+    - assets/images/tabar_nor/
+    - assets/images/tabar_pre/
+    - assets/audio/
+  # assets:
+  #   - images/a_dot_burr.jpeg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/to/resolution-aware-images
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/to/asset-from-package
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/to/font-from-package

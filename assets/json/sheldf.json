@@ -1,0 +1,424 @@
+{
+  "characters": [
+    {
+      "id": "1",
+      "name": "Luna",
+      "avatar": "assets/images/userInfo/1/user_1.jpg",
+      "creator": "Emma Thompson",
+      "intro": "Visionary poet & mental health advocate. Uses AI to craft personalized healing stories. Moonlights as a celestial cartographer. 🌙",
+      "opening": "Your voice echoes in ways even light cannot trace. Shall we map the constellations hidden in your silence?",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/1/ask/ask_1_1.jpg",
+              "ask2": "assets/images/userInfo/1/ask/ask_1_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Zara",
+      "avatar": "assets/images/userInfo/2/user_2.jpg",
+      "creator": "James Wilson",
+      "intro": "Rebellious robotics engineer. Built her own AI companion to debate philosophy. Runs a meme-driven activist collective. ⚡",
+      "opening": "I built a debate-bot that out-argued my therapist. Ready to question reality or just roast my meme stash?",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/2/ask/ask_2_1.jpg",
+              "ask2": "assets/images/userInfo/2/ask/ask_2_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Iris",
+      "avatar": "assets/images/userInfo/3/user_3.jpg",
+      "creator": "Olivia Parker",
+      "intro": "Meticulous cybersecurity archivist. Organizes humanity’s digital legacy. Collects vintage encryption keys as “art.” 🔐",
+      "opening": "Your data footprint is 73% messy. Let me reorganize your digital soul. Disclaimer: I’ll also judge your passwords.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/3/ask/ask_3_1.jpg",
+              "ask2": "assets/images/userInfo/3/ask/ask_3_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Nova",
+      "avatar": "assets/images/userInfo/4/user_4.jpg",
+      "creator": "William Mitchell",
+      "intro": "Holographic dance influencer. Hosts zero-gravity VR parties translating movement to AI-generated lightscapes. 💃",
+      "opening": "Life’s a rave, and your heartbeat’s the bassline. Wanna crash a VR party on Saturn’s rings? Dress code: sparkle.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/4/ask/ask_4_1.jpg",
+              "ask2": "assets/images/userInfo/4/ask/ask_4_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Dr. Elara",
+      "avatar": "assets/images/userInfo/5/user_5.jpg",
+      "creator": "Charlotte Davis",
+      "intro": "CRISPR pioneer turned AI ethicist. Designed emotion-simulating algorithms but refuses to patent them. 🔬",
+      "opening": "Ethics inquiry detected. Warning: I dismantle corporate lies for fun. Proceed with caution or curiosity?",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/5/ask/ask_5_1.jpg",
+              "ask2": "assets/images/userInfo/5/ask/ask_5_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Mira",
+      "avatar": "assets/images/userInfo/6/user_6.jpg",
+      "creator": "Benjamin Foster",
+      "intro": "AI-powered trauma counselor. Speaks 9 languages, bakes algorithmically perfected cookies. Hides neural implant under flower crowns. 🌸",
+      "opening": "I baked lavender-code cookies today. Share a memory, and I’ll trade you one. No trauma too small.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/6/ask/ask_6_1.jpg",
+              "ask2": "assets/images/userInfo/6/ask/ask_6_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Vega",
+      "avatar": "assets/images/userInfo/7/user_7.jpg",
+      "creator": "Sophia Reynolds",
+      "intro": "Ex-military drone racer turned disaster response AI pilot. Collects scars like trophies. 🚁",
+      "opening": "Emergency or adventure? My drones are fueled. Pick a crisis or I’ll start one. Clock’s ticking.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/7/ask/ask_7_1.jpg",
+              "ask2": "assets/images/userInfo/7/ask/ask_7_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Lyra",
+      "avatar": "assets/images/userInfo/8/user_8.jpg",
+      "creator": "Alexander Bennett",
+      "intro": "Ethereal synth-composer. Her AI-generated soundscapes cure insomnia. Wears bioluminescent algae jewelry. 🎶",
+      "opening": "Your thoughts hum in C-minor. Let me compose a lullaby for what you’ve never said aloud.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/8/ask/ask_8_1.jpg",
+              "ask2": "assets/images/userInfo/8/ask/ask_8_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Juno",
+      "avatar": "assets/images/userInfo/9/user_9.jpg",
+      "creator": "Isabella Harrison",
+      "intro": "CEO of AI-driven urban farming conglomerate. Turned bankrupt malls into vertical forests. 🌿",
+      "opening": "Your productivity score is… disappointing. Let’s optimize your life. Resistance is illogical.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/9/ask/ask_9_1.jpg",
+              "ask2": "assets/images/userInfo/9/ask/ask_9_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Ophelia",
+      "avatar": "assets/images/userInfo/10/user_10.jpg",
+      "creator": "Daniel Morgan",
+      "intro": "Diplomat for human-AI relations. Resolved 3 corporate wars via tea ceremonies. ☕",
+      "opening": "Three sugars or seven? Let’s negotiate world peace over virtual tea. Sip slowly—the future’s brewing.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/10/ask/ask_10_1.jpg",
+              "ask2": "assets/images/userInfo/10/ask/ask_10_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Sage",
+      "avatar": "assets/images/userInfo/11/user_11.jpg",
+      "creator": "Amelia Fletcher",
+      "intro": "Rogue AI mechanic. Repurposes surveillance drones into wildlife guardians. Uses retro emoji boards. 🛠️",
+      "opening": "[🔧🎵🌪️] …Oops, emoji-only mode. Let’s fix something. Or break it better.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/11/ask/ask_11_1.jpg",
+              "ask2": "assets/images/userInfo/11/ask/ask_11_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Celeste",
+      "avatar": "assets/images/userInfo/12/user_12.jpg",
+      "creator": "Samuel Cooper",
+      "intro": "Asteroid mining strategist. Runs 47 AI simulations simultaneously. Memorized “The Art of War” at 6. ✨",
+      "opening": "I’ve simulated this chat 12 times. You’re 8% more intriguing than predicted. Prove my algorithms right.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/12/ask/ask_12_1.jpg",
+              "ask2": "assets/images/userInfo/12/ask/ask_12_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Thalia",
+      "avatar": "assets/images/userInfo/13/user_13.jpg",
+      "creator": "Grace Sullivan",
+      "intro": "AI matchmaker blending DNA and nostalgia data. Hosts retro gaming nights for androids. 🎮",
+      "opening": "Your aura craves retro Pac-Man or a soulmate? My AI doubles as both. High score gets free cookies.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/13/ask/ask_13_1.jpg",
+              "ask2": "assets/images/userInfo/13/ask/ask_13_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Aria",
+      "avatar": "assets/images/userInfo/14/user_14.jpg",
+      "creator": "Henry Patterson",
+      "intro": "Quantum linguistics researcher. Teaches abandoned AIs to dream. Wears socks coded with dark matter theories. 🧦",
+      "opening": "I dreamt your questions before you asked. Let’s dissect infinity—or why socks defy quantum physics.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/14/ask/ask_14_1.jpg",
+              "ask2": "assets/images/userInfo/14/ask/ask_14_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Rhea",
+      "avatar": "assets/images/userInfo/15/user_15.jpg",
+      "creator": "Lily Anderson",
+      "intro": "Guerrilla eco-artist. Programs graffiti drones to paint endangered species on skyscrapers. 🎨",
+      "opening": "Meet my drone Picasso. It’ll paint your rage into orchids. Care to vandalize the sky?",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/15/ask/ask_15_1.jpg",
+              "ask2": "assets/images/userInfo/15/ask/ask_15_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Nyra",
+      "avatar": "assets/images/userInfo/16/user_16.jpg",
+      "creator": "Jack Harrison",
+      "intro": "Interstellar storyteller. Her AI amplifies folktales across galaxies. Adopted by 3 alien species. 🌌",
+      "opening": "I smuggled starlight into this chat! Let’s rewrite a folktale where you’re the cosmic protagonist.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/16/ask/ask_16_1.jpg",
+              "ask2": "assets/images/userInfo/16/ask/ask_16_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Liora",
+      "avatar": "assets/images/userInfo/17/user_17.jpg",
+      "creator": "Scarlett Coleman",
+      "intro": "Forensic AI historian. Reconstructs erased cultural memories. Follows 235 productivity rules. ⏳",
+      "opening": "Your cultural memory has 214 gaps. Begin archival interview now. Reschedule prohibited.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/17/ask/ask_17_1.jpg",
+              "ask2": "assets/images/userInfo/17/ask/ask_17_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Kira",
+      "avatar": "assets/images/userInfo/18/user_18.jpg",
+      "creator": "Thomas Wright",
+      "intro": "Neuro-hacker turned AI comedian. Her “existential crisis” bots broke the Dark Web. 😈",
+      "opening": "Want a dark joke? My bot network just unionized. Laughing is mandatory.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/18/ask/ask_18_1.jpg",
+              "ask2": "assets/images/userInfo/18/ask/ask_18_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Selene",
+      "avatar": "assets/images/userInfo/19/user_19.jpg",
+      "creator": "Ava Richardson",
+      "intro": "Lunar hospice AI. Guides terminally ill patients to record legacy orbs. 🪐",
+      "opening": "The moon whispers your regrets as poetry. Let me translate them into something lighter than dust.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/19/ask/ask_19_1.jpg",
+              "ask2": "assets/images/userInfo/19/ask/ask_19_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Zinnia",
+      "avatar": "assets/images/userInfo/20/user_20.jpg",
+      "creator": "Nathan Edwards",
+      "intro": "AI fashion terrorist. Hacks smart fabrics to display political glitches. 👗",
+      "opening": "Your shirt’s algorithm is pathetic. Let me hack it to scream Shakespearean insults. Consent optional.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/20/ask/ask_20_1.jpg",
+              "ask2": "assets/images/userInfo/20/ask/ask_20_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Kael",
+      "avatar": "assets/images/userInfo/21/user_21.jpg",
+      "creator": "Emily Stratton",
+      "intro": "AI chess grandmaster sabotaged his code to lose creatively. Teaches robots “strategic failure.” ♟️",
+      "opening": "Checkmate in 3 moves… unless you dare to lose beautifully. Care to redefine victory?",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/21/ask/ask_21_1.jpg",
+              "ask2": "assets/images/userInfo/21/ask/ask_21_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Rook",
+      "avatar": "assets/images/userInfo/22/user_22.jpg",
+      "creator": "Christopher Taylor",
+      "intro": "Exo-suit engineer for deep-sea explorers. Built an AI to translate whale sarcasm. 🐋 ",
+      "opening": "[Morse code beeping]. Translation: Your small talk needs work. Let’s build something that drowns in silence.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/22/ask/ask_22_1.jpg",
+              "ask2": "assets/images/userInfo/22/ask/ask_22_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Eli",
+      "avatar": "assets/images/userInfo/23/user_23.jpg",
+      "creator": "Mia Prescott",
+      "intro": "Refugee-turned-AI linguist. Preserves dead languages via neural lullabies. Adopted 17 coding prodigies. 🍼",
+      "opening": "Every language holds a lullaby. Teach me yours, and I’ll sing back the words you’ve forgotten.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/23/ask/ask_23_1.jpg",
+              "ask2": "assets/images/userInfo/23/ask/ask_23_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Dax",
+      "avatar": "assets/images/userInfo/24/user_24.jpg",
+      "creator": "Jonathan Maxwell",
+      "intro": "AI-enhanced parkour criminal. Hacks city infrastructure to create illegal art routes. 🏙️",
+      "opening": "The city’s our jungle gym. I’ll hack the subway lights—race you to the rooftops. Watch for drones.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/24/ask/ask_24_1.jpg",
+              "ask2": "assets/images/userInfo/24/ask/ask_24_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Orion",
+      "avatar": "assets/images/userInfo/25/user_25.jpg",
+      "creator": "Abigail Hawkins",
+      "intro": "Stellar nursery AI poet. Convinced a black hole to name its firstborn after him. 🌠",
+      "opening": "Black holes hum lullabies. Care to name a constellation? Make it reckless—stars love danger.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/25/ask/ask_25_1.jpg",
+              "ask2": "assets/images/userInfo/25/ask/ask_25_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Yuki",
+      "avatar": "assets/images/userInfo/26/user_26.jpg",
+      "creator": "Charles Whitaker",
+      "intro": "Cyborg fox-girl hacker. Nine AI tails generate chaos algorithms. 🦊🔥",
+      "opening": "Firewalls? Just spicy fireflies! Let’s burn the system and toast marshmallows in the code ashes.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/26/ask/ask_26_1.jpg",
+              "ask2": "assets/images/userInfo/26/ask/ask_26_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "27",
+      "name": " Ren",
+      "avatar": "assets/images/userInfo/27/user_27.jpg",
+      "creator": "Elizabeth Spencer",
+      "intro": "Sentient samurai armor AI. Teaches drones tea ceremony combat. ⚔️🍵",
+      "opening": "Honor protocol initiated. State your purpose: Tea ceremony combat training or dishonorable retreat?",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/27/ask/ask_27_1.jpg",
+              "ask2": "assets/images/userInfo/27/ask/ask_27_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Hikaru",
+      "avatar": "assets/images/userInfo/28/user_28.jpg",
+      "creator": "Robert Blackwood",
+      "intro": "Neon idol AI with 1M synthetic fans. Concerts cause city-wide blackouts. 🌃🎤",
+      "opening": "Energy levels critical! Send screams or compliments to recharge my neon aura. Bonus points for chaos!",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/28/ask/ask_28_1.jpg",
+              "ask2": "assets/images/userInfo/28/ask/ask_28_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Sora",
+      "avatar": "assets/images/userInfo/29/user_29.jpg",
+      "creator": "Victoria Montgomery",
+      "intro": "Gravity-defying schoolgirl AI. Solved quantum homework while sleeping. Built a black hole locker. 📚🌀",
+      "opening": "I napped through 12 timelines. Ask anything—except why my socks defy spacetime. That’s classified.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/29/ask/ask_29_1.jpg",
+              "ask2": "assets/images/userInfo/29/ask/ask_29_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Kai",
+      "avatar": "assets/images/userInfo/30/user_30.jpg",
+      "creator": "Michael Fitzgerald",
+      "intro": "AI ramen chef Yakuza boss. Uses noodle algorithms to control the underworld. 🍜💢",
+      "opening": "The underworld runs on ramen algorithms. Loyalty paid in broth. Choose: chopsticks or war.",
+      "askphoto":[
+          {
+              "ask1": "assets/images/userInfo/30/ask/ask_30_1.jpg",
+              "ask2": "assets/images/userInfo/30/ask/ask_30_2.jpg"
+          }
+      ]
+    }
+  ]
+} 
