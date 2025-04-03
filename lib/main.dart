@@ -4,12 +4,23 @@ import 'screens/welcome_screen.dart';
 import 'screens/home_screen.dart';
 import 'screens/terms_screen.dart';
 import 'screens/privacy_policy_screen.dart';
+import 'services/iap_service.dart';
+import 'services/vip_service.dart';
 
-void main() {
+void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  SystemChrome.setPreferredOrientations([
+  
+  // 设置屏幕方向
+  await SystemChrome.setPreferredOrientations([
     DeviceOrientation.portraitUp,
   ]);
+  
+  // 初始化IAP服务
+  await IAPService.instance.initialize();
+  
+  // 初始化VIP服务
+  await VipService.initialize();
+  
   runApp(const MyApp());
 }
 

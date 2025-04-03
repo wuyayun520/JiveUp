@@ -98,7 +98,8 @@ class _EditCharacterScreenState extends State<EditCharacterScreen> {
           TextButton(
             onPressed: () {
               Navigator.pop(context); // 关闭对话框
-              Navigator.pop(context); // 返回上一页
+              // 返回上一页，并传递创建成功的状态
+              Navigator.pop(context, true); // 返回true表示创建成功
             },
             child: const Text(
               'OK',

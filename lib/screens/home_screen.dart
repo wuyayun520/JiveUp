@@ -1,14 +1,17 @@
+import 'dart:io';
+import 'dart:math';
 import 'package:flutter/material.dart';
 import '../models/character.dart';
 import '../models/chat_message.dart';
+import '../models/wallet.dart';  // 添加导入
 import '../services/character_service.dart';
 import '../services/storage_service.dart';
 import '../services/zhipu_service.dart';
+import '../services/quota_service.dart';
 import '../widgets/character_swiper.dart';
 import 'character_detail_screen.dart';
 import 'report_screen.dart';
 import 'edit_character_screen.dart';
-import 'dart:math';
 import 'avatar_screen.dart';
 import 'me_screen.dart';
 import 'package:flutter_animate/flutter_animate.dart';
@@ -205,12 +208,25 @@ class _HomeScreenState extends State<HomeScreen> {
     if (_selectedIndex != index) {
       // 如果用户点击了"Create"选项卡（索引为2），直接导航到EditCharacterScreen
       if (index == 2) {
-        Navigator.push(
-          context,
-          MaterialPageRoute(
-            builder: (context) => const EditCharacterScreen(),
-          ),
-        );
+        // 添加创建角色额度检查
+        QuotaService.checkAndHandleCreateCharacterQuota(context).then((hasQuota) {
+          if (hasQuota) {
+            // 有足够额度，导航到创建角色页面
+            Navigator.push<bool>(  // 修改为接收bool返回值
+              context,
+              MaterialPageRoute(
+                builder: (context) => const EditCharacterScreen(),
+              ),
+            ).then((created) {
+              // 根据返回值判断是否创建成功
+              if (created == true) {
+                // 创建成功，消耗额度
+                QuotaService.useQuota(QuotaType.createCharacter);
+              }
+            });
+          }
+          // 没有足够额度或用户取消了充值，不执行任何操作
+        });
         // 不更新selectedIndex，保持在当前选项卡
       } else {
         setState(() {
@@ -459,7 +475,7 @@ class _HomeTabState extends State<HomeTab> with SingleTickerProviderStateMixin {
   }
 
   // 发送消息方法
-  void _sendMessage(Character character, int characterIndex) {
+  void _sendMessage(Character character, int characterIndex) async {
     final messageText = _messageController.text.trim();
     if (messageText.isEmpty) return;
     
@@ -467,6 +483,13 @@ class _HomeTabState extends State<HomeTab> with SingleTickerProviderStateMixin {
     if (_blockedStatus[characterIndex] == true) {
       _showSnackBar('${character.name} is blocked. Unblock to send messages.');
       _messageController.clear();
+      return;
+    }
+
+    // 检查消息额度
+    bool hasQuota = await QuotaService.checkAndHandleMessageQuota(context);
+    if (!hasQuota) {
+      // 用户没有足够额度或取消了充值
       return;
     }
 
@@ -500,6 +523,9 @@ class _HomeTabState extends State<HomeTab> with SingleTickerProviderStateMixin {
       _scrollToBottom();
     });
     
+    // 消耗消息额度
+    await QuotaService.useQuota(QuotaType.message);
+    
     // 调用智谱AI获取回复
     _chatHandler.handleUserMessage(messageText).then((aiResponse) {
       if (mounted) {
@@ -532,11 +558,18 @@ class _HomeTabState extends State<HomeTab> with SingleTickerProviderStateMixin {
   }
 
   // 请求照片方法
-  void _askPhoto(Character character, int characterIndex) {
+  void _askPhoto(Character character, int characterIndex) async {
     try {
       // 检查是否被拉黑
       if (_blockedStatus[characterIndex] == true) {
         _showSnackBar('${character.name} is blocked. Unblock to ask for photos.');
+        return;
+      }
+      
+      // 检查请求照片额度
+      bool hasQuota = await QuotaService.checkAndHandleAskPhotoQuota(context);
+      if (!hasQuota) {
+        // 用户没有足够额度或取消了充值
         return;
       }
     
@@ -563,6 +596,9 @@ class _HomeTabState extends State<HomeTab> with SingleTickerProviderStateMixin {
         _showSnackBar('No valid photo found');
         return;
       }
+      
+      // 消耗请求照片额度
+      await QuotaService.useQuota(QuotaType.askPhoto);
       
       setState(() {
         // 确保每个角色有自己的消息列表
@@ -692,7 +728,27 @@ class _HomeTabState extends State<HomeTab> with SingleTickerProviderStateMixin {
               PageView.builder(
                 controller: _pageController,
                 itemCount: characters.length,
-                onPageChanged: (index) {
+                onPageChanged: (index) async {  // 修改为async
+                  // 当前页面索引变化且向后滑动时检查额度
+                  if (index > _currentCharacterIndex) {
+                    // 检查主页查看额度
+                    bool hasQuota = await QuotaService.checkAndHandleHomePageViewQuota(context);
+                    if (!hasQuota) {
+                      // 用户没有足够额度或取消了充值，回到原来页面
+                      if (_pageController.hasClients) {
+                        _pageController.animateToPage(
+                          _currentCharacterIndex,
+                          duration: const Duration(milliseconds: 300),
+                          curve: Curves.easeInOut,
+                        );
+                      }
+                      return;
+                    }
+                    
+                    // 消耗主页查看额度
+                    await QuotaService.useQuota(QuotaType.homePageViews);
+                  }
+                  
                   setState(() {
                     _currentCharacterIndex = index;
                   });

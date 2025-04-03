@@ -4,9 +4,12 @@ import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:path_provider/path_provider.dart';
+import '../services/vip_service.dart'; // 导入VIP服务
 import 'about_screen.dart';
 import 'terms_screen.dart';
 import 'privacy_policy_screen.dart';
+import 'wallet_screen.dart';
+import 'vip_screen.dart';
 
 class MeScreen extends StatefulWidget {
   const MeScreen({super.key});
@@ -107,6 +110,23 @@ class _MeScreenState extends State<MeScreen> {
 
   // 打开编辑对话框
   Future<void> _showEditDialog() async {
+    // 检查是否为VIP会员
+    bool canContinue = await VipService.checkVipFeatureAccess(
+      context,
+      featureName: 'Profile editing',
+      onShowSubscription: () {
+        Navigator.push(
+          context,
+          MaterialPageRoute(builder: (context) => const VipScreen()),
+        );
+      },
+    );
+    
+    if (!canContinue) {
+      // 不是VIP会员，不显示编辑对话框
+      return;
+    }
+    
     final TextEditingController nameController = TextEditingController(text: _userName);
     // 创建一个临时变量用于对话框内的状态管理
     String? tempAvatarPath = _userAvatarPath;
@@ -462,6 +482,29 @@ class _MeScreenState extends State<MeScreen> {
             ),
 
             // 菜单选项
+            _buildMenuOption(
+              icon: Icons.account_balance_wallet,
+              title: 'Wallet',
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => const WalletScreen()),
+                );
+              },
+            ),
+            
+            _buildMenuOption(
+              icon: Icons.diamond,
+              title: 'VIP',
+              onTap: () {
+                // 导航到VIP页面
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => const VipScreen()),
+                );
+              },
+            ),
+            
             _buildMenuOption(
               icon: Icons.info,
               title: 'About us',

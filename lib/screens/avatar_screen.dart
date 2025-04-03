@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import '../models/character.dart';
 import '../services/character_service.dart';
+import '../services/vip_service.dart'; // 导入VIP服务
 import 'dart:math';
 import 'home_screen.dart'; // 添加这个导入
+import 'vip_screen.dart'; // 导入VIP页面
 
 class AvatarScreen extends StatefulWidget {
   const AvatarScreen({super.key});
@@ -245,8 +247,30 @@ class _AvatarScreenState extends State<AvatarScreen> {
         });
       },
       // 拖动结束
-      onHorizontalDragEnd: (details) {
+      onHorizontalDragEnd: (details) async {
         if (_dragOffset.abs() >= 100) {
+          // 检查是否为VIP会员
+          bool canContinue = await VipService.checkVipFeatureAccess(
+            context,
+            featureName: 'Avatar browsing',
+            onShowSubscription: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => const VipScreen()),
+              );
+            },
+          );
+          
+          if (!canContinue) {
+            // 不是VIP会员，重置拖动状态
+            setState(() {
+              _dragOffset = 0;
+              _isDragging = false;
+            });
+            return;
+          }
+          
+          // 是VIP会员，继续处理滑动
           // 足够的拖动距离触发动作
           if (_dragOffset < 0) {
             // 向左滑动 -> 喜欢
