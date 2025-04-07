@@ -43,6 +43,7 @@ dependencies:
   audio_session: ^0.1.18
   in_app_purchase: ^3.2.1
   in_app_purchase_storekit: ^0.3.21
+  url_launcher: ^6.3.1
 
 dev_dependencies:
   flutter_test:

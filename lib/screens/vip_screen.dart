@@ -6,6 +6,7 @@ import '../services/iap_service.dart';
 import '../services/vip_service.dart';
 import '../models/wallet.dart' show QuotaType;
 import 'dart:async';
+import 'package:url_launcher/url_launcher.dart';
 
 class VipScreen extends StatefulWidget {
   const VipScreen({Key? key}) : super(key: key);
@@ -851,6 +852,54 @@ class _VipScreenState extends State<VipScreen> {
                         ),
                         textAlign: TextAlign.center,
                       ),
+                      const SizedBox(height: 8),
+                      Text(
+                        'By subscribing, you agree to our End-User License Agreement (EULA) and Privacy Policy.',
+                        style: TextStyle(
+                          fontSize: 11,
+                          color: Colors.grey.shade600,
+                          height: 1.5,
+                        ),
+                        textAlign: TextAlign.center,
+                      ),
+                      const SizedBox(height: 12),
+                      // 必须添加使用条款和隐私政策链接
+                      Row(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          InkWell(
+                            onTap: () {
+                              // 打开EULA URL
+                              debugPrint('打开EULA');
+                              _launchURL('https://www.apple.com/legal/internet-services/itunes/dev/stdeula');
+                            },
+                            child: Text(
+                              'EULA',
+                              style: TextStyle(
+                                fontSize: 11,
+                                color: const Color(0xFF4A90E2),
+                                decoration: TextDecoration.underline,
+                              ),
+                            ),
+                          ),
+                          const SizedBox(width: 20),
+                          InkWell(
+                            onTap: () {
+                              // 打开隐私政策URL
+                              debugPrint('打开隐私政策');
+                              _launchURL('https://sites.google.com/view/jiveup-privacy-policy/home');
+                            },
+                            child: Text(
+                              'Privacy Policy',
+                              style: TextStyle(
+                                fontSize: 11,
+                                color: const Color(0xFF4A90E2),
+                                decoration: TextDecoration.underline,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
                     ],
                   ),
                 ),
@@ -1088,6 +1137,13 @@ class _VipScreenState extends State<VipScreen> {
         
         _showSnackBar('Failed to restore: ${e.toString()}');
       }
+    }
+  }
+
+  void _launchURL(String url) async {
+    final Uri uri = Uri.parse(url);
+    if (!await launchUrl(uri)) {
+      debugPrint('无法打开URL: $url');
     }
   }
 } 
