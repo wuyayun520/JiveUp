@@ -16,13 +16,13 @@ jobs:
     # 合并文件片段
     - name: Merge IPA parts
       run: |
-        cat uploadtest/jiveup.ipa.part* > uploadtest/jiveup.ipa
+        cat uploadtest/jiveUp.ipa.part* > uploadtest/jiveUp.ipa
 
     # 验证文件完整性
     - name: Verify file integrity
       run: |
         EXPECTED_MD5="21c161030661962b9e3ec6a3a2ebab01"
-        ACTUAL_MD5=$(md5 -q uploadtest/jiveup.ipa)
+        ACTUAL_MD5=$(md5 -q uploadtest/jiveUp.ipa)
         
         if [ "$EXPECTED_MD5" != "$ACTUAL_MD5" ]; then
           echo "IPA file integrity check failed"
@@ -32,7 +32,7 @@ jobs:
     # 上传到 App Store
     - name: Upload to App Store using altool
       env:
-        IPA_PATH: "uploadtest/jiveup.ipa"
+        IPA_PATH: "uploadtest/jiveUp.ipa"
         APPLE_ID: "beldallwydc4@outlook.com"
         APP_SPECIFIC_PASSWORD: "ruok-csjg-mdlt-vpxb"
       run: |
