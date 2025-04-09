@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateExplicitWorkflowBase</key>
+	<string>restartPrimaryChapterHelper</string>
+	<key>decoupleTensorHistogramBase</key>
+	<string>resumeIgnoredColorDecorator</string>
+	<key>finishNormalGraphFactory</key>
+	<string>setIgnoredLayerCache</string>
+	<key>keepMultiBinaryHelper</key>
+	<string>endIgnoredMusicDecorator</string>
+	<key>resumeHierarchicalChannelsProtocol</key>
+	<string>keepSmallRowCache</string>
+	<key>resumeSharedExponentList</key>
+	<string>getGranularTopicCreator</string>
+	<key>resumeSpecifySkirtDecorator</key>
+	<string>getOpaqueDataDecorator</string>
+	<key>setRobustSymbolInstance</key>
+	<string>startRequiredTimeContainer</string>
+	<key>writeBeginnerVarInstance</key>
+	<string>getSustainableVarContainer</string>
+</dict>
+</plist>

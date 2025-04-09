@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getProtectedVariableCache</key>
+	<string>markPermanentTempleReference</string>
+	<key>keepTensorSpecifierCache</key>
+	<string>makeRequiredBufferImplement</string>
+	<key>locateActivatedStatusImplement</key>
+	<string>getDiscardedRowDecorator</string>
+	<key>prepareConcreteVariableHandler</key>
+	<string>keepLocalCompositionDecorator</string>
+	<key>resumeGreatScalabilityDecorator</key>
+	<string>continueIntermediateAssetHandler</string>
+	<key>setMainFlagsTarget</key>
+	<string>initializeNormalTopHandler</string>
+	<key>setSeamlessValueFactory</key>
+	<string>cleanIndependentInterfaceReference</string>
+	<key>setUnactivatedScaleGroup</key>
+	<string>getDedicatedGemBase</string>
+</dict>
+</plist>

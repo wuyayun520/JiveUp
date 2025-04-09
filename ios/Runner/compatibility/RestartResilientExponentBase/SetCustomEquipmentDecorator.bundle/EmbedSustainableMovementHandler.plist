@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exitRelationalCapacityHandler</key>
+	<string>resizeSemanticFrameFactory</string>
+	<key>getCustomizedEvolutionType</key>
+	<string>getStandaloneVideoFactory</string>
+	<key>prepareSubsequentRotationList</key>
+	<string>dissociateConsultativeNameCreator</string>
+	<key>setAccessibleLayerObserver</key>
+	<string>continueSubsequentSoundDelegate</string>
+</dict>
+</plist>

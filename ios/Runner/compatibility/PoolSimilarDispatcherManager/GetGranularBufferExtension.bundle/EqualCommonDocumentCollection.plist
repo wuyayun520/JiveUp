@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getUnsortedLeftDelegate</key>
+	<string>skipSimilarNameHelper</string>
+	<key>keepCartesianMultiplicationDelegate</key>
+	<string>rotateHyperbolicIntensityManager</string>
+	<key>restoreTensorLeftStack</key>
+	<string>getDifficultConstantList</string>
+	<key>setAccessibleVariableDecorator</key>
+	<string>skipMainBufferDecorator</string>
+	<key>setDirectBinaryProtocol</key>
+	<string>getConcurrentNumberImplement</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustSynchronousSpriteProtocol</key>
+	<string>setFirstIntensityBase</string>
+	<key>cancelAsynchronousParamImplement</key>
+	<string>setSynchronousEvaluationExtension</string>
+	<key>combineImmutableVectorFactory</key>
+	<string>getSubstantialCoordObserver</string>
+	<key>setEasyChecklistManager</key>
+	<string>updateSustainableNumberArray</string>
+	<key>setSubsequentActionReference</key>
+	<string>stopBeginnerImagePool</string>
+	<key>setSynchronousOptimizerList</key>
+	<string>initializeEuclideanButtonBase</string>
+	<key>startUnsortedTopDecorator</key>
+	<string>setCommonQuaternionObserver</string>
+</dict>
+</plist>

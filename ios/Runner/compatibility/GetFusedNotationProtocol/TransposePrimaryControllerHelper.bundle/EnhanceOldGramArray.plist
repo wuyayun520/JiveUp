@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelCustomizedFeatureCollection</key>
+	<string>limitIntermediateEqualizationType</string>
+	<key>continuePrevPopupDecorator</key>
+	<string>getImmutableFlagsFactory</string>
+	<key>finishGeometricMetricsDelegate</key>
+	<string>setCartesianDepthOwner</string>
+	<key>getCurrentQueueContainer</key>
+	<string>compareStaticMaterialFactory</string>
+	<key>restoreDirectSliderList</key>
+	<string>stopOpaqueMenuPool</string>
+	<key>retainPrevPositionType</key>
+	<string>cleanMediumDataExtension</string>
+</dict>
+</plist>

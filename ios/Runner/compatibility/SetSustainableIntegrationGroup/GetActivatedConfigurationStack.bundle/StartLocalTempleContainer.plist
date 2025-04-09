@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelAccessibleSpriteCache</key>
+	<string>setAccessibleSkewYContainer</string>
+	<key>cancelDedicatedEquivalentExtension</key>
+	<string>getGeometricParameterObserver</string>
+	<key>getExplicitTaxonomyObserver</key>
+	<string>releaseExplicitEdgeTarget</string>
+	<key>getIntuitiveStyleContainer</key>
+	<string>getProtectedOriginCollection</string>
+	<key>markEnabledTopicGroup</key>
+	<string>clearCurrentTopContainer</string>
+	<key>respondSynchronousCapacitiesArray</key>
+	<string>stopUniqueLayerFactory</string>
+</dict>
+</plist>

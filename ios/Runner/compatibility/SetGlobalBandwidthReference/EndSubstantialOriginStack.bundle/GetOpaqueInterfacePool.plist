@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getActivatedAllocatorFactory</key>
+	<string>getEnabledBufferType</string>
+	<key>initializeMissedPolyfillTarget</key>
+	<string>syncSimilarBoundDecorator</string>
+	<key>initializeSymmetricNumberExtension</key>
+	<string>removeSeamlessRowAdapter</string>
+	<key>restartNormalTopInstance</key>
+	<string>locateIntuitiveRightImplement</string>
+	<key>setBackwardEdgePool</key>
+	<string>cancelUniformMenuGroup</string>
+	<key>setHierarchicalPolygonCreator</key>
+	<string>initializeSubsequentSizeObserver</string>
+	<key>setUsedVariantType</key>
+	<string>requestSymmetricVarArray</string>
+</dict>
+</plist>

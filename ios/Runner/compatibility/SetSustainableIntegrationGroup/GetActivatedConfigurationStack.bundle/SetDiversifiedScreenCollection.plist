@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getNewestHashCreator</key>
+	<string>setIntermediateVarBase</string>
+	<key>initializeMissedAssetInstance</key>
+	<string>setImmutableProgressBarPool</string>
+	<key>pauseSynchronousGraphicAdapter</key>
+	<string>executeConcurrentColorBase</string>
+	<key>restartEphemeralMetadataFilter</key>
+	<string>pauseIndependentLeftHandler</string>
+	<key>setLostParameterHelper</key>
+	<string>setLiteParamHandler</string>
+	<key>skipReusableParameterExtension</key>
+	<string>optimizeSeamlessVarReference</string>
+	<key>startDenseParticleDecorator</key>
+	<string>stopDirectConfigurationContainer</string>
+	<key>transposePrevColorHandler</key>
+	<string>appendDiversifiedObserverContainer</string>
+</dict>
+</plist>

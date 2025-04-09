@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateNormalSessionOwner</key>
+	<string>limitRetainedFragmentCreator</string>
+	<key>endGreatHeadGroup</key>
+	<string>quantizerBackwardFrameHandler</string>
+	<key>multiplyIntermediateSliderObserver</key>
+	<string>finishSpecifyBaselineDecorator</string>
+	<key>rectifySynchronousBufferArray</key>
+	<string>setConcurrentGridPool</string>
+	<key>setAccessiblePaddingArray</key>
+	<string>initializePriorChecklistReference</string>
+	<key>shearAgileZoneFilter</key>
+	<string>setMutablePositionObserver</string>
+</dict>
+</plist>

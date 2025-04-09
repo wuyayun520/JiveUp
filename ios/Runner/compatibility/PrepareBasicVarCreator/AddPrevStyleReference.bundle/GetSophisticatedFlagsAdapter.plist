@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendRequiredQueueAdapter</key>
+	<string>getUnsortedInitiatorsCollection</string>
+	<key>cancelTypicalDeliveryCreator</key>
+	<string>keepGlobalStyleDelegate</string>
+	<key>getKeySizeInstance</key>
+	<string>keepConcurrentStyleBase</string>
+	<key>getRequiredAxisProtocol</key>
+	<string>allocateGeometricElementHandler</string>
+	<key>initializeIgnoredScaleContainer</key>
+	<string>calculateIgnoredNumberHelper</string>
+	<key>setCriticalPopupList</key>
+	<string>getLiteNodeArray</string>
+	<key>stopMissedScaleInstance</key>
+	<string>endAccessibleRendererManager</string>
+	<key>stopOpaqueLossOwner</key>
+	<string>setLostColorHandler</string>
+</dict>
+</plist>

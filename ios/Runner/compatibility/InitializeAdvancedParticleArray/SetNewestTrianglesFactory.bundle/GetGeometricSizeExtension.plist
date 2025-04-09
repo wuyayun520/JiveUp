@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearDifficultOpacityStack</key>
+	<string>unlockFirstFlagsObserver</string>
+	<key>createSemanticVarDecorator</key>
+	<string>fillCommonBoundDecorator</string>
+	<key>extendDeclarativeRowDecorator</key>
+	<string>discoverReusableValueHelper</string>
+	<key>getMediumTextAdapter</key>
+	<string>startSemanticTraversalCache</string>
+	<key>pauseCrudeUtilFactory</key>
+	<string>startSpecifyBatchDecorator</string>
+	<key>reconcileIndependentIndexGroup</key>
+	<string>showIterativeParameterStack</string>
+	<key>resumeSecondVarCache</key>
+	<string>escalateTensorNumberOwner</string>
+	<key>syncSingleGrainFactory</key>
+	<string>escalateCrudeTextureHelper</string>
+</dict>
+</plist>

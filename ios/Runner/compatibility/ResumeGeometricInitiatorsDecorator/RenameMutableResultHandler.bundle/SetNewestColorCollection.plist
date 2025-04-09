@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extendAssociatedValueStack</key>
+	<string>getStaticNodeContainer</string>
+	<key>extendFusedVisibleDecorator</key>
+	<string>initializeHardVisibleTarget</string>
+	<key>getLocalBufferImplement</key>
+	<string>mitigateIgnoredNormStack</string>
+	<key>getSpecifyBoundList</key>
+	<string>setOriginalBorderManager</string>
+	<key>getStaticNameOwner</key>
+	<string>trainIterativeValueTarget</string>
+	<key>removeLastVectorObserver</key>
+	<string>keepMissedClusterImplement</string>
+	<key>resizePriorElasticityCache</key>
+	<string>augmentDedicatedBufferList</string>
+	<key>stopRapidModuleContainer</key>
+	<string>resumeResilientVariableCreator</string>
+	<key>trainPrimaryQueueCache</key>
+	<string>getFirstOptionFilter</string>
+</dict>
+</plist>

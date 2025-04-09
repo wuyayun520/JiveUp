@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getMainEntropyFilter</key>
+	<string>trainDenseBottomContainer</string>
+	<key>locateGranularReplicaFactory</key>
+	<string>spinCurrentVisibleList</string>
+	<key>quantizerSecondVideoObserver</key>
+	<string>setSubsequentNumberOwner</string>
+	<key>setMultiButtonCreator</key>
+	<string>getDifficultIndexDelegate</string>
+	<key>setPermanentVariableFactory</key>
+	<string>adjustAccessibleVariableAdapter</string>
+	<key>trainDisplayableQueueAdapter</key>
+	<string>setDiversifiedOpacityObserver</string>
+</dict>
+</plist>

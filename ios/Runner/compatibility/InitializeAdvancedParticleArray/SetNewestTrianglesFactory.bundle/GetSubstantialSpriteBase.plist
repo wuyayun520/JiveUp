@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getAdvancedParamPool</key>
+	<string>setMediumDialogsInstance</string>
+	<key>getDifficultObjectReference</key>
+	<string>endNormalParamArray</string>
+	<key>initializeTypicalBatchHelper</key>
+	<string>skipUniqueSkewXGroup</string>
+	<key>makeSimilarMeshList</key>
+	<string>quantizationRetainedViewList</string>
+	<key>setFusedScreenTarget</key>
+	<string>setOpaqueParamGroup</string>
+</dict>
+</plist>

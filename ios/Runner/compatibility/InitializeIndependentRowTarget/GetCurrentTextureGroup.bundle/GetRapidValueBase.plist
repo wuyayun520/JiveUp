@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDedicatedScenarioType</key>
+	<string>setSpecifyBorderHelper</string>
+	<key>restartActivatedThresholdGroup</key>
+	<string>trainMediumValuePool</string>
+	<key>stopDeclarativeParamHandler</key>
+	<string>keepBasicSineDelegate</string>
+	<key>trainSmallTextureCreator</key>
+	<string>setKeyNumberExtension</string>
+</dict>
+</plist>

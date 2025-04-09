@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enumerateStandaloneGraphFilter</key>
+	<string>cancelSignificantSkewXStack</string>
+	<key>getBeginnerPreviewCollection</key>
+	<string>resumeCrudeNumberCollection</string>
+	<key>getHardZoneGroup</key>
+	<string>setIntermediateResultList</string>
+	<key>stopDiscardedEdgeCreator</key>
+	<string>skipIterativeEffectDelegate</string>
+	<key>visitSubtleParamDelegate</key>
+	<string>compareDiversifiedTagFilter</string>
+</dict>
+</plist>

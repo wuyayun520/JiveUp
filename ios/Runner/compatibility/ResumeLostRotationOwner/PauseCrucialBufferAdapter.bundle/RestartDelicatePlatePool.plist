@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueActivatedImagePool</key>
+	<string>keepCommonBoxCache</string>
+	<key>displayLargeDepthGroup</key>
+	<string>getMissedUsageTarget</string>
+	<key>drawCrudeSegmentContainer</key>
+	<string>setSubtleNumberObserver</string>
+	<key>finishNumericalActionReference</key>
+	<string>pauseLiteDispatcherGroup</string>
+	<key>getStandaloneIndexFactory</key>
+	<string>setDiscardedVarAdapter</string>
+	<key>poolCrudeGrainList</key>
+	<string>resetLargeBoxHandler</string>
+	<key>setBeginnerKernelCollection</key>
+	<string>resumeUnactivatedNumberCreator</string>
+	<key>setSemanticParamHelper</key>
+	<string>finishEnabledPermutationObserver</string>
+	<key>stopSimilarUnaryCollection</key>
+	<string>stopNextTailTarget</string>
+</dict>
+</plist>

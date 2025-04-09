@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropoutCartesianCycleHelper</key>
+	<string>trainGlobalVariablePool</string>
+	<key>floatCurrentContractionCreator</key>
+	<string>continueStaticChartAdapter</string>
+	<key>getCommonZoneHelper</key>
+	<string>continueResilientOriginCreator</string>
+	<key>getConcreteGroupCache</key>
+	<string>setOriginalHeadReference</string>
+	<key>getNextSizeHandler</key>
+	<string>animateUsedTextureManager</string>
+	<key>initializePrimaryHashAdapter</key>
+	<string>setUniformRectObserver</string>
+	<key>makePrimaryBorderContainer</key>
+	<string>getSeamlessSceneCollection</string>
+	<key>setAutoIntensityObserver</key>
+	<string>cancelRapidResultTarget</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelDirectChartFactory</key>
+	<string>setIntermediateUtilInstance</string>
+	<key>cancelDirectlyPreviewBase</key>
+	<string>skipMainLeftFilter</string>
+	<key>getLocalLogStack</key>
+	<string>streamlineActivatedSkewXInstance</string>
+	<key>initializeOtherZoneList</key>
+	<string>holdBasicTagGroup</string>
+	<key>restartTensorVarCreator</key>
+	<string>setUniqueControllerImplement</string>
+	<key>setCrucialTextManager</key>
+	<string>restartRespectiveReductionDecorator</string>
+	<key>setDiversifiedParamBase</key>
+	<string>getProtectedSliderReference</string>
+</dict>
+</plist>

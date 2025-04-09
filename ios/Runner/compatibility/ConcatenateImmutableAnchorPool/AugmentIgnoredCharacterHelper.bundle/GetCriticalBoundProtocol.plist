@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropoutUsedComponentGroup</key>
+	<string>generateRetainedHeadCache</string>
+	<key>getMutableAspectManager</key>
+	<string>getArithmeticUtilFilter</string>
+	<key>pushIntermediateAudioBase</key>
+	<string>refreshResilientSkewYHelper</string>
+	<key>rectifySmartNumberDelegate</key>
+	<string>getRequiredCenterContainer</string>
+	<key>setMediumElasticityManager</key>
+	<string>eraseCriticalLossFilter</string>
+	<key>setSemanticResourceCollection</key>
+	<string>setPermanentBoundAdapter</string>
+</dict>
+</plist>

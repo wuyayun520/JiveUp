@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueLocalMasterFactory</key>
+	<string>setFusedVarInstance</string>
+	<key>getEphemeralNameImplement</key>
+	<string>lockStandaloneBoundHelper</string>
+	<key>getPermanentConfidentialityType</key>
+	<string>skipDenseBufferReference</string>
+	<key>restartSustainableNumberOwner</key>
+	<string>prepareGlobalFeatureProtocol</string>
+	<key>restoreMediocreVariableCollection</key>
+	<string>dropoutPivotalLoaderDecorator</string>
+	<key>setAsynchronousRotationPool</key>
+	<string>getPrimaryBufferObserver</string>
+</dict>
+</plist>

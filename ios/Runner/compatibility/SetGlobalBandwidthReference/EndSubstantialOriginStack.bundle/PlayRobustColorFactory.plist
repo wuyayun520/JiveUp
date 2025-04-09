@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getEphemeralHeroFilter</key>
+	<string>prepareExplicitFrameFilter</string>
+	<key>initializeDisplayableOperationCache</key>
+	<string>unlockMultiRowList</string>
+	<key>setProtectedEffectTarget</key>
+	<string>getSubtleIntegerType</string>
+	<key>updateSimilarOriginReference</key>
+	<string>cancelGranularTaskCreator</string>
+</dict>
+</plist>

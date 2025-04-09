@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateLostLatencyTarget</key>
+	<string>getFusedTaskTarget</string>
+	<key>floatBasicAxisAdapter</key>
+	<string>pauseMediumRotationOwner</string>
+	<key>getHierarchicalStrokeContainer</key>
+	<string>skipOriginalPetBase</string>
+	<key>initializeCrucialEffectManager</key>
+	<string>poolDisparateTitleArray</string>
+	<key>keepPrimaryNodeInstance</key>
+	<string>obtainReusableResultHandler</string>
+	<key>pauseAssociatedEfficiencyFactory</key>
+	<string>getSophisticatedVariableFactory</string>
+	<key>startMediumSkewXDelegate</key>
+	<string>getHyperbolicTopicContainer</string>
+	<key>startUnsortedNumberContainer</key>
+	<string>getAccordionScalabilityType</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>findElasticMenuReference</key>
+	<string>setConcreteSizeReference</string>
+	<key>initializeExplicitLoopReference</key>
+	<string>getUniformEfficiencyType</string>
+	<key>resetAsynchronousPolygonFilter</key>
+	<string>prepareCrucialInformationManager</string>
+	<key>restartLargeCubeProtocol</key>
+	<string>getStaticFlagsHelper</string>
+	<key>setCrucialDescriptionBase</key>
+	<string>setSubsequentLayoutFactory</string>
+	<key>setFirstCharacteristicProtocol</key>
+	<string>initializeLiteMissionList</string>
+</dict>
+</plist>

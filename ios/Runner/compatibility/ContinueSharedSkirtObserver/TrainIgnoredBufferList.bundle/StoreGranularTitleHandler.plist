@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addOldGraphCollection</key>
+	<string>setOldUtilManager</string>
+	<key>adjustFusedBufferManager</key>
+	<string>getOldImageReference</string>
+	<key>cancelIndependentIndexStack</key>
+	<string>getCartesianSpineAdapter</string>
+	<key>endDelicateTagType</key>
+	<string>setRequiredInfrastructureFilter</string>
+	<key>getKeyParameterCollection</key>
+	<string>initializeStandaloneBorderPool</string>
+	<key>getSecondSegmentInstance</key>
+	<string>cancelExplicitBorderCollection</string>
+	<key>keepOpaqueSpriteCreator</key>
+	<string>displaySubtleLayerDecorator</string>
+	<key>setSharedTempleOwner</key>
+	<string>startSingleTextureImplement</string>
+	<key>stopArithmeticTopicType</key>
+	<string>startLocalTitleFactory</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelImmutableBufferImplement</key>
+	<string>upgradeDirectlyBorderCollection</string>
+	<key>cleanUnsortedProvisionOwner</key>
+	<string>visitPriorRightType</string>
+	<key>discoverGlobalVariableStack</key>
+	<string>setGeometricParamCache</string>
+	<key>executeRobustParameterReference</key>
+	<string>pauseStaticResolverManager</string>
+	<key>offsetRespectiveDistinctionManager</key>
+	<string>restartRequiredModuleObserver</string>
+	<key>restartEphemeralMetricsDelegate</key>
+	<string>setHyperbolicHeapObserver</string>
+	<key>setGlobalBaselineFilter</key>
+	<string>aggregateFusedOccasionPool</string>
+	<key>skipCustomMetadataTarget</key>
+	<string>poolExplicitTextureFilter</string>
+	<key>writeStandaloneUnaryGroup</key>
+	<string>getOldResultList</string>
+</dict>
+</plist>

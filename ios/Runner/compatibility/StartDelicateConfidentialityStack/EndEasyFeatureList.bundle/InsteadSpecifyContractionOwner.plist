@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkPrismaticChapterImplement</key>
+	<string>setRetainedSkinReference</string>
+	<key>detachAsynchronousFlagsStack</key>
+	<string>resumePublicScopeDelegate</string>
+	<key>pauseSignificantEdgeObserver</key>
+	<string>scheduleIndependentAssetCreator</string>
+	<key>removeStaticTempleType</key>
+	<string>setUniqueSpecifierFilter</string>
+	<key>skipGranularVariablePool</key>
+	<string>scheduleTypicalTempleProtocol</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endDirectSpriteManager</key>
+	<string>getActivatedVarProtocol</string>
+	<key>endOldFeatureType</key>
+	<string>cancelNextResultList</string>
+	<key>initializeSecondTempleInstance</key>
+	<string>setDiscardedToolTarget</string>
+	<key>setCartesianEfficiencyInstance</key>
+	<string>getMutableTangentBase</string>
+	<key>setDeclarativeSizeContainer</key>
+	<string>limitNewestBufferObserver</string>
+	<key>startSemanticBottomExtension</key>
+	<string>continueSmallVariableManager</string>
+</dict>
+</plist>

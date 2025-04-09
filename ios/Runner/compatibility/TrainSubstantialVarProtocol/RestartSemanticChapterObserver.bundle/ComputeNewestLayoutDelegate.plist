@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendRetainedChartFilter</key>
+	<string>setOldValueContainer</string>
+	<key>endComprehensiveAudioInstance</key>
+	<string>getOriginalSymbolFilter</string>
+	<key>enhanceSubsequentCaptionCreator</key>
+	<string>getFirstCoordExtension</string>
+	<key>getReusableRightCache</key>
+	<string>keepSemanticParamOwner</string>
+	<key>getSmallCapacitiesCollection</key>
+	<string>trainAutoPopupReference</string>
+	<key>initializePrevCompositionBase</key>
+	<string>getPrevNodeFactory</string>
+	<key>makeIterativeBandwidthOwner</key>
+	<string>stopAccessibleLeftType</string>
+	<key>setDenseParamType</key>
+	<string>exitOldVariableType</string>
+	<key>stopResilientHeadDelegate</key>
+	<string>getDifficultVarReference</string>
+</dict>
+</plist>

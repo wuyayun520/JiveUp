@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fillPrimaryDescriptionImplement</key>
+	<string>setPermissiveChapterFilter</string>
+	<key>getElasticProfileManager</key>
+	<string>setCriticalRowFactory</string>
+	<key>retainIgnoredVideoList</key>
+	<string>getSmartTopicProtocol</string>
+	<key>searchBasicVisibleReference</key>
+	<string>continueMultiColorFilter</string>
+	<key>setDiscardedValueImplement</key>
+	<string>generateSeamlessPositionHandler</string>
+	<key>setPrimaryRotationObserver</key>
+	<string>skipAccordionScaleArray</string>
+	<key>skipOldBufferBase</key>
+	<string>skipLargeTitleReference</string>
+	<key>skipUniqueOperationExtension</key>
+	<string>compareMediocreSkewXDelegate</string>
+</dict>
+</plist>

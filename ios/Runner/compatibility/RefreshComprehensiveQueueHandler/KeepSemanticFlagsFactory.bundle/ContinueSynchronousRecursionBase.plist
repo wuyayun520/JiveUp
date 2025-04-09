@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateStaticEdgeManager</key>
+	<string>resizeDedicatedClusterHandler</string>
+	<key>getIterativeSliderFactory</key>
+	<string>getSingleVariableAdapter</string>
+	<key>getRapidBitrateType</key>
+	<string>setRetainedIntegerManager</string>
+	<key>pauseEuclideanQueueCache</key>
+	<string>getIntermediateReplicaCache</string>
+	<key>resumeConcurrentOpacityFactory</key>
+	<string>differentiateOldCatalystCreator</string>
+	<key>setRequiredSpineProtocol</key>
+	<string>cancelAsynchronousToleranceCache</string>
+	<key>startFirstReliabilityArray</key>
+	<string>setBasicParameterPool</string>
+	<key>trainDiscardedIndexDelegate</key>
+	<string>continueMainBoxHelper</string>
+</dict>
+</plist>

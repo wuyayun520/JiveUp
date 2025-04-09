@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipLargeGateCreator</key>
+	<string>skipIterativePointCollection</string>
+	<key>finishSustainableVarFilter</key>
+	<string>getLargeParticleCache</string>
+	<key>getMainDialogsGroup</key>
+	<string>skipBasicMechanismGroup</string>
+	<key>getResilientStyleManager</key>
+	<string>writeNormalTagFilter</string>
+	<key>makeIterativeApertureExtension</key>
+	<string>setSymmetricHistogramHandler</string>
+	<key>releasePriorChannelsProtocol</key>
+	<string>conformGeometricEquivalentContainer</string>
+	<key>schedulePublicVariableDelegate</key>
+	<string>clipDenseViewStack</string>
+</dict>
+</plist>

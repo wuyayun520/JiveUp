@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateStandaloneItemInstance</key>
+	<string>syncNextSampleInstance</string>
+	<key>getArithmeticZoneHelper</key>
+	<string>prepareArithmeticParamReference</string>
+	<key>restartTypicalDepthInstance</key>
+	<string>readOldCursorList</string>
+	<key>startSymmetricVectorExtension</key>
+	<string>cancelSecondValueHandler</string>
+	<key>streamlineSingleTopPool</key>
+	<string>getSpecifyBufferExtension</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pauseSynchronousEdgeCreator</key>
+	<string>upgradeOtherStrokeGroup</string>
+	<key>rotateStaticViewDelegate</key>
+	<string>setPrevBorderBase</string>
+	<key>setIntuitiveMaterialObserver</key>
+	<string>getIndependentViewProtocol</string>
+	<key>trainAccordionParameterDecorator</key>
+	<string>getRetainedParameterInstance</string>
+</dict>
+</plist>

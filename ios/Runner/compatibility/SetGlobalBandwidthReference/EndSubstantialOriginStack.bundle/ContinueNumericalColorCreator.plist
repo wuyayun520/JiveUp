@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertLocalSegmentHandler</key>
+	<string>stopStaticVideoPool</string>
+	<key>exitCartesianLoopStack</key>
+	<string>setEuclideanScenePool</string>
+	<key>setMissedBufferCreator</key>
+	<string>getAccessibleDetailDelegate</string>
+	<key>setPrevChartHandler</key>
+	<string>keepSortedPlaybackCreator</string>
+	<key>skipRespectiveValuePool</key>
+	<string>resumeAccessibleAccessoryInstance</string>
+	<key>visitHierarchicalTraversalDecorator</key>
+	<string>escalateRequiredBufferAdapter</string>
+</dict>
+</plist>

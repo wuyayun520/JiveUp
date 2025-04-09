@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endSingleTextureImplement</key>
+	<string>getAdvancedNumberAdapter</string>
+	<key>getCriticalModelCreator</key>
+	<string>getAccordionChecklistExtension</string>
+	<key>getCustomizedBufferFilter</key>
+	<string>readSemanticQuaternionCreator</string>
+	<key>getLastDeliveryDelegate</key>
+	<string>resumeSemanticGridDecorator</string>
+	<key>keepCrudeCoordType</key>
+	<string>lockDenseVariableCreator</string>
+	<key>replaceMissedDepthReference</key>
+	<string>setMissedLayerStack</string>
+	<key>resizeStandaloneRecursionDecorator</key>
+	<string>reconcileNewestRowHelper</string>
+	<key>resumeEasySegmentTarget</key>
+	<string>restartElasticValueInstance</string>
+	<key>setRobustColorFilter</key>
+	<string>generateEphemeralHeroArray</string>
+	<key>trainLastLoaderArray</key>
+	<string>differentiateSpecifyTagDelegate</string>
+</dict>
+</plist>

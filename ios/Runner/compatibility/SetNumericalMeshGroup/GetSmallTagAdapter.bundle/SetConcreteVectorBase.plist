@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendMultiModelFactory</key>
+	<string>moveLastChartExtension</string>
+	<key>holdNewestMenuPool</key>
+	<string>setTensorVariablePool</string>
+	<key>initializeMainNumberImplement</key>
+	<string>parseEuclideanVarTarget</string>
+	<key>pauseHardLoopDecorator</key>
+	<string>resumeNormalResultFilter</string>
+	<key>resumeHyperbolicParticleInstance</key>
+	<string>getDisplayableBinaryPool</string>
+	<key>setArithmeticParameterBase</key>
+	<string>respondLocalValueHelper</string>
+	<key>setEasyInstructionGroup</key>
+	<string>trainPrevRectProtocol</string>
+	<key>stopConcreteAssetObserver</key>
+	<string>destroyPrevVarHandler</string>
+</dict>
+</plist>

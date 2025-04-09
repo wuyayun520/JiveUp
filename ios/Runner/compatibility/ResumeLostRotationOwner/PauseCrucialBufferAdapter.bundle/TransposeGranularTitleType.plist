@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustLiteHeadManager</key>
+	<string>setSortedMetadataType</string>
+	<key>associateIntuitiveSceneCollection</key>
+	<string>setNumericalEffectExtension</string>
+	<key>getSortedRightList</key>
+	<string>insteadSemanticConfigurationHandler</string>
+	<key>restartPermanentBoundTarget</key>
+	<string>eraseActivatedChannelsObserver</string>
+	<key>resumeCurrentHeroExtension</key>
+	<string>skipDirectStyleHandler</string>
+	<key>setBackwardTitleObserver</key>
+	<string>skipMultiSizeHelper</string>
+	<key>setConcretePopupArray</key>
+	<string>getDifficultDataArray</string>
+</dict>
+</plist>

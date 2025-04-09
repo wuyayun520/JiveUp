@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeFusedIndexAdapter</key>
+	<string>setLargeNumberBase</string>
+	<key>analyzeGreatVarReference</key>
+	<string>setHierarchicalShapeCreator</string>
+	<key>associateBasicOriginType</key>
+	<string>shearPrismaticTrianglesReference</string>
+	<key>getCurrentOperationPool</key>
+	<string>setConcreteValueFactory</string>
+	<key>getElasticControllerFactory</key>
+	<string>combineMissedSchedulerObserver</string>
+	<key>introspectEphemeralVarList</key>
+	<string>pauseCustomizedTagDecorator</string>
+	<key>pausePivotalBrushStack</key>
+	<string>stopIterativeParamProtocol</string>
+	<key>restartMediumParamHandler</key>
+	<string>setSustainableRightObserver</string>
+	<key>resumeDisparateVisibleFactory</key>
+	<string>removeGreatVarFactory</string>
+	<key>setBeginnerElementCollection</key>
+	<string>restartPrimaryFeatureContainer</string>
+</dict>
+</plist>

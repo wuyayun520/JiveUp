@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getRobustPolygonPool</key>
+	<string>setEphemeralAllocatorGroup</string>
+	<key>prepareBackwardVariableInstance</key>
+	<string>getUsedAnimationProtocol</string>
+	<key>restartDenseNumberExtension</key>
+	<string>finishSignificantTailPool</string>
+	<key>stopDenseMatrixHandler</key>
+	<string>finishCommonPlateGroup</string>
+	<key>streamlineRequiredCoordinatorTarget</key>
+	<string>setIntermediateParamOwner</string>
+	<key>trainRapidPolygonPool</key>
+	<string>pauseSymmetricEffectBase</string>
+	<key>upgradeSmallBufferCreator</key>
+	<string>respondHierarchicalFrameGroup</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getNormalParameterHandler</key>
+	<string>initializeMissedConstantStack</string>
+	<key>getPermissivePositionGroup</key>
+	<string>getMediumInstructionArray</string>
+	<key>removePermanentTempleDecorator</key>
+	<string>executeTypicalSceneContainer</string>
+	<key>restartOriginalDocumentStack</key>
+	<string>getGranularVariableDelegate</string>
+	<key>setPrevColorPool</key>
+	<string>continueLiteProfileExtension</string>
+	<key>streamlineStaticChartPool</key>
+	<string>cancelProtectedTempleDecorator</string>
+	<key>upgradeSharedBufferOwner</key>
+	<string>finishGlobalPlateList</string>
+</dict>
+</plist>

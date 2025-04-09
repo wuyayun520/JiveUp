@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discoverArithmeticCoordAdapter</key>
+	<string>setCommonEvaluationReference</string>
+	<key>floatCrucialVariableList</key>
+	<string>renameLostTailBase</string>
+	<key>prepareLostFragmentsStack</key>
+	<string>pauseExplicitLogDelegate</string>
+	<key>setEnabledPopupAdapter</key>
+	<string>computeUniqueRightHandler</string>
+	<key>startGreatLabelDelegate</key>
+	<string>setCriticalSizeCreator</string>
+	<key>wrapPublicParameterHandler</key>
+	<string>startCrucialButtonStack</string>
+</dict>
+</plist>

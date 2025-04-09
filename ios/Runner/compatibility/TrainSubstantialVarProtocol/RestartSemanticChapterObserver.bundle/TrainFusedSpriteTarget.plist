@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getLastViewAdapter</key>
+	<string>setAsynchronousSpriteDecorator</string>
+	<key>reconcilePermanentPopupReference</key>
+	<string>stopDiscardedGridStack</string>
+	<key>setNormalVectorList</key>
+	<string>playMultiBandwidthPool</string>
+	<key>skipPermanentBufferContainer</key>
+	<string>getSeamlessDurationContainer</string>
+	<key>trainLocalElementReference</key>
+	<string>setSynchronousValueCache</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addDedicatedRightType</key>
+	<string>getDisplayableZoneCollection</string>
+	<key>getEphemeralValueImplement</key>
+	<string>initializeGranularPetCollection</string>
+	<key>getImmutableBufferType</key>
+	<string>retainLargeKernelBase</string>
+	<key>rectifyGreatPositionReference</key>
+	<string>endSubtleVarCache</string>
+	<key>setAssociatedStyleBase</key>
+	<string>revisitCommonRectangleCollection</string>
+	<key>skipSimilarLatencyFactory</key>
+	<string>trainSemanticVarOwner</string>
+</dict>
+</plist>

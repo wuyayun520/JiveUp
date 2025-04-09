@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustCommonBufferGroup</key>
+	<string>setCurrentInterfaceManager</string>
+	<key>getEnabledStyleManager</key>
+	<string>setCommonVariablePool</string>
+	<key>getKeyTopInstance</key>
+	<string>analyzeGranularDepthList</string>
+	<key>getMutableTopObserver</key>
+	<string>prepareExplicitParameterProtocol</string>
+	<key>getPivotalFlagsArray</key>
+	<string>setSmallVariableHelper</string>
+	<key>getPrimarySkewXStack</key>
+	<string>rotateRapidQueueCreator</string>
+	<key>getSophisticatedIntensityBase</key>
+	<string>differentiateRobustSchedulerAdapter</string>
+	<key>pauseSeamlessNameProtocol</key>
+	<string>keepMediocreParticleCollection</string>
+	<key>pauseSimilarVariableBase</key>
+	<string>animatePrismaticNameCache</string>
+	<key>rotateAssociatedVarCollection</key>
+	<string>endOtherParameterType</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getIntuitiveOriginFilter</key>
+	<string>setBeginnerTitleFilter</string>
+	<key>getNewestBehaviorProtocol</key>
+	<string>getDiscardedNumberCache</string>
+	<key>locateStandaloneContrastList</key>
+	<string>resumeEnabledEdgeTarget</string>
+	<key>pauseLargeFormatInstance</key>
+	<string>setImmutableResolverList</string>
+	<key>skipUnactivatedMetadataManager</key>
+	<string>freeElasticValueHelper</string>
+</dict>
+</plist>

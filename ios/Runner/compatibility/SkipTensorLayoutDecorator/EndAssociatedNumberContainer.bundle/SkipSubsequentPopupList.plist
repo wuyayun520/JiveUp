@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endNormalNumberDelegate</key>
+	<string>getOtherDocumentGroup</string>
+	<key>getMediumPopupTarget</key>
+	<string>setSynchronousParamAdapter</string>
+	<key>keepPublicCursorFactory</key>
+	<string>setAgileTailCollection</string>
+	<key>navigateEasyReplicaGroup</key>
+	<string>readRespectiveConfigurationGroup</string>
+	<key>setEnabledVariableContainer</key>
+	<string>pauseFirstModelFilter</string>
+	<key>setSemanticViewCache</key>
+	<string>startGranularSchemaFilter</string>
+	<key>setSynchronousElementTarget</key>
+	<string>enumerateDenseValueProtocol</string>
+	<key>setUniformInfoFilter</key>
+	<string>setPrevEqualizationGroup</string>
+	<key>startSynchronousBufferFactory</key>
+	<string>checkUniformModuleExtension</string>
+</dict>
+</plist>

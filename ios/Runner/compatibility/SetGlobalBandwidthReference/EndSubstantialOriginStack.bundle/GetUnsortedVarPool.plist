@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueOpaqueConsumptionArray</key>
+	<string>animateAssociatedBoundGroup</string>
+	<key>endSemanticVariableManager</key>
+	<string>getReusableGrainCache</string>
+	<key>getRespectiveEdgeCache</key>
+	<string>getExplicitZoneManager</string>
+	<key>getSortedNameHandler</key>
+	<string>equalSpecifyMetricsImplement</string>
+	<key>keepSmartBottomOwner</key>
+	<string>stopMainLayerPool</string>
+	<key>setCommonParameterDecorator</key>
+	<string>startDeclarativeMetricsArray</string>
+	<key>setLocalUtilStack</key>
+	<string>cancelEuclideanSampleFactory</string>
+	<key>unlockDisparateTextPool</key>
+	<string>equalEphemeralParamHelper</string>
+</dict>
+</plist>

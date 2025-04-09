@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getConcreteGraphImplement</key>
+	<string>setDiscardedEdgeHandler</string>
+	<key>keepEphemeralLabelBase</key>
+	<string>setIgnoredLoopTarget</string>
+	<key>playFusedChartHelper</key>
+	<string>getRetainedOpacityList</string>
+	<key>skipUniqueBorderType</key>
+	<string>cancelNormalVariableType</string>
+</dict>
+</plist>

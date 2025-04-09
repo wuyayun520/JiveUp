@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawSubstantialAspectArray</key>
+	<string>cancelSecondSpritePool</string>
+	<key>prepareGeometricEventHandler</key>
+	<string>keepNewestProgressBarCache</string>
+	<key>restartSpecifyCenterDecorator</key>
+	<string>getSeamlessGroupOwner</string>
+	<key>setHardVarReference</key>
+	<string>keepRetainedLatencyDecorator</string>
+	<key>setRespectiveReferenceAdapter</key>
+	<string>setEnabledAscentAdapter</string>
+	<key>skipUniqueSceneOwner</key>
+	<string>readRapidTimelineStack</string>
+</dict>
+</plist>

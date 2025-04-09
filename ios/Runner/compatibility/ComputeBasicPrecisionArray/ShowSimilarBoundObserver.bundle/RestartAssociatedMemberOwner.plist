@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getPrevParamFactory</key>
+	<string>pauseDenseZoneDecorator</string>
+	<key>provideDelicateIndexCache</key>
+	<string>searchDiversifiedNodeTarget</string>
+	<key>resumeAutoBorderHelper</key>
+	<string>getOldComponentDelegate</string>
+	<key>resumeSynchronousCenterHelper</key>
+	<string>continueConcurrentSymbolDelegate</string>
+</dict>
+</plist>

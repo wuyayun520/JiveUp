@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decoupleIndependentTextureFactory</key>
+	<string>stopSubsequentProgressBarBase</string>
+	<key>detachSharedVariableStack</key>
+	<string>getLiteVariableDecorator</string>
+	<key>getAssociatedQueueOwner</key>
+	<string>restartRespectiveGraphList</string>
+	<key>getGranularOpacityDelegate</key>
+	<string>resumeNumericalVariableContainer</string>
+	<key>getLargeFlagsAdapter</key>
+	<string>setPriorTentativeAdapter</string>
+	<key>searchGlobalElementOwner</key>
+	<string>skipSingleVariableProtocol</string>
+	<key>setStandaloneVertexBase</key>
+	<string>adjustTensorStyleDecorator</string>
+	<key>showConcurrentConfigurationStack</key>
+	<string>provideIgnoredZoneType</string>
+	<key>skipIgnoredPointDelegate</key>
+	<string>limitEnabledEffectInstance</string>
+	<key>stopLostSymbolObserver</key>
+	<string>prepareIgnoredImageHelper</string>
+</dict>
+</plist>

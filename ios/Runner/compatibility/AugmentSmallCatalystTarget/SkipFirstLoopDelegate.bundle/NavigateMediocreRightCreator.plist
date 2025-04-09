@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateTypicalAscentBase</key>
+	<string>prepareDirectVariantInstance</string>
+	<key>cancelConsultativeVarImplement</key>
+	<string>retainNextCycleList</string>
+	<key>removeAssociatedResultStack</key>
+	<string>setDiscardedQueueImplement</string>
+	<key>setBackwardBufferAdapter</key>
+	<string>createUniqueTextReference</string>
+	<key>setCartesianNumberReference</key>
+	<string>poolNextParameterInstance</string>
+	<key>setSharedVariableExtension</key>
+	<string>cancelIterativeRightList</string>
+</dict>
+</plist>

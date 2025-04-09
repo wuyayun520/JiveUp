@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeSophisticatedGrainPool</key>
+	<string>restartExplicitDispatcherAdapter</string>
+	<key>clipDenseConfigurationPool</key>
+	<string>dropoutGranularProgressBarHelper</string>
+	<key>getRequiredParameterTarget</key>
+	<string>retrieveGlobalSymbolOwner</string>
+	<key>restoreLastParameterAdapter</key>
+	<string>cancelAssociatedInterpolationList</string>
+	<key>setMissedStylePool</key>
+	<string>pauseIndependentOpacityAdapter</string>
+	<key>startUniqueTexturePool</key>
+	<string>setSpecifyAssetOwner</string>
+</dict>
+</plist>

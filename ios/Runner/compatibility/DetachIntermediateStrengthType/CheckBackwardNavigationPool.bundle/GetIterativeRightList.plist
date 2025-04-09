@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endFusedSymbolObserver</key>
+	<string>prepareStaticRowProtocol</string>
+	<key>getActivatedResolverFactory</key>
+	<string>getNewestUnaryHandler</string>
+	<key>resumeCriticalVisibleProtocol</key>
+	<string>searchRapidScenePool</string>
+	<key>setAsynchronousAxisFactory</key>
+	<string>pauseSymmetricSizeList</string>
+	<key>setDenseProjectionCollection</key>
+	<string>getEphemeralOperationHelper</string>
+	<key>setDiscardedTrianglesHandler</key>
+	<string>getExplicitAspectPool</string>
+</dict>
+</plist>

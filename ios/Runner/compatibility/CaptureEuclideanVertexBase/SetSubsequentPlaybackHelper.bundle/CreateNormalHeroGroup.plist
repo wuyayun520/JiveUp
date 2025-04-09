@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keepDirectOriginArray</key>
+	<string>getPrimaryBufferStack</string>
+	<key>setDirectFlagsAdapter</key>
+	<string>endProtectedHeapStack</string>
+	<key>setNormalAllocatorHandler</key>
+	<string>generateLastDepthTarget</string>
+	<key>setUnactivatedInterfaceManager</key>
+	<string>initializeDisplayableNumberTarget</string>
+	<key>shearCriticalVarPool</key>
+	<string>appendFirstVectorManager</string>
+</dict>
+</plist>

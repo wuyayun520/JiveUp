@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipPublicDimensionCreator</key>
+	<string>setEnabledBufferProtocol</string>
+	<key>finishAssociatedColorManager</key>
+	<string>stopOtherDialogsProtocol</string>
+	<key>limitDifficultShaderHandler</key>
+	<string>keepSeamlessFlagsAdapter</string>
+	<key>pushDisparateDepthDecorator</key>
+	<string>dismissAssociatedParticleArray</string>
+	<key>resetEuclideanPlateAdapter</key>
+	<string>restartNextOptimizerExtension</string>
+	<key>setAutoLoaderFactory</key>
+	<string>replaceCommonBorderFilter</string>
+	<key>setBasicParameterExtension</key>
+	<string>restartDiversifiedOpacityObserver</string>
+</dict>
+</plist>

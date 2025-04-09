@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelIterativeChartBase</key>
+	<string>obtainReusableBaselineCreator</string>
+	<key>cancelProtectedRemediationCreator</key>
+	<string>cancelBackwardMobileCreator</string>
+	<key>continueKeyReferenceType</key>
+	<string>getAccessibleTextureFactory</string>
+	<key>getAccessibleNameProtocol</key>
+	<string>getSmartImageOwner</string>
+	<key>mitigateDirectlyStrengthProtocol</key>
+	<string>restartDeclarativePreviewFactory</string>
+	<key>storeBeginnerVariantFactory</key>
+	<string>setSingleOpacityImplement</string>
+	<key>upgradeTypicalParameterContainer</key>
+	<string>getExplicitEqualizationCollection</string>
+</dict>
+</plist>

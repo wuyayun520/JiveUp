@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getConsultativeIntensityFilter</key>
+	<string>continueSubsequentMissionTarget</string>
+	<key>initializeCommonModelExtension</key>
+	<string>setSemanticParameterDelegate</string>
+	<key>keepHyperbolicBottomCache</key>
+	<string>trainSubsequentPointProtocol</string>
+	<key>prepareRespectiveFlagsContainer</key>
+	<string>retrieveMutableUnaryBase</string>
+	<key>startHierarchicalDescentArray</key>
+	<string>provideMediumUsageFactory</string>
+	<key>trainRelationalParameterGroup</key>
+	<string>prepareImmutableLayoutGroup</string>
+</dict>
+</plist>

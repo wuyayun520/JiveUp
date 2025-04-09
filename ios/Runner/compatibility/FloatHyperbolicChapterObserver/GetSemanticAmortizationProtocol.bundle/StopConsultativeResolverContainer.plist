@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateEasyEvaluationBase</key>
+	<string>poolRetainedVariableGroup</string>
+	<key>encapsulateSymmetricLabelStack</key>
+	<string>setConcurrentBufferBase</string>
+	<key>getLostLatencyTarget</key>
+	<string>setPublicVarCollection</string>
+	<key>keepOpaqueQueueGroup</key>
+	<string>setAccessibleNodeDecorator</string>
+	<key>restartFusedBufferObserver</key>
+	<string>addRapidBufferProtocol</string>
+	<key>resumeProtectedSkewYPool</key>
+	<string>setDelicateShapeProtocol</string>
+	<key>setEnabledScaleDelegate</key>
+	<string>continueUnsortedMemberGroup</string>
+	<key>setGreatConfigurationTarget</key>
+	<string>setTensorKernelFilter</string>
+	<key>startUniformTechniqueInstance</key>
+	<string>endResilientVarBase</string>
+</dict>
+</plist>

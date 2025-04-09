@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertMutableProfileDelegate</key>
+	<string>getKeyVariableCreator</string>
+	<key>finishDifficultEffectAdapter</key>
+	<string>getSmallScaleCreator</string>
+	<key>getUnactivatedScaleArray</key>
+	<string>getSortedDepthCreator</string>
+	<key>getUsedVariableProtocol</key>
+	<string>clipOtherThresholdContainer</string>
+	<key>preparePermissivePopupContainer</key>
+	<string>getDisplayableValueBase</string>
+	<key>respondCrudeViewArray</key>
+	<string>convertPermanentVariableCache</string>
+	<key>setConcurrentBoundExtension</key>
+	<string>pauseGeometricGraphicTarget</string>
+	<key>stopConsultativeColorOwner</key>
+	<string>optimizeSmartBrushReference</string>
+</dict>
+</plist>

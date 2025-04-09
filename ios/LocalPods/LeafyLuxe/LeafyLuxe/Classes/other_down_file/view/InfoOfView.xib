@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="InfoOfView">
+            <connections>
+                <outlet property="callButton" destination="HaF-aa-eF6" id="hr6-SK-3IN"/>
+                <outlet property="permissionButton" destination="yf1-Gd-wCj" id="jIi-Cc-M4H"/>
+                <outlet property="collectionAboutImageView" destination="c9R-yb-JGf" id="xKC-pC-eg5"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="DqL-51-sZ1" hidden="YES" autoresizesSubviews="NO">
+            <rect key="frame" x="0.0" y="0.0" width="589.8" height="129.2"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="jri-SS-WmL" alignment="bottom">
+                    <rect key="frame" x="1" y="-6" width="545.3" height="116.4"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="topRight" horizontalHuggingPriority="251" verticalHuggingPriority="750" horizontalCompressionResistancePriority="251" image="1242-2208" highlightedImage="1242-2688" translatesAutoresizingMaskIntoConstraints="NO" id="c9R-yb-JGf" autoresizesSubviews="NO" highlighted="YES">
+                            <rect key="frame" x="-4.7" y="-3.7" width="175.1" height="116.4"/>
+                        </imageView>
+                        <button contentMode="left" horizontalCompressionResistancePriority="178" verticalCompressionResistancePriority="208" contentHorizontalAlignment="right" contentVerticalAlignment="fill" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HaF-aa-eF6" clearsContextBeforeDrawing="NO">
+                            <rect key="frame" x="367" y="3.3" width="175.1" height="116.4"/>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" title="view" image="1242-2688">
+                                <color key="titleColor" red="0.15537268405859413" green="1" blue="0.23881680350848078" alpha="0.92617920640235488" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="selected" title="view status status online view target" image="1242-2208">
+                                <color key="titleColor" red="0.394796696" green="0.83161484770000005" blue="0.75892637900000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                        </button>
+                        <button contentMode="scaleAspectFill" horizontalHuggingPriority="1000" verticalHuggingPriority="1000" horizontalCompressionResistancePriority="1000" verticalCompressionResistancePriority="1000" contentHorizontalAlignment="leading" contentVerticalAlignment="bottom" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yf1-Gd-wCj">
+                            <rect key="frame" x="183" y="0.3" width="175.1" height="116.4"/>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" title="select play gesture for" image="1242-2688">
+                                <color key="titleColor" red="0.21756847973976547" green="0.86077553003243085" blue="0.24652906788791126" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="disabled" title="of price interval take choice" image="1242-2688">
+                                <color key="titleColor" red="0.36864602252703346" green="0.9922352862040355" blue="0.73168198473452226" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="selected" title="action cell collection show" image="1242-2208">
+                                <color key="titleColor" red="0.36292439619208064" green="0.79053835352472945" blue="0.94055033631956997" alpha="0.96118225715912337" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="highlighted" title="height can observer of" image="1242-2208">
+                                <color key="titleColor" red="0.14939211116467145" green="1" blue="0.05101399587651523" alpha="0.94142175551616616" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                        </button>
+                    </subviews>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="TsT-vs-Vmn"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="TsT-vs-Vmn" firstAttribute="trailing" secondItem="jri-SS-WmL" secondAttribute="trailing" constant="1" id="pSa-PX-NbD"/>
+                <constraint firstItem="jri-SS-WmL" firstAttribute="top" secondItem="DqL-51-sZ1" secondAttribute="top" constant="1" id="JwS-Hs-aEu"/>
+                <constraint firstAttribute="bottom" secondItem="jri-SS-WmL" secondAttribute="bottom" constant="1" id="SAQ-u1-ZHj"/>
+                <constraint firstItem="jri-SS-WmL" firstAttribute="leading" secondItem="TsT-vs-Vmn" secondAttribute="leading" constant="7" id="Eeu-ZH-tL3"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="143.60182828841866" y="-415.79093818600777"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="1242-2208" width="122.0" height="131.2"/>
+        <image name="1242-2688" width="122.0" height="131.2"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

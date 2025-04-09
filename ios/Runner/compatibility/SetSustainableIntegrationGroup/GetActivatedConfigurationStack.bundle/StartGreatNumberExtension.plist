@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformDedicatedComponentCollection</key>
+	<string>concatenateSortedFragmentFactory</string>
+	<key>continueStandaloneParticleCreator</key>
+	<string>cancelNextBufferTarget</string>
+	<key>limitSemanticInfrastructureStack</key>
+	<string>setCurrentSymbolHelper</string>
+	<key>pauseIndependentParamHelper</key>
+	<string>detachLocalChartDecorator</string>
+	<key>regulateElasticMeshList</key>
+	<string>accelerateLiteResultImplement</string>
+	<key>restoreGeometricParameterDecorator</key>
+	<string>enumerateCrucialStyleFactory</string>
+	<key>setPublicValueGroup</key>
+	<string>finishSharedScenarioInstance</string>
+	<key>setReusableNumberHelper</key>
+	<string>skipRetainedEqualizationContainer</string>
+	<key>skipGlobalEffectDelegate</key>
+	<string>startSortedGroupReference</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeEnabledIndexPool</key>
+	<string>getGranularBufferInstance</string>
+	<key>getDirectPreviewInstance</key>
+	<string>prepareSymmetricViewFactory</string>
+	<key>getRobustValueContainer</key>
+	<string>computeSubsequentConfigurationOwner</string>
+	<key>refreshSustainableColorContainer</key>
+	<string>getActivatedQueueCache</string>
+	<key>skipNormalNumberArray</key>
+	<string>setGranularDistinctionArray</string>
+	<key>trainSustainableIntegrationInstance</key>
+	<string>keepLastFeatureOwner</string>
+</dict>
+</plist>

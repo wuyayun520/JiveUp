@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishIntermediateButtonBase</key>
+	<string>executeAsynchronousTitleReference</string>
+	<key>initializeAsynchronousTitleObserver</key>
+	<string>updateStandaloneInstructionInstance</string>
+	<key>initializeProtectedProgressBarPool</key>
+	<string>restoreSpecifyConvolutionHelper</string>
+	<key>keepMultiMetadataOwner</key>
+	<string>unscheduleSingleCurveFactory</string>
+	<key>retrieveUniqueTempleAdapter</key>
+	<string>prepareDeclarativeTempleBase</string>
+	<key>setPermanentQuaternionImplement</key>
+	<string>trainMediumMaterialBase</string>
+	<key>setSimilarColorBase</key>
+	<string>encapsulateTensorLeftStack</string>
+	<key>startHyperbolicCertificateDecorator</key>
+	<string>endConcurrentDeliveryCache</string>
+</dict>
+</plist>

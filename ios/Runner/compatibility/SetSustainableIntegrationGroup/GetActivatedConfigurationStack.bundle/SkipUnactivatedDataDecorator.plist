@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearAutoHeapObserver</key>
+	<string>stopUnsortedVariableFilter</string>
+	<key>cloneCrucialChapterObserver</key>
+	<string>getSecondDepthCollection</string>
+	<key>getMediocreDurationBase</key>
+	<string>revisitCurrentResultDelegate</string>
+	<key>setAccordionChapterCache</key>
+	<string>cancelFusedGrayscaleObserver</string>
+</dict>
+</plist>

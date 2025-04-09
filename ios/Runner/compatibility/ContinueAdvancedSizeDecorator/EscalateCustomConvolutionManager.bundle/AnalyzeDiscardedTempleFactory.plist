@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getSharedStyleManager</key>
+	<string>conformDiscardedIndexOwner</string>
+	<key>prepareDelicateLoopInstance</key>
+	<string>removeOldDescriptionArray</string>
+	<key>respondHardEvaluationFilter</key>
+	<string>endLargeTailManager</string>
+	<key>setSustainableValueHandler</key>
+	<string>cancelImmutableNumberFilter</string>
+</dict>
+</plist>

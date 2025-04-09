@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelCustomRotationCollection</key>
+	<string>getKeyTailObserver</string>
+	<key>initializeUsedCaptionFactory</key>
+	<string>getPermissiveGrainDelegate</string>
+	<key>setAssociatedParamHelper</key>
+	<string>restoreAgileScalabilityDecorator</string>
+	<key>setBackwardRangeOwner</key>
+	<string>startAdvancedParamFilter</string>
+	<key>setSymmetricParticleTarget</key>
+	<string>setDenseTagTarget</string>
+	<key>skipRobustTextureHandler</key>
+	<string>setDelicateIntegrationOwner</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeEuclideanCatalystDelegate</key>
+	<string>continueSortedMeshDecorator</string>
+	<key>getGlobalVariableObserver</key>
+	<string>getSymmetricColorCollection</string>
+	<key>keepDirectSkewYObserver</key>
+	<string>resumeStaticRoleCreator</string>
+	<key>setBackwardNameFactory</key>
+	<string>generateSynchronousColorCreator</string>
+	<key>setMutableEdgeGroup</key>
+	<string>createSmartOperationImplement</string>
+	<key>setSecondObjectExtension</key>
+	<string>restoreSynchronousExponentDecorator</string>
+	<key>setUniformColorOwner</key>
+	<string>cleanCustomHashExtension</string>
+</dict>
+</plist>

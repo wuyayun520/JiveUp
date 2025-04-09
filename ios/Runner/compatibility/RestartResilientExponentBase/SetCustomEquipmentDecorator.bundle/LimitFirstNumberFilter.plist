@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustDisparateBufferCreator</key>
+	<string>setBasicCursorFactory</string>
+	<key>finishAsynchronousTailManager</key>
+	<string>getSortedSchedulerObserver</string>
+	<key>navigateEnabledImpressionPool</key>
+	<string>setDiversifiedCacheAdapter</string>
+	<key>pauseReusableBorderInstance</key>
+	<string>resetCustomQuaternionInstance</string>
+	<key>retainBackwardDepthImplement</key>
+	<string>dissociateSortedMetadataInstance</string>
+	<key>setComprehensiveStyleOwner</key>
+	<string>setFusedPositionCreator</string>
+	<key>stopExplicitVariableOwner</key>
+	<string>trainConcurrentMomentumHelper</string>
+</dict>
+</plist>

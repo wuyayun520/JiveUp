@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishEnabledModulusFactory</key>
+	<string>setStandaloneTailContainer</string>
+	<key>generatePermissiveOpacityObserver</key>
+	<string>getPermanentResourceObserver</string>
+	<key>getNextResultDecorator</key>
+	<string>undertakeEnabledTempleHelper</string>
+	<key>initializeSmallRotationArray</key>
+	<string>continueNextThreadDecorator</string>
+	<key>pushStaticTempleCollection</key>
+	<string>finishDirectlyBrushCache</string>
+	<key>resumeSpecifyOperationType</key>
+	<string>setDiscardedColorDelegate</string>
+</dict>
+</plist>

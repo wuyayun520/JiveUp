@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuePermanentWorkflowAdapter</key>
+	<string>setRelationalHashHandler</string>
+	<key>finishElasticBoundCollection</key>
+	<string>setPublicInfrastructureList</string>
+	<key>getFirstVarHelper</key>
+	<string>keepPrevImageCache</string>
+	<key>getGlobalValuePool</key>
+	<string>setDiscardedMultiplicationCreator</string>
+</dict>
+</plist>

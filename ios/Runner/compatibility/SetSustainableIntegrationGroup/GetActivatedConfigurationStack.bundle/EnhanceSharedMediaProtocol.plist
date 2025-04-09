@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelDelicateVarPool</key>
+	<string>resumeTensorParticlePool</string>
+	<key>endMainFlagsOwner</key>
+	<string>restoreNewestGraphOwner</string>
+	<key>getElasticParameterContainer</key>
+	<string>enhanceAutoParameterPool</string>
+	<key>getLastCompositionFactory</key>
+	<string>resetCurrentVariableImplement</string>
+	<key>keepBeginnerCoordinatorGroup</key>
+	<string>getPublicConvolutionCache</string>
+	<key>optimizeIntermediateEdgeBase</key>
+	<string>setImmutableLayerReference</string>
+	<key>pauseBeginnerEdgeContainer</key>
+	<string>playGlobalShaderFactory</string>
+	<key>trainMutableSpriteGroup</key>
+	<string>embraceSymmetricBufferGroup</string>
+</dict>
+</plist>

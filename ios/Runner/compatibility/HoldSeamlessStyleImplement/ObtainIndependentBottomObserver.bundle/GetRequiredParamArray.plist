@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>moveGlobalOpacityCollection</key>
+	<string>skipCriticalLayerExtension</string>
+	<key>pushMissedSampleFactory</key>
+	<string>syncIntuitiveLayerFactory</string>
+	<key>restartUnsortedCurveCollection</key>
+	<string>seekArithmeticPopupGroup</string>
+	<key>setEasyNodeAdapter</key>
+	<string>setOldKernelArray</string>
+	<key>setMissedParamDelegate</key>
+	<string>pushSubsequentInformationFactory</string>
+	<key>setNextSizeList</key>
+	<string>compareSimilarTernaryType</string>
+</dict>
+</plist>

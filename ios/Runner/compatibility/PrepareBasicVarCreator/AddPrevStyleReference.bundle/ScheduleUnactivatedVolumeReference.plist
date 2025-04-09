@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureHierarchicalScaleHelper</key>
+	<string>retrieveRetainedMasterCache</string>
+	<key>getConcurrentColorImplement</key>
+	<string>continueOldValueOwner</string>
+	<key>getStandaloneVariableDelegate</key>
+	<string>getNextEdgeOwner</string>
+	<key>keepSynchronousMeshFilter</key>
+	<string>allocatePermanentFrameCollection</string>
+	<key>restartPriorPetExtension</key>
+	<string>lockCriticalFeatureImplement</string>
+	<key>setResilientMissionType</key>
+	<string>getOriginalParamContainer</string>
+	<key>setTypicalIntensityExtension</key>
+	<string>finishCustomOpacityManager</string>
+	<key>showArithmeticVariableTarget</key>
+	<string>startLiteOptimizerDelegate</string>
+</dict>
+</plist>

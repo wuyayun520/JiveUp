@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fillAssociatedNodeFactory</key>
+	<string>setCurrentIndexHandler</string>
+	<key>getComprehensiveGemManager</key>
+	<string>obtainDirectOriginPool</string>
+	<key>respondSubsequentSpotHelper</key>
+	<string>setBeginnerParamHandler</string>
+	<key>setBeginnerSkewXReference</key>
+	<string>initializeRelationalItemDecorator</string>
+	<key>setLiteSizeHelper</key>
+	<string>reconcileNumericalOccasionAdapter</string>
+	<key>skipUniformLayerCache</key>
+	<string>getNormalZoneAdapter</string>
+</dict>
+</plist>

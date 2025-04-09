@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eraseGlobalMapBase</key>
+	<string>quantizerUnsortedDescriptorHelper</string>
+	<key>getPermanentAllocatorImplement</key>
+	<string>initializeRetainedVideoContainer</string>
+	<key>getSmartReliabilityContainer</key>
+	<string>finishLocalTextType</string>
+	<key>pauseSortedHashFactory</key>
+	<string>getSortedRightFilter</string>
+	<key>pushLiteReplicaProtocol</key>
+	<string>limitCommonMatrixProtocol</string>
+	<key>restartLostTitlePool</key>
+	<string>quitSubsequentChartArray</string>
+	<key>setPivotalConvolutionExtension</key>
+	<string>continueSymmetricBorderStack</string>
+</dict>
+</plist>

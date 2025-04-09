@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>executeAssociatedSpriteArray</key>
+	<string>pauseCommonGroupTarget</string>
+	<key>getHierarchicalLayoutDecorator</key>
+	<string>prepareStandaloneLossObserver</string>
+	<key>pauseOpaqueLayoutFilter</key>
+	<string>detachTypicalTextHelper</string>
+	<key>resetCustomizedStateCache</key>
+	<string>trainCommonPreviewOwner</string>
+	<key>visitOpaqueCharacterCreator</key>
+	<string>finishDirectlyOpacityHandler</string>
+</dict>
+</plist>

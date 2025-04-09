@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateIndependentFrameCache</key>
+	<string>getReusableSubpixelStack</string>
+	<key>continueCrudeWorkflowAdapter</key>
+	<string>getDeclarativeLoopCache</string>
+	<key>endMediumChapterManager</key>
+	<string>getRapidOpacityType</string>
+	<key>getIterativeVisibleList</key>
+	<string>streamlineOtherChapterReference</string>
+</dict>
+</plist>

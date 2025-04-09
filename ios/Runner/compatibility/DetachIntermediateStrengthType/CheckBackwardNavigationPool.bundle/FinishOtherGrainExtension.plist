@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pausePermissiveDepthFactory</key>
+	<string>optimizeFusedQuaternionGroup</string>
+	<key>setEphemeralValueArray</key>
+	<string>prepareSimilarTextureReference</string>
+	<key>setTypicalThreadContainer</key>
+	<string>finishDeclarativeFramePool</string>
+	<key>stopCustomizedNumberContainer</key>
+	<string>setIterativeVisibleTarget</string>
+</dict>
+</plist>

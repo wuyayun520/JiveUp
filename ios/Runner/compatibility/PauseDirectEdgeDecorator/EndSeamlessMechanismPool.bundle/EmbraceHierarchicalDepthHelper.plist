@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishStaticVariableReference</key>
+	<string>stopIterativeResolverDelegate</string>
+	<key>getFirstViewStack</key>
+	<string>stopSingleOpacityManager</string>
+	<key>keepConcurrentExponentDelegate</key>
+	<string>continueDiversifiedScreenHelper</string>
+	<key>quantizationRobustNumberOwner</key>
+	<string>displayAutoResolverReference</string>
+	<key>setCartesianInterfaceGroup</key>
+	<string>setSimilarVarReference</string>
+</dict>
+</plist>

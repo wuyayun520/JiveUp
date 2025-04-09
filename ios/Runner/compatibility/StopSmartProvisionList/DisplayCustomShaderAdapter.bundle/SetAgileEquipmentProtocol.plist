@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeSortedTempleBase</key>
+	<string>cancelFusedAscentManager</string>
+	<key>checkPrevDetailOwner</key>
+	<string>cancelRapidPlaybackHelper</string>
+	<key>continueNormalListenerAdapter</key>
+	<string>respondAccordionCoordCache</string>
+	<key>equalHyperbolicSpineExtension</key>
+	<string>checkCartesianQueueProtocol</string>
+	<key>getNextElasticityStack</key>
+	<string>setReusableStrengthFilter</string>
+	<key>trainTensorBufferCreator</key>
+	<string>trainBasicParamContainer</string>
+</dict>
+</plist>

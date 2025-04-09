@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endSmartNotationAdapter</key>
+	<string>setAutoIntensityContainer</string>
+	<key>keepPrimarySliderAdapter</key>
+	<string>destroyStandaloneAscentManager</string>
+	<key>skipMissedRecursionOwner</key>
+	<string>skipElasticSkewYStack</string>
+	<key>trainDirectlySkewYReference</key>
+	<string>setEuclideanFeatureInstance</string>
+</dict>
+</plist>

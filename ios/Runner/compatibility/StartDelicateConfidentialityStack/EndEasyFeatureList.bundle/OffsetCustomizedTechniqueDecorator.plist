@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentCrudeSkewXAdapter</key>
+	<string>markDisparateSceneGroup</string>
+	<key>getCartesianResultPool</key>
+	<string>initializeGeometricVariableFilter</string>
+	<key>getCommonViewCollection</key>
+	<string>trainEnabledFormatArray</string>
+	<key>getCurrentCenterCache</key>
+	<string>pauseRobustIntegrityExtension</string>
+	<key>getDisplayableCoordFilter</key>
+	<string>getNewestMatrixImplement</string>
+	<key>removeConcurrentScalePool</key>
+	<string>rectifyMediumDimensionContainer</string>
+	<key>respondCurrentCenterTarget</key>
+	<string>cancelIgnoredBorderReference</string>
+	<key>setNextBufferExtension</key>
+	<string>dismissLostNumberContainer</string>
+	<key>setRetainedSymbolReference</key>
+	<string>transposeIndependentThroughputBase</string>
+	<key>syncSubtleVariableHelper</key>
+	<string>getFusedStyleCreator</string>
+</dict>
+</plist>

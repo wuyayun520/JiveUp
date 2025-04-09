@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endSingleVarDecorator</key>
+	<string>requestKeyShaderProtocol</string>
+	<key>getDiscardedOriginTarget</key>
+	<string>prepareUsedElementList</string>
+	<key>retrieveAccessibleDescriptionPool</key>
+	<string>revisitNewestNameDelegate</string>
+	<key>setCustomOccasionStack</key>
+	<string>startSeamlessLayoutProtocol</string>
+	<key>setPublicPositionObserver</key>
+	<string>setBeginnerOpacityGroup</string>
+	<key>setTensorMovementCache</key>
+	<string>getMediumMovementObserver</string>
+	<key>trainUnactivatedGrainStack</key>
+	<string>resumeDiscardedSizeList</string>
+	<key>unlockSortedTempleDecorator</key>
+	<string>floatMultiTitleType</string>
+</dict>
+</plist>

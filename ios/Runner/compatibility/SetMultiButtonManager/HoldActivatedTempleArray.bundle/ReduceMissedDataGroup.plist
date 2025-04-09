@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawBackwardGridFactory</key>
+	<string>stopFusedGridProtocol</string>
+	<key>getDiscardedSliderInstance</key>
+	<string>getLargeSignatureDecorator</string>
+	<key>quantizerSubstantialBoundCollection</key>
+	<string>getEasyNumberHandler</string>
+	<key>requestSingleSegmentList</key>
+	<string>drawIgnoredViewList</string>
+	<key>setBeginnerHeadGroup</key>
+	<string>setNextParameterPool</string>
+	<key>setCustomOriginCollection</key>
+	<string>reduceMediumPreviewFactory</string>
+	<key>setDelicateSkewXBase</key>
+	<string>setHyperbolicBorderPool</string>
+	<key>setSubtleMediaBase</key>
+	<string>wrapUnactivatedUnaryInstance</string>
+	<key>touchLiteTextStack</key>
+	<string>setRapidSpriteProtocol</string>
+</dict>
+</plist>

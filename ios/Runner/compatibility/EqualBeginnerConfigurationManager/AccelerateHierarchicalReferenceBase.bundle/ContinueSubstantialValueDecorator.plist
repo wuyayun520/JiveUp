@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachSynchronousVariableAdapter</key>
+	<string>retainNextLoaderProtocol</string>
+	<key>getCustomParameterList</key>
+	<string>storeSharedIntensityArray</string>
+	<key>getLostLayerHelper</key>
+	<string>pushAdvancedBufferProtocol</string>
+	<key>stopMissedCertificateType</key>
+	<string>unlockOpaqueHeapBase</string>
+	<key>upgradeConsultativeParamProtocol</key>
+	<string>restartSecondNumberReference</string>
+</dict>
+</plist>

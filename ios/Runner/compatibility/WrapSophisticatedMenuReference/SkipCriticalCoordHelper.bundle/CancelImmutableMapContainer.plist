@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelCommonVarPool</key>
+	<string>multiplyPermanentValueArray</string>
+	<key>compareConcreteAlphaReference</key>
+	<string>reduceArithmeticVarGroup</string>
+	<key>getIgnoredRightCollection</key>
+	<string>getSubsequentSpecifierHelper</string>
+	<key>getSubstantialScaleImplement</key>
+	<string>createComprehensiveMemberType</string>
+	<key>keepStaticBufferPool</key>
+	<string>keepAutoBoxCreator</string>
+	<key>poolRetainedBufferPool</key>
+	<string>finishSignificantComponentAdapter</string>
+	<key>setMainTempleDelegate</key>
+	<string>startIntuitiveSignType</string>
+</dict>
+</plist>

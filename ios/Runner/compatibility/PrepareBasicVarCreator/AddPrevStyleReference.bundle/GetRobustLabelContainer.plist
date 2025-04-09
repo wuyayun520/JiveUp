@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>findSeamlessParameterOwner</key>
+	<string>floatIterativeCoordinatorHandler</string>
+	<key>getBackwardMatrixOwner</key>
+	<string>getCrudeValueObserver</string>
+	<key>getOriginalAccessoryManager</key>
+	<string>setAutoRightOwner</string>
+	<key>getStandaloneValueGroup</key>
+	<string>transposeOtherTempleAdapter</string>
+	<key>setConcurrentPermutationFilter</key>
+	<string>calculateRapidVisibleList</string>
+	<key>setSmallScopeImplement</key>
+	<string>extendPrimaryVolumeProtocol</string>
+	<key>skipSubtleInstructionCache</key>
+	<string>scheduleLostLoaderFilter</string>
+	<key>startAccordionConfigurationOwner</key>
+	<string>setEuclideanVarDecorator</string>
+</dict>
+</plist>

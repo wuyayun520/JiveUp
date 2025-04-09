@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropoutFirstLoaderOwner</key>
+	<string>getDisplayableResultExtension</string>
+	<key>initializeBackwardBufferContainer</key>
+	<string>setRelationalImpressionAdapter</string>
+	<key>prepareCommonLayerList</key>
+	<string>animateSortedValueOwner</string>
+	<key>rotateDirectlyUtilFilter</key>
+	<string>startSymmetricParameterFactory</string>
+	<key>shearDiscardedNumberTarget</key>
+	<string>finishTensorRemediationHandler</string>
+</dict>
+</plist>

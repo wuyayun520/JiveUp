@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>floatOriginalIntegrationTarget</key>
+	<string>getUniformTitleDecorator</string>
+	<key>getMultiValueFactory</key>
+	<string>associateConcurrentSymbolContainer</string>
+	<key>getOriginalParameterCreator</key>
+	<string>visitPrimaryFeatureCollection</string>
+	<key>setStaticGateManager</key>
+	<string>provideElasticInfoAdapter</string>
+</dict>
+</plist>

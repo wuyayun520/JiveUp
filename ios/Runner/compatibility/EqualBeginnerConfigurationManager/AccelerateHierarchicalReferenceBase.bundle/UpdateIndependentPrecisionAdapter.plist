@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureAgileMeshDecorator</key>
+	<string>setGlobalGraphExtension</string>
+	<key>captureTensorMetadataReference</key>
+	<string>updateOpaqueTitleProtocol</string>
+	<key>dropoutIterativeCenterImplement</key>
+	<string>skipSemanticVarTarget</string>
+	<key>embedImmutableVisibleObserver</key>
+	<string>setRapidVariablePool</string>
+	<key>moveIndependentScaleObserver</key>
+	<string>convertPublicBufferGroup</string>
+	<key>replaceDiversifiedEvaluationManager</key>
+	<string>setCrucialStyleStack</string>
+	<key>restartAsynchronousVariableDelegate</key>
+	<string>decoupleTypicalScaleCreator</string>
+	<key>setDirectlyEvaluationProtocol</key>
+	<string>finishSortedTrajectoryGroup</string>
+	<key>stopMediumConsumptionCollection</key>
+	<string>endBasicBehaviorObserver</string>
+</dict>
+</plist>

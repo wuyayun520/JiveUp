@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>divideSmallGraphicAdapter</key>
+	<string>stopStaticPlaybackCreator</string>
+	<key>introspectGlobalInterfaceManager</key>
+	<string>showProtectedResilienceHelper</string>
+	<key>prepareNormalMissionType</key>
+	<string>regulateLostGridBase</string>
+	<key>retainUniqueHashOwner</key>
+	<string>getHardBottomStack</string>
+	<key>setCommonRecursionObserver</key>
+	<string>getPrevParticleObserver</string>
+	<key>skipArithmeticBufferExtension</key>
+	<string>providePrevPetList</string>
+</dict>
+</plist>

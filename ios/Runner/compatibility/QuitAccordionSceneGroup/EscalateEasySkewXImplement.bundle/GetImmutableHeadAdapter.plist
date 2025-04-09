@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addCrucialTagDelegate</key>
+	<string>prepareIntermediateTitleHelper</string>
+	<key>continueDiscardedCatalystBase</key>
+	<string>getArithmeticValueList</string>
+	<key>enhanceDirectEdgeInstance</key>
+	<string>startPrimaryStyleArray</string>
+	<key>readHierarchicalPrecisionReference</key>
+	<string>startCommonBoundDecorator</string>
+	<key>stopCrucialParamFilter</key>
+	<string>endTypicalPaddingDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelOldPermutationContainer</key>
+	<string>cleanSubtleTweakCache</string>
+	<key>finishDisplayableOriginManager</key>
+	<string>restartStaticNavigationTarget</string>
+	<key>getCommonSkewYGroup</key>
+	<string>visitPrimarySubpixelCache</string>
+	<key>getDiscardedGateGroup</key>
+	<string>finishDifficultOptionObserver</string>
+	<key>getExplicitFragmentCache</key>
+	<string>getElasticSliderReference</string>
+	<key>setProtectedNormHandler</key>
+	<string>setKeySizeCreator</string>
+	<key>stopBasicBorderHelper</key>
+	<string>getFusedParamContainer</string>
+	<key>trainPivotalResolverHandler</key>
+	<string>finishEuclideanResultFilter</string>
+</dict>
+</plist>

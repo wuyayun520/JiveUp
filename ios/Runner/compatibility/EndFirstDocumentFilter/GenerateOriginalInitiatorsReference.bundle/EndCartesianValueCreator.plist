@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prepareUsedAspectObserver</key>
+	<string>setLostAssetReference</string>
+	<key>skipConsultativeEdgeOwner</key>
+	<string>resetPermissiveLayerCache</string>
+	<key>stopStaticLoopManager</key>
+	<string>scheduleCurrentValueImplement</string>
+	<key>visitSmartNameCreator</key>
+	<string>initializeAssociatedTempleManager</string>
+</dict>
+</plist>

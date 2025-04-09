@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentPublicDepthManager</key>
+	<string>keepPrimaryMaterialType</string>
+	<key>getMainOpacityType</key>
+	<string>setFusedParamHandler</string>
+	<key>getUniqueParamFilter</key>
+	<string>getActivatedOpacityDecorator</string>
+	<key>initializeStaticTrajectoryGroup</key>
+	<string>getGranularIntegrityFilter</string>
+	<key>setActivatedGroupObserver</key>
+	<string>retrieveAdvancedPriorityHandler</string>
+	<key>setComprehensiveStrokePool</key>
+	<string>computeDirectlySkewXList</string>
+	<key>setNumericalVisibleFilter</key>
+	<string>embraceSignificantBufferInstance</string>
+	<key>setSmallRowCollection</key>
+	<string>updateNormalGraphCache</string>
+</dict>
+</plist>

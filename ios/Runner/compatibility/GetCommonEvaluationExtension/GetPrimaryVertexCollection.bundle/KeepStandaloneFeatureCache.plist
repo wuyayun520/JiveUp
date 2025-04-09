@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>destroyMultiConfigurationReference</key>
+	<string>skipConcurrentModelProtocol</string>
+	<key>getMultiResultReference</key>
+	<string>pauseSemanticGridInstance</string>
+	<key>getPriorQuaternionReference</key>
+	<string>resumeSubtleRotationFactory</string>
+	<key>prepareFusedContrastAdapter</key>
+	<string>pauseBeginnerVariableFilter</string>
+	<key>scheduleNewestSampleReference</key>
+	<string>fillOldTimeHandler</string>
+	<key>setDisparateVariableAdapter</key>
+	<string>getMultiInitiativeTarget</string>
+</dict>
+</plist>

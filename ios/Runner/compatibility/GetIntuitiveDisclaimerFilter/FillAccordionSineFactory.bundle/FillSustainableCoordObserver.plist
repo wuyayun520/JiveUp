@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getCriticalViewProtocol</key>
+	<string>writePriorVolumeHelper</string>
+	<key>getGeometricViewManager</key>
+	<string>rectifyNewestPointInstance</string>
+	<key>obtainStaticVarFactory</key>
+	<string>getDedicatedPreviewFilter</string>
+	<key>restartKeyUsageFactory</key>
+	<string>getDeclarativeParameterImplement</string>
+	<key>seekDelicateLayoutInstance</key>
+	<string>restartDiversifiedRouteArray</string>
+	<key>setMissedVarManager</key>
+	<string>addMediocreTemplePool</string>
+	<key>trainPivotalLoaderProtocol</key>
+	<string>locateUnactivatedGraphCreator</string>
+</dict>
+</plist>

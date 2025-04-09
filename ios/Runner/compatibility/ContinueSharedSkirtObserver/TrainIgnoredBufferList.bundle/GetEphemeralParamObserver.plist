@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiplyMissedLatencyGroup</key>
+	<string>getOldListenerCache</string>
+	<key>setMultiToleranceTarget</key>
+	<string>cancelSymmetricScreenDecorator</string>
+	<key>startDenseBandwidthInstance</key>
+	<string>initializeDiversifiedVariableArray</string>
+	<key>unscheduleAssociatedBottomArray</key>
+	<string>pauseSignificantLeftFilter</string>
+</dict>
+</plist>

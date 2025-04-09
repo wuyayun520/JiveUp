@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getActivatedHeadAdapter</key>
+	<string>drawTensorViewList</string>
+	<key>getPriorEvaluationCollection</key>
+	<string>finishKeyTentativeDecorator</string>
+	<key>prepareLocalSoundBase</key>
+	<string>trainGlobalValueFactory</string>
+	<key>readSymmetricBufferExtension</key>
+	<string>getOpaqueOpacityFactory</string>
+	<key>restartPermanentFrameCreator</key>
+	<string>getEasyCoordArray</string>
+	<key>setOldSegmentFactory</key>
+	<string>seekPivotalMetricsProtocol</string>
+	<key>skipLostNumberPool</key>
+	<string>introspectCrucialMissionFilter</string>
+	<key>stopPublicMeshBase</key>
+	<string>cancelRelationalCoordObserver</string>
+</dict>
+</plist>

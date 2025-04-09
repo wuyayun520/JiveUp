@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipCartesianParamFactory</key>
+	<string>prepareAccordionScreenInstance</string>
+	<key>floatSecondNameCollection</key>
+	<string>restartEnabledGrainFactory</string>
+	<key>getAdvancedStepHelper</key>
+	<string>initializeMediumLayerOwner</string>
+	<key>getArithmeticDispatcherArray</key>
+	<string>getDisparateUnaryManager</string>
+	<key>getCriticalAnchorContainer</key>
+	<string>setSimilarActionCache</string>
+	<key>getNewestSchedulerHandler</key>
+	<string>setSemanticParameterExtension</string>
+	<key>setConcurrentNumberManager</key>
+	<string>startLastBaseStack</string>
+	<key>skipGreatAllocatorInstance</key>
+	<string>getPivotalSizeManager</string>
+	<key>trainPivotalBorderCreator</key>
+	<string>getDeclarativeImpressionFilter</string>
+	<key>trainReusableBufferTarget</key>
+	<string>divideAdvancedTextTarget</string>
+</dict>
+</plist>

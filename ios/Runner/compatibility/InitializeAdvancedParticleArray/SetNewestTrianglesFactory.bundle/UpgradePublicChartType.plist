@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enumerateSpecifyCenterFilter</key>
+	<string>getProtectedSizeCollection</string>
+	<key>generateRespectiveVisibleReference</key>
+	<string>getRetainedBufferList</string>
+	<key>getDisparateEvaluationExtension</key>
+	<string>holdRetainedStyleOwner</string>
+	<key>pauseSmartUsageProtocol</key>
+	<string>storeReusableSkewYGroup</string>
+	<key>setDisplayableStampManager</key>
+	<string>getDirectlyDescriptorGroup</string>
+	<key>setSortedElasticityArray</key>
+	<string>endAutoTextureOwner</string>
+</dict>
+</plist>

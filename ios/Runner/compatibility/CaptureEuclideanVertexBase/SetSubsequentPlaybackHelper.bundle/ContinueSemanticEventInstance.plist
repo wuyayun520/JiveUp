@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>escalateCurrentCatalystProtocol</key>
+	<string>setCommonParamList</string>
+	<key>getSemanticLatencyStack</key>
+	<string>setConcurrentValueBase</string>
+	<key>respondNextRowTarget</key>
+	<string>setRetainedMendDecorator</string>
+	<key>setGeometricGroupList</key>
+	<string>getAsynchronousReductionCreator</string>
+	<key>setNormalDescriptionTarget</key>
+	<string>releaseConcreteParamManager</string>
+	<key>trainOldScaleHandler</key>
+	<string>getDedicatedBottomCreator</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinePrevTweakBase</key>
+	<string>prepareGranularParticleDelegate</string>
+	<key>endPrimaryPopupBase</key>
+	<string>setLiteTempleImplement</string>
+	<key>equalDisplayableResourcePool</key>
+	<string>moveEnabledEquipmentCache</string>
+	<key>getElasticTempleHandler</key>
+	<string>endConsultativeBaseGroup</string>
+	<key>resumeAccessibleMechanismCreator</key>
+	<string>replaceSingleScaleHandler</string>
+	<key>setOriginalGridPool</key>
+	<string>stopIgnoredActivityHelper</string>
+	<key>setOriginalParameterDelegate</key>
+	<string>markAccordionParameterContainer</string>
+	<key>setSignificantVarDelegate</key>
+	<string>setBackwardLatencyHelper</string>
+	<key>setStaticMatrixAdapter</key>
+	<string>dropoutLargeParameterHelper</string>
+	<key>skipOpaqueNameCreator</key>
+	<string>setDelicateOpacityPool</string>
+</dict>
+</plist>

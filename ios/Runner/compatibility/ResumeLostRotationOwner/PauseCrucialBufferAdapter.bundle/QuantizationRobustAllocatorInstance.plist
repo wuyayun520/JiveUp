@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkStaticTopFactory</key>
+	<string>setOpaqueOpacityArray</string>
+	<key>getGlobalTraversalDelegate</key>
+	<string>encapsulateRespectiveParamCreator</string>
+	<key>getRobustEventDelegate</key>
+	<string>stopExplicitVarCreator</string>
+	<key>setIterativeTextStack</key>
+	<string>resumeRapidGemReference</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endPermissiveVariableObserver</key>
+	<string>cancelConcurrentOriginGroup</string>
+	<key>executeCustomNodeManager</key>
+	<string>clipReusableConfigurationExtension</string>
+	<key>getDeclarativeLayerTarget</key>
+	<string>stopAccordionValueFactory</string>
+	<key>getFusedMonsterReference</key>
+	<string>skipHyperbolicVariableHandler</string>
+	<key>introspectBasicBufferReference</key>
+	<string>analyzeCriticalMediaReference</string>
+	<key>stopIgnoredDescriptionProtocol</key>
+	<string>getSecondInformationCollection</string>
+	<key>stopIntermediateParameterProtocol</key>
+	<string>stopUsedCatalystOwner</string>
+</dict>
+</plist>

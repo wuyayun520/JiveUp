@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getIndependentBufferReference</key>
+	<string>endSubtleControllerDelegate</string>
+	<key>markUnactivatedWorkflowInstance</key>
+	<string>rotateDiscardedValueHandler</string>
+	<key>restartDisplayableRecursionOwner</key>
+	<string>associateOpaqueSoundExtension</string>
+	<key>restartUnactivatedVariableExtension</key>
+	<string>captureLiteZoneDelegate</string>
+	<key>stopSmartReductionReference</key>
+	<string>provideAccordionVectorFactory</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getHyperbolicFlagsHandler</key>
+	<string>getMutableParameterInstance</string>
+	<key>navigateNumericalBoundStack</key>
+	<string>getBasicControllerDecorator</string>
+	<key>setConcurrentValueOwner</key>
+	<string>setPriorAccessoryPool</string>
+	<key>setMainMetricsAdapter</key>
+	<string>setSmallPrecisionCreator</string>
+</dict>
+</plist>

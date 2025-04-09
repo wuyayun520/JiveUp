@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueSpecifyReductionFactory</key>
+	<string>getIndependentDescriptionHandler</string>
+	<key>differentiateSingleOriginStack</key>
+	<string>pauseUnactivatedStyleDelegate</string>
+	<key>endSmartGateFactory</key>
+	<string>getAccessibleTailReference</string>
+	<key>getSemanticBufferAdapter</key>
+	<string>setRelationalFrameFactory</string>
+	<key>makeRetainedParamDelegate</key>
+	<string>initializeLargeMomentumExtension</string>
+	<key>restartMissedNumberFactory</key>
+	<string>addSymmetricHeadDelegate</string>
+	<key>setNewestProfileImplement</key>
+	<string>stopLastBinaryObserver</string>
+	<key>streamlineGeometricModuleManager</key>
+	<string>setPermanentValueExtension</string>
+</dict>
+</plist>

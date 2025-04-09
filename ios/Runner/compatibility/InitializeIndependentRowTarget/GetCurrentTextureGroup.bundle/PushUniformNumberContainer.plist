@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismissIgnoredOriginOwner</key>
+	<string>stopOldDocumentArray</string>
+	<key>getLargeDescriptionManager</key>
+	<string>introspectMissedGrainHelper</string>
+	<key>optimizeOriginalParameterObserver</key>
+	<string>upgradePrevInitiatorsHelper</string>
+	<key>provideSimilarDocumentCollection</key>
+	<string>getAsynchronousRectangleStack</string>
+	<key>spinLargeProvisionHandler</key>
+	<string>compareMutableElasticityGroup</string>
+</dict>
+</plist>

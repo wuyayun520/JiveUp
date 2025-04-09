@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDirectHeapCreator</key>
+	<string>cancelMissedTaskCreator</string>
+	<key>getLiteResolverManager</key>
+	<string>respondSymmetricInfoImplement</string>
+	<key>refreshIgnoredResultPool</key>
+	<string>offsetAutoStylePool</string>
+	<key>resumeNumericalPositionProtocol</key>
+	<string>setIgnoredParamFilter</string>
+	<key>setDenseSizeFactory</key>
+	<string>fillSustainableCenterReference</string>
+	<key>setPriorVarArray</key>
+	<string>pauseRetainedOperationProtocol</string>
+	<key>setSortedEvolutionDelegate</key>
+	<string>storeImmutableGraphTarget</string>
+	<key>spinEasyPopupCache</key>
+	<string>finishTypicalPopupGroup</string>
+	<key>transposeMultiLeftDecorator</key>
+	<string>getEnabledTitleBase</string>
+</dict>
+</plist>

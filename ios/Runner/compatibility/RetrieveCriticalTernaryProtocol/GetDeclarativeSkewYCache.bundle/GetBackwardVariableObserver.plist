@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentPublicDepthFilter</key>
+	<string>lockCustomRotationStack</string>
+	<key>enhanceNormalEquipmentFilter</key>
+	<string>setSynchronousTagHandler</string>
+	<key>getHardPlaybackOwner</key>
+	<string>refreshIgnoredListenerList</string>
+	<key>getOtherLayerReference</key>
+	<string>setDisparateAspectOwner</string>
+	<key>quantizerNormalNavigationDelegate</key>
+	<string>continueLocalNumberAdapter</string>
+	<key>readSeamlessInfoCollection</key>
+	<string>setSubstantialBaselineHandler</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cloneBasicPlateCreator</key>
+	<string>startMutableNumberHelper</string>
+	<key>getHardParameterManager</key>
+	<string>skipUsedParamCollection</string>
+	<key>getLocalValueHandler</key>
+	<string>associateOldTailProtocol</string>
+	<key>getLostScaleObserver</key>
+	<string>getNewestEqualizationContainer</string>
+	<key>getPrismaticBufferImplement</key>
+	<string>getStaticLogOwner</string>
+	<key>getSingleCosineOwner</key>
+	<string>exitRequiredVarObserver</string>
+	<key>resumeSubsequentTopObserver</key>
+	<string>finishArithmeticOpacityCreator</string>
+	<key>stopGeometricOriginInstance</key>
+	<string>initializeSignificantChecklistStack</string>
+</dict>
+</plist>

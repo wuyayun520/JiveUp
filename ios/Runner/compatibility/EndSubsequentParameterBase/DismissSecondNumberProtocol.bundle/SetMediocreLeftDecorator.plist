@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertSemanticRotationOwner</key>
+	<string>setSignificantVariableFilter</string>
+	<key>fillPrimaryEventContainer</key>
+	<string>setUsedRowPool</string>
+	<key>getGreatAnchorAdapter</key>
+	<string>finishNumericalTaskGroup</string>
+	<key>initializeCriticalFrameStack</key>
+	<string>continueImmutableTagCreator</string>
+	<key>restartAutoHeadManager</key>
+	<string>poolAsynchronousUtilTarget</string>
+	<key>resumeLargeBufferOwner</key>
+	<string>getSingleMetadataInstance</string>
+	<key>resumeRobustValueBase</key>
+	<string>resumePriorVarCollection</string>
+	<key>stopOldVectorDecorator</key>
+	<string>writeDeclarativeBottomProtocol</string>
+	<key>touchAsynchronousProgressBarPool</key>
+	<string>setSpecifyMetadataCache</string>
+</dict>
+</plist>

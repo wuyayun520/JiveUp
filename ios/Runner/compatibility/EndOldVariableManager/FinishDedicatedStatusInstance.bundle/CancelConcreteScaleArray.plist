@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelBackwardCoordDelegate</key>
+	<string>skipNormalDisclaimerPool</string>
+	<key>convertTensorRestrictionBase</key>
+	<string>setMainAspectExtension</string>
+	<key>endCriticalElasticityAdapter</key>
+	<string>setDenseBorderDecorator</string>
+	<key>endDeclarativeDurationFilter</key>
+	<string>resumeRobustTopStack</string>
+	<key>getMissedNodeArray</key>
+	<string>replaceUnsortedTextHelper</string>
+	<key>getOpaqueBufferGroup</key>
+	<string>setSignificantArchitectureHandler</string>
+	<key>setStandaloneNotationImplement</key>
+	<string>setMissedOpacityType</string>
+</dict>
+</plist>

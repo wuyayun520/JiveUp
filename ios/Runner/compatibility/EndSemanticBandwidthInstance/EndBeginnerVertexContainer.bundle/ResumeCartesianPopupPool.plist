@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endBackwardGiftTarget</key>
+	<string>cancelResilientCoordPool</string>
+	<key>getRapidLatencyHandler</key>
+	<string>introspectUniformCatalystHelper</string>
+	<key>getSmallCubeManager</key>
+	<string>initializeDisplayableRowDecorator</string>
+	<key>restartUsedFlagsDelegate</key>
+	<string>detachAsynchronousToleranceObserver</string>
+	<key>setAdvancedTentativeStack</key>
+	<string>getMutableValueProtocol</string>
+	<key>setComprehensiveLayerTarget</key>
+	<string>associateDirectQueueArray</string>
+	<key>startBackwardLoopReference</key>
+	<string>animateSymmetricSkewXGroup</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateSharedNameHelper</key>
+	<string>skipAccessibleChapterDelegate</string>
+	<key>cancelKeyGrayscaleDelegate</key>
+	<string>trainAssociatedLoopCollection</string>
+	<key>endAssociatedGrainManager</key>
+	<string>initializeDirectlyTempleCreator</string>
+	<key>getNormalMovementHandler</key>
+	<string>getAssociatedBufferPool</string>
+	<key>prepareUnactivatedDepthBase</key>
+	<string>concatenateSpecifyPreviewManager</string>
+	<key>setGreatActivityGroup</key>
+	<string>executePrevDataCache</string>
+</dict>
+</plist>

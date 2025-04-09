@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelPivotalPriorityHandler</key>
+	<string>introspectCriticalLabelObserver</string>
+	<key>detachMediumStatusInstance</key>
+	<string>mitigateDeclarativeVectorGroup</string>
+	<key>divideEuclideanToolHelper</key>
+	<string>getPrimaryEdgeContainer</string>
+	<key>searchSpecifySkewXObserver</key>
+	<string>skipPrismaticCoordinatorHandler</string>
+	<key>setAccordionStateDelegate</key>
+	<string>getDeclarativeDataHandler</string>
+	<key>setAsynchronousRendererList</key>
+	<string>getPrimaryGridPool</string>
+	<key>spinDenseVariableArray</key>
+	<string>unlockCommonGridPool</string>
+</dict>
+</plist>

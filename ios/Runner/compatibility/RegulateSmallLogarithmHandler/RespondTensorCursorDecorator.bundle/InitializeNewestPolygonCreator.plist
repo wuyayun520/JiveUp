@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateUniformTagHandler</key>
+	<string>captureSharedValueArray</string>
+	<key>limitCriticalValueCache</key>
+	<string>poolStandaloneColorReference</string>
+	<key>setPrismaticIntegrityList</key>
+	<string>keepMultiBufferBase</string>
+	<key>stopSophisticatedProvisionContainer</key>
+	<string>restartCurrentMovementHandler</string>
+</dict>
+</plist>

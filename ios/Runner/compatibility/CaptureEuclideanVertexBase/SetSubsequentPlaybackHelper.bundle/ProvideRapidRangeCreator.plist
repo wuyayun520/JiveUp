@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endIndependentAccessoryFilter</key>
+	<string>getPriorNumberFactory</string>
+	<key>getCriticalImpressionManager</key>
+	<string>getAutoTailBase</string>
+	<key>getDirectBitrateDelegate</key>
+	<string>setGlobalMobileInstance</string>
+	<key>getLocalIntensityInstance</key>
+	<string>getMediumResourceFactory</string>
+	<key>optimizeAssociatedNumberTarget</key>
+	<string>cloneCriticalAssetCollection</string>
+	<key>reflectLostEquivalentType</key>
+	<string>pausePublicValueObserver</string>
+	<key>resumeStandaloneValueCollection</key>
+	<string>revisitStaticLeftTarget</string>
+	<key>setHierarchicalValueFilter</key>
+	<string>setRelationalParameterAdapter</string>
+	<key>setOtherVariableManager</key>
+	<string>cancelUsedOpacityReference</string>
+	<key>touchSubtleScaleFactory</key>
+	<string>respondIndependentParamOwner</string>
+</dict>
+</plist>

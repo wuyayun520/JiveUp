@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateKeyBufferGroup</key>
+	<string>restartReusableLayerCache</string>
+	<key>appendLargeInterpolationObserver</key>
+	<string>setOldSkewXOwner</string>
+	<key>cancelTypicalTextureFilter</key>
+	<string>combineImmutableBufferHelper</string>
+	<key>getPublicSizeDecorator</key>
+	<string>getSubtleConsumptionImplement</string>
+	<key>setUniformLogarithmTarget</key>
+	<string>resumeGreatRightCollection</string>
+	<key>skipCrucialListenerContainer</key>
+	<string>cancelLocalOperationHandler</string>
+	<key>stopHyperbolicBrushObserver</key>
+	<string>getLocalVarOwner</string>
+	<key>visitSubstantialPointTarget</key>
+	<string>finishUniformParamObserver</string>
+</dict>
+</plist>

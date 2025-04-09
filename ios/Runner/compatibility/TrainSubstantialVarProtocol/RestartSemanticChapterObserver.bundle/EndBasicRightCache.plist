@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createHardVisibleHandler</key>
+	<string>initializeExplicitTailPool</string>
+	<key>finishSemanticHashExtension</key>
+	<string>finishSynchronousVarImplement</string>
+	<key>initializeRetainedLossGroup</key>
+	<string>restartBackwardCoordFactory</string>
+	<key>initializeSmallEqualizationType</key>
+	<string>setConcurrentVariantBase</string>
+	<key>restartSeamlessArithmeticHandler</key>
+	<string>setBackwardColorContainer</string>
+	<key>setIndependentCardCollection</key>
+	<string>getEphemeralDepthPool</string>
+</dict>
+</plist>

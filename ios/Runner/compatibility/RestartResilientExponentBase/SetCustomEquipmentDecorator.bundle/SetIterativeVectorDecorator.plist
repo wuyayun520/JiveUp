@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decoupleUnactivatedTextTarget</key>
+	<string>prepareGranularParameterGroup</string>
+	<key>finishOpaqueScreenReference</key>
+	<string>pauseRobustStrokeFactory</string>
+	<key>stopSmallPermutationStack</key>
+	<string>prepareRespectiveInitiatorsTarget</string>
+	<key>updateSharedIntegrityFilter</key>
+	<string>introspectRetainedHeadExtension</string>
+</dict>
+</plist>

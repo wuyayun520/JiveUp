@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createOtherTextureExtension</key>
+	<string>keepDirectlySpriteStack</string>
+	<key>keepHyperbolicOpacityBase</key>
+	<string>trainAutoNumberExtension</string>
+	<key>keepOpaqueQueueGroup</key>
+	<string>trainOriginalTailHandler</string>
+	<key>multiplyReusableSpriteDecorator</key>
+	<string>initializeAdvancedLabelCreator</string>
+	<key>regulateGreatResilienceHelper</key>
+	<string>holdNumericalStateFilter</string>
+	<key>resizeSharedValueFactory</key>
+	<string>getPublicInfoBase</string>
+	<key>setCrudeHashExtension</key>
+	<string>restartCommonPositionCollection</string>
+	<key>skipPrismaticBorderCollection</key>
+	<string>renameCommonPaddingInstance</string>
+	<key>startSubsequentEqualizationArray</key>
+	<string>setMissedValueDelegate</string>
+</dict>
+</plist>

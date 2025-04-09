@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelEphemeralVariableAdapter</key>
+	<string>restartDirectlyNumberCreator</string>
+	<key>cancelGlobalPointAdapter</key>
+	<string>finishDiscardedStampManager</string>
+	<key>floatStandaloneParamExtension</key>
+	<string>getIterativeRotationFactory</string>
+	<key>initializeRobustUnaryBase</key>
+	<string>restartHyperbolicProgressBarPool</string>
+	<key>releaseBackwardBatchStack</key>
+	<string>getDirectlyOpacityOwner</string>
+	<key>resumeOriginalChannelsHandler</key>
+	<string>getConcreteBandwidthContainer</string>
+	<key>setComprehensiveOriginPool</key>
+	<string>computeIntuitiveParamObserver</string>
+	<key>setSimilarParamDecorator</key>
+	<string>displayGreatPriorityBase</string>
+	<key>startPrismaticChartObserver</key>
+	<string>continueOtherSchemaPool</string>
+</dict>
+</plist>

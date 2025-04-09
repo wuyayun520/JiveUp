@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateTensorBufferReference</key>
+	<string>restartStandaloneRotationDelegate</string>
+	<key>createLiteTailTarget</key>
+	<string>cancelPermissiveSchedulerFactory</string>
+	<key>finishDiversifiedTextHelper</key>
+	<string>getUsedAllocatorProtocol</string>
+	<key>finishPermissiveTrianglesList</key>
+	<string>getUsedFlagsType</string>
+	<key>getSortedTimelineProtocol</key>
+	<string>setGlobalBufferAdapter</string>
+	<key>resumeFirstValueHelper</key>
+	<string>decoupleSynchronousMendType</string>
+	<key>seekLastCosineObserver</key>
+	<string>restartRetainedNumberHelper</string>
+</dict>
+</plist>

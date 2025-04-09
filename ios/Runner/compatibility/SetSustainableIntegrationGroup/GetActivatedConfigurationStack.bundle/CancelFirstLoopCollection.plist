@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concatenateSingleKernelPool</key>
+	<string>getIterativeScaleOwner</string>
+	<key>getDeclarativePrecisionTarget</key>
+	<string>markDeclarativeVariableManager</string>
+	<key>getSingleTopicCache</key>
+	<string>cancelRobustFrameFilter</string>
+	<key>rotateSeamlessZoneGroup</key>
+	<string>endDeclarativeParticleInstance</string>
+	<key>setEphemeralThresholdTarget</key>
+	<string>stopDirectlyMeshDelegate</string>
+	<key>setImmutableConfidentialityObserver</key>
+	<string>resumeCommonAspectHandler</string>
+</dict>
+</plist>

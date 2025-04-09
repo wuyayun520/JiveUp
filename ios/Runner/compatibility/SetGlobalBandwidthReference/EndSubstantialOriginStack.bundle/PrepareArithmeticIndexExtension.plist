@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endAgileVarDelegate</key>
+	<string>resumeIgnoredNodeProtocol</string>
+	<key>eraseUniqueDialogsContainer</key>
+	<string>getUnactivatedGridManager</string>
+	<key>getConcurrentChartGroup</key>
+	<string>getCartesianSkewYProtocol</string>
+	<key>getCrucialAxisContainer</key>
+	<string>setPermissiveRotationGroup</string>
+	<key>getSingleParameterExtension</key>
+	<string>convertElasticValueHelper</string>
+	<key>refreshReusableInfrastructureCache</key>
+	<string>exitBackwardInterpolationCache</string>
+	<key>resumeAutoParamHelper</key>
+	<string>getSynchronousBufferDecorator</string>
+	<key>trainCurrentParticleHelper</key>
+	<string>appendSmartTempleCache</string>
+	<key>trainLostRangeManager</key>
+	<string>unlockMediumCenterCollection</string>
+</dict>
+</plist>

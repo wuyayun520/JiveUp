@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueBasicPositionFactory</key>
+	<string>keepEphemeralDeliveryStack</string>
+	<key>movePublicVarDecorator</key>
+	<string>setFusedVarCache</string>
+	<key>quitCustomDepthCollection</key>
+	<string>setCriticalApertureReference</string>
+	<key>releaseBasicMendPool</key>
+	<string>skipArithmeticResolverGroup</string>
+	<key>setSemanticBufferProtocol</key>
+	<string>restartIterativeValuePool</string>
+</dict>
+</plist>

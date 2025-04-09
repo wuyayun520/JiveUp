@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueOldMetricsDelegate</key>
+	<string>prepareProtectedParamPool</string>
+	<key>enumerateFusedComponentCache</key>
+	<string>getPrismaticViewImplement</string>
+	<key>initializeKeyPlaybackImplement</key>
+	<string>setGranularNumberReference</string>
+	<key>makePrismaticCompositionExtension</key>
+	<string>endExplicitOriginImplement</string>
+	<key>restartRapidTrajectoryCreator</key>
+	<string>setSecondBufferInstance</string>
+	<key>setCrudeEvaluationInstance</key>
+	<string>createRetainedAssetImplement</string>
+	<key>setMutableVisibleImplement</key>
+	<string>eraseOldParticleManager</string>
+	<key>setStaticObjectTarget</key>
+	<string>setIgnoredEfficiencyBase</string>
+	<key>skipDelicateEdgeObserver</key>
+	<string>touchNormalObjectExtension</string>
+	<key>streamlineRespectiveParameterList</key>
+	<string>getSustainableFlagsInstance</string>
+</dict>
+</plist>

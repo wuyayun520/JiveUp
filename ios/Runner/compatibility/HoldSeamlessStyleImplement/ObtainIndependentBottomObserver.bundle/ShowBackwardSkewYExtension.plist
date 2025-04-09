@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateNextRowFilter</key>
+	<string>getIndependentValueDelegate</string>
+	<key>createNormalCoordContainer</key>
+	<string>getSimilarVariableObserver</string>
+	<key>getRetainedSignCollection</key>
+	<string>setRequiredTempleStack</string>
+	<key>initializeNormalFeatureArray</key>
+	<string>skipDifficultLayerObserver</string>
+	<key>pauseHardUsageFactory</key>
+	<string>getMediocreCapacityCache</string>
+	<key>replaceCriticalAscentPool</key>
+	<string>startPrimaryStyleCache</string>
+	<key>requestBeginnerPrecisionImplement</key>
+	<string>skipEuclideanTrajectoryGroup</string>
+	<key>skipOriginalTraversalDecorator</key>
+	<string>setDifficultAxisInstance</string>
+	<key>trainSortedHeadImplement</key>
+	<string>encapsulateIgnoredChecklistPool</string>
+	<key>trainUsedTempleArray</key>
+	<string>setSymmetricRestrictionManager</string>
+</dict>
+</plist>

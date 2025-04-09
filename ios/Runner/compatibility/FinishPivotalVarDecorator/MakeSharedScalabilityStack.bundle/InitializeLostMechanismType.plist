@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compareDisplayableTimelineImplement</key>
+	<string>floatReusableResolverAdapter</string>
+	<key>continueDisplayableNumberCollection</key>
+	<string>startDirectHeadImplement</string>
+	<key>getFirstTailStack</key>
+	<string>keepOriginalTagOwner</string>
+	<key>getNextSchedulerManager</key>
+	<string>stopComprehensiveNumberDelegate</string>
+	<key>getRetainedCapacityAdapter</key>
+	<string>skipFirstSpecifierAdapter</string>
+	<key>getRobustColorProtocol</key>
+	<string>getMediumVariableArray</string>
+	<key>streamlineCurrentEntropyCollection</key>
+	<string>trainSmallRightPool</string>
+</dict>
+</plist>

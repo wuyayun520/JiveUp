@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endActivatedMenuDelegate</key>
+	<string>setSortedCompositionStack</string>
+	<key>getOldParamExtension</key>
+	<string>renameStaticEdgeObserver</string>
+	<key>keepMainConstantOwner</key>
+	<string>releaseDeclarativeNumberGroup</string>
+	<key>provideUsedBottomContainer</key>
+	<string>setFirstValuePool</string>
+	<key>setTypicalVarContainer</key>
+	<string>setAccordionFormatList</string>
+	<key>skipRetainedTolerancePool</key>
+	<string>exitSophisticatedIndexManager</string>
+	<key>unlockSemanticNumberContainer</key>
+	<string>restartIntuitiveSpineContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueHardCapacityReference</key>
+	<string>quantizationGranularDeliveryFilter</string>
+	<key>drawHierarchicalTextureCreator</key>
+	<string>setCustomizedGraphicHandler</string>
+	<key>initializeMediumBufferProtocol</key>
+	<string>checkCustomDetailList</string>
+	<key>quitLargeBufferFactory</key>
+	<string>finishCustomizedSizeBase</string>
+	<key>setPermanentBoundHandler</key>
+	<string>skipSingleBufferContainer</string>
+	<key>skipSubtleEntropyFilter</key>
+	<string>restartSimilarThreadHelper</string>
+</dict>
+</plist>

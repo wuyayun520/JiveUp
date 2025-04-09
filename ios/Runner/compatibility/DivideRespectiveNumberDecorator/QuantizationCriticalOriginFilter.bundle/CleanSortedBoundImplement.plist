@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getConsultativeEffectDecorator</key>
+	<string>setCustomTopCache</string>
+	<key>setAccessibleLeftArray</key>
+	<string>getCommonToleranceArray</string>
+	<key>setDisplayableVertexBase</key>
+	<string>getSeamlessAlphaReference</string>
+</dict>
+</plist>

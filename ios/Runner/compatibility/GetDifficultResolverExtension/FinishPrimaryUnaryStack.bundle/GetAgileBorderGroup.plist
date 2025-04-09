@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getElasticLayerManager</key>
+	<string>skipHardDeliveryBase</string>
+	<key>setDifficultThreadList</key>
+	<string>reduceDenseOpacityAdapter</string>
+	<key>setIndependentParameterStack</key>
+	<string>continueCrudeIndexObserver</string>
+	<key>trainImmutableTextFactory</key>
+	<string>reconcileRequiredPositionBase</string>
+</dict>
+</plist>

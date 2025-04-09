@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishReusableNumberFactory</key>
+	<string>searchMultiParamHelper</string>
+	<key>getExplicitConfigurationPool</key>
+	<string>wrapBasicCoordImplement</string>
+	<key>getRespectiveMapCreator</key>
+	<string>cancelHierarchicalBoundPool</string>
+	<key>setCommonObjectCreator</key>
+	<string>stopCommonOpacityType</string>
+</dict>
+</plist>

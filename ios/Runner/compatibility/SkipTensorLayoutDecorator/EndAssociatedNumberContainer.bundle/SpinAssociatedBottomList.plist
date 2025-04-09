@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearSignificantParamManager</key>
+	<string>initializeRapidFlagsExtension</string>
+	<key>getGeometricRangeHandler</key>
+	<string>keepLocalPositionDelegate</string>
+	<key>keepMainFeatureAdapter</key>
+	<string>endConsultativeScenarioExtension</string>
+	<key>pauseDisplayableArithmeticCache</key>
+	<string>skipIntuitiveVertexHelper</string>
+	<key>setExplicitParameterType</key>
+	<string>upgradeBeginnerParameterStack</string>
+	<key>setSemanticSliderExtension</key>
+	<string>finishUniqueLeftFilter</string>
+	<key>setSubstantialTextureFactory</key>
+	<string>skipNormalParameterGroup</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueComprehensiveInterfaceArray</key>
+	<string>startPrismaticBufferFactory</string>
+	<key>getSingleValueBase</key>
+	<string>syncLargeParameterHelper</string>
+	<key>initializeSecondLoopDelegate</key>
+	<string>optimizeRetainedTimelineManager</string>
+	<key>restartOpaqueImpactPool</key>
+	<string>startKeyLoaderObserver</string>
+	<key>setNewestBufferCreator</key>
+	<string>getSignificantResolverBase</string>
+</dict>
+</plist>

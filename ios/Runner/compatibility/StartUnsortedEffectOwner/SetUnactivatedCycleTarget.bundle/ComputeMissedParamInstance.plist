@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueUniqueAspectImplement</key>
+	<string>initializeUnsortedFeatureContainer</string>
+	<key>getAssociatedTailCreator</key>
+	<string>getUniqueEdgeDelegate</string>
+	<key>getEasyResolverCache</key>
+	<string>getHardInstructionImplement</string>
+	<key>getPrimarySceneTarget</key>
+	<string>pauseMediumParamFilter</string>
+	<key>getStandalonePreviewHandler</key>
+	<string>finishNextMetadataType</string>
+	<key>prepareAdvancedMasterPool</key>
+	<string>getLargeGemReference</string>
+	<key>setUnsortedBufferType</key>
+	<string>setNormalDurationDecorator</string>
+</dict>
+</plist>

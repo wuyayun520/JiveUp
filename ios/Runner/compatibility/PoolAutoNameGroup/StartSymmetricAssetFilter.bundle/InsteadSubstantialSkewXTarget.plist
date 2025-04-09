@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decouplePermanentLoaderAdapter</key>
+	<string>setEnabledProgressBarAdapter</string>
+	<key>endSingleReductionCreator</key>
+	<string>markSecondVariableAdapter</string>
+	<key>eraseRetainedVariableCreator</key>
+	<string>moveHierarchicalShaderCreator</string>
+	<key>getLostBufferOwner</key>
+	<string>finishPublicCursorCreator</string>
+	<key>initializeRespectiveSizeCreator</key>
+	<string>restoreSortedIntensityList</string>
+	<key>insteadAsynchronousNumberTarget</key>
+	<string>setFusedObjectManager</string>
+	<key>makeCrucialItemGroup</key>
+	<string>skipRequiredReliabilityContainer</string>
+	<key>resumeOldAscentGroup</key>
+	<string>setPermanentBatchProtocol</string>
+	<key>setAccessibleParameterCache</key>
+	<string>cancelCriticalTempleProtocol</string>
+	<key>setAdvancedThroughputContainer</key>
+	<string>makeLostBulletManager</string>
+</dict>
+</plist>

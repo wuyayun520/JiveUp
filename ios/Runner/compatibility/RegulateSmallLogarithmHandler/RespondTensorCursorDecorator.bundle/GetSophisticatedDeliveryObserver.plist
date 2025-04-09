@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pauseLiteCompositionProtocol</key>
+	<string>getSignificantSkirtFilter</string>
+	<key>reduceAutoBufferCollection</key>
+	<string>getLostReferenceReference</string>
+	<key>setSignificantGrainArray</key>
+	<string>skipStaticPriorityGroup</string>
+	<key>skipUniqueFrameHelper</key>
+	<string>poolTensorBufferImplement</string>
+</dict>
+</plist>

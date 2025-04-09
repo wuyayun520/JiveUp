@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateSingleCoordTarget</key>
+	<string>endOldTempleCollection</string>
+	<key>drawConcreteQueueFilter</key>
+	<string>skipBasicAllocatorHelper</string>
+	<key>embracePublicOpacityFilter</key>
+	<string>accelerateLargeVisibleStack</string>
+	<key>getSimilarAllocatorManager</key>
+	<string>prepareOldInterfaceCache</string>
+	<key>keepEasySizeExtension</key>
+	<string>getCommonLeftCache</string>
+	<key>multiplyElasticSizeHelper</key>
+	<string>getNewestBufferCache</string>
+	<key>setCrucialParameterFactory</key>
+	<string>cloneAutoParameterObserver</string>
+	<key>setProtectedCapacityBase</key>
+	<string>stopCustomizedTailDecorator</string>
+	<key>stopHardSpineReference</key>
+	<string>destroyPivotalTaskFilter</string>
+</dict>
+</plist>

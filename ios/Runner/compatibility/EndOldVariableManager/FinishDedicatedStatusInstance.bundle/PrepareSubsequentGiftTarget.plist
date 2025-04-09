@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSharedTopObserver</key>
+	<string>searchPivotalRotationContainer</string>
+	<key>poolRobustDepthHandler</key>
+	<string>setStandaloneLabelFilter</string>
+	<key>resumeGeometricProjectCollection</key>
+	<string>cancelAccessibleNodeList</string>
+	<key>setCurrentThreadFilter</key>
+	<string>setCustomSpritePool</string>
+	<key>skipPrevSceneInstance</key>
+	<string>trainGlobalOpacityProtocol</string>
+	<key>skipSharedBufferInstance</key>
+	<string>prepareCrucialVarPool</string>
+	<key>stopUniqueRotationTarget</key>
+	<string>setAgileChallengeHelper</string>
+</dict>
+</plist>

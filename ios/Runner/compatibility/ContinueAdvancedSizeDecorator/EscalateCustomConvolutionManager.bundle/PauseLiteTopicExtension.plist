@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>readOtherSkewYDelegate</key>
+	<string>readRespectiveNodeBase</string>
+	<key>rectifyGlobalVariableCreator</key>
+	<string>aggregateExplicitComponentArray</string>
+	<key>startCustomStyleProtocol</key>
+	<string>initializeDifficultBehaviorManager</string>
+	<key>updateCommonBorderHelper</key>
+	<string>prepareIterativeVariantExtension</string>
+</dict>
+</plist>

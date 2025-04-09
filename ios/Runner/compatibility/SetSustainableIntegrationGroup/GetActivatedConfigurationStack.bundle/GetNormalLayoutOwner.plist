@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDeclarativeParameterHelper</key>
+	<string>getSortedPaddingList</string>
+	<key>initializeIgnoredVarOwner</key>
+	<string>computeLastLayoutStack</string>
+	<key>keepActivatedNumberOwner</key>
+	<string>animateBeginnerProgressBarReference</string>
+	<key>stopDedicatedAllocatorGroup</key>
+	<string>initializeSustainableColorFilter</string>
+</dict>
+</plist>

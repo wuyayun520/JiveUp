@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentGeometricSymbolBase</key>
+	<string>getRequiredPaddingHelper</string>
+	<key>compareUniformRouteBase</key>
+	<string>addSecondRectangleCollection</string>
+	<key>getOriginalViewManager</key>
+	<string>prepareOldZoneReference</string>
+	<key>limitSemanticArithmeticFilter</key>
+	<string>resizeNewestNavigationBase</string>
+	<key>restartCartesianAllocatorBase</key>
+	<string>freeCriticalBufferBase</string>
+	<key>trainHyperbolicDepthImplement</key>
+	<string>getMediumBufferHelper</string>
+</dict>
+</plist>

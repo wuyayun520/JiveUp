@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>moveStaticOpacityProtocol</key>
+	<string>setCustomizedDeliveryCreator</string>
+	<key>obtainCurrentUtilCache</key>
+	<string>getStandaloneAssetProtocol</string>
+	<key>resetDifficultOriginReference</key>
+	<string>retrieveGreatParamGroup</string>
+	<key>setImmutableCenterManager</key>
+	<string>pauseUnsortedLogBase</string>
+</dict>
+</plist>

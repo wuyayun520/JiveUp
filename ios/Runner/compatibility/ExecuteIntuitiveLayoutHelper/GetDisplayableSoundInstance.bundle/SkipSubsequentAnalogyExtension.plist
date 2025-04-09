@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keepDelicateNameBase</key>
+	<string>initializeEnabledResourceTarget</string>
+	<key>prepareAssociatedParamDecorator</key>
+	<string>getMutableBufferDelegate</string>
+	<key>restartCommonOperationPool</key>
+	<string>setResilientUsageTarget</string>
+	<key>setSortedProvisionPool</key>
+	<string>multiplyIndependentChartImplement</string>
+</dict>
+</plist>

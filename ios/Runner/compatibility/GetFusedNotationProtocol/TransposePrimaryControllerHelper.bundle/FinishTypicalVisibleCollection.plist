@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateSubtleBoundHandler</key>
+	<string>setUsedModelBase</string>
+	<key>discoverPublicNormManager</key>
+	<string>setCrucialVectorDelegate</string>
+	<key>quantizerConcurrentParamAdapter</key>
+	<string>allocateMissedPreviewGroup</string>
+	<key>setArithmeticResolverCollection</key>
+	<string>resizeSortedBorderList</string>
+	<key>stopDifficultCurveHelper</key>
+	<string>setDirectAnalogyGroup</string>
+</dict>
+</plist>

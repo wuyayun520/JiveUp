@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatePrimaryBufferType</key>
+	<string>stopArithmeticStyleBase</string>
+	<key>captureEuclideanParamProtocol</key>
+	<string>skipSmallLoopCache</string>
+	<key>getIntuitiveNumberCreator</key>
+	<string>restartSophisticatedUtilCreator</string>
+	<key>getUniformConfigurationDecorator</key>
+	<string>limitDifficultTexturePool</string>
+	<key>keepElasticTempleDelegate</key>
+	<string>cloneNextViewTarget</string>
+	<key>setAdvancedGridObserver</key>
+	<string>setAccordionPreviewFilter</string>
+	<key>setDenseNodeFilter</key>
+	<string>getPrismaticBoundHelper</string>
+	<key>skipRobustTrajectoryGroup</key>
+	<string>extendIntermediateGridObserver</string>
+	<key>skipStaticParticleOwner</key>
+	<string>endSymmetricChecklistAdapter</string>
+</dict>
+</plist>

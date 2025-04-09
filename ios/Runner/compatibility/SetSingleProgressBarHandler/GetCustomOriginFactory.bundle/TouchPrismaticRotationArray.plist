@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateImmutableVisibleCache</key>
+	<string>restartLocalMaterialList</string>
+	<key>continueAsynchronousBatchTarget</key>
+	<string>appendIntermediateLayoutHelper</string>
+	<key>continueDelicateResilienceTarget</key>
+	<string>associateLostRotationType</string>
+	<key>detachCustomizedRowDecorator</key>
+	<string>stopDelicateTextAdapter</string>
+	<key>getIgnoredGrainList</key>
+	<string>getRespectiveTempleTarget</string>
+	<key>getUnactivatedSpecifierDecorator</key>
+	<string>enumerateSemanticLogarithmManager</string>
+</dict>
+</plist>

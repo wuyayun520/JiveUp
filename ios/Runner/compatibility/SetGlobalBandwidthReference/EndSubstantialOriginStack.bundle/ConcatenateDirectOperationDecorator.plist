@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelPriorMissionFilter</key>
+	<string>convertLocalVisiblePool</string>
+	<key>continueLocalChecklistFilter</key>
+	<string>cancelAgileParamCollection</string>
+	<key>getDirectlyCoordHandler</key>
+	<string>trainOtherSkewYObserver</string>
+	<key>setPivotalGramTarget</key>
+	<string>setNumericalMetadataGroup</string>
+	<key>startCurrentValuePool</key>
+	<string>spinConcurrentDepthCache</string>
+	<key>trainRequiredLoaderArray</key>
+	<string>setHyperbolicInformationFactory</string>
+</dict>
+</plist>

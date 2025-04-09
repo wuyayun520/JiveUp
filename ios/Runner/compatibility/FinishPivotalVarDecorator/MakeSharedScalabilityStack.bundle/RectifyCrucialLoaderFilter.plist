@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismissGreatRectTarget</key>
+	<string>getElasticResolverFactory</string>
+	<key>keepDirectComponentInstance</key>
+	<string>playOpaqueThresholdReference</string>
+	<key>setSortedSizeCreator</key>
+	<string>skipPivotalInteractionObserver</string>
+	<key>setTensorTitleImplement</key>
+	<string>keepSeamlessLayerManager</string>
+	<key>stopPrevBufferList</key>
+	<string>poolBackwardConfigurationHelper</string>
+</dict>
+</plist>

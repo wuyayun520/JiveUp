@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayAgileBufferContainer</key>
+	<string>cleanDiscardedBrushCreator</string>
+	<key>finishDenseScaleCollection</key>
+	<string>trainHardFrameInstance</string>
+	<key>getNumericalConstantCache</key>
+	<string>quitNormalCoordBase</string>
+	<key>setDisplayableVarBase</key>
+	<string>setEuclideanAmortizationAdapter</string>
+	<key>setEphemeralBorderTarget</key>
+	<string>calculateProtectedParamCache</string>
+	<key>stopMutablePointCache</key>
+	<string>pauseCustomizedQuaternionFactory</string>
+	<key>touchOtherVarBase</key>
+	<string>startSignificantSizeTarget</string>
+</dict>
+</plist>

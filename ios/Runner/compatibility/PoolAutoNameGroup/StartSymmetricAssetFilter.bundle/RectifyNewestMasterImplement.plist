@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clonePrimarySignatureType</key>
+	<string>trainArithmeticPreviewTarget</string>
+	<key>finishSmallMenuCreator</key>
+	<string>reduceNewestVisibleDelegate</string>
+	<key>setHardPriorityHandler</key>
+	<string>pauseSpecifyRightCreator</string>
+	<key>skipEphemeralParameterHandler</key>
+	<string>getMutableBoundHelper</string>
+</dict>
+</plist>

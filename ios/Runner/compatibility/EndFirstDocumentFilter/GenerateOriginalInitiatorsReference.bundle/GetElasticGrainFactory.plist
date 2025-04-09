@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateCurrentVideoOwner</key>
+	<string>touchHardMediaOwner</string>
+	<key>finishSmartInteractionHelper</key>
+	<string>getAccessibleChartCreator</string>
+	<key>getSymmetricUtilDecorator</key>
+	<string>limitBeginnerOpacityDecorator</string>
+	<key>pauseFirstFlagsDelegate</key>
+	<string>endCommonBufferManager</string>
+	<key>poolActivatedValueDelegate</key>
+	<string>setMissedAnalogyList</string>
+	<key>scheduleSmallBoundImplement</key>
+	<string>respondIterativeAllocatorContainer</string>
+	<key>setGlobalParameterList</key>
+	<string>cancelSmallDescriptionReference</string>
+	<key>setStaticBorderCache</key>
+	<string>getKeyBitratePool</string>
+	<key>visitEuclideanOpacityFactory</key>
+	<string>transposeFirstTitleCollection</string>
+</dict>
+</plist>

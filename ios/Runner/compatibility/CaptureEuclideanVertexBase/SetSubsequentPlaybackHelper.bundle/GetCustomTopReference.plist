@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endAssociatedParamCollection</key>
+	<string>getEnabledElementDelegate</string>
+	<key>enumerateHierarchicalRectanglePool</key>
+	<string>startSharedInformationBase</string>
+	<key>finishIndependentVisibleAdapter</key>
+	<string>parseLastFrameAdapter</string>
+	<key>getNormalCenterStack</key>
+	<string>getIndependentAspectHandler</string>
+	<key>pauseHyperbolicFeatureExtension</key>
+	<string>getTypicalParamContainer</string>
+	<key>setPermanentVarBase</key>
+	<string>getPermissiveLayerGroup</string>
+</dict>
+</plist>

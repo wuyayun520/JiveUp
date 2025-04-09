@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endHierarchicalBufferPool</key>
+	<string>getBackwardPrecisionCache</string>
+	<key>finishFusedRotationReference</key>
+	<string>adjustBasicCapsuleFactory</string>
+	<key>getOldTrianglesFilter</key>
+	<string>prepareEuclideanVarHelper</string>
+	<key>introspectResilientVectorInstance</key>
+	<string>finishElasticComponentCreator</string>
+	<key>keepRobustDescriptionProtocol</key>
+	<string>cancelUsedFrameHandler</string>
+	<key>restartSemanticVarContainer</key>
+	<string>endSubsequentBoundDelegate</string>
+	<key>setDifficultParameterTarget</key>
+	<string>initializeDisparateColorCache</string>
+	<key>skipSustainableScaleBase</key>
+	<string>restartSymmetricChapterList</string>
+</dict>
+</plist>

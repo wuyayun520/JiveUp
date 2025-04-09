@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concatenatePriorNumberExtension</key>
+	<string>setSemanticMaterialPool</string>
+	<key>continueConsultativeSpriteInstance</key>
+	<string>readPrevMeshPool</string>
+	<key>enumerateMainEquipmentList</key>
+	<string>setBeginnerModelFilter</string>
+	<key>getSustainableStatusType</key>
+	<string>limitSustainableIntegrityCollection</string>
+	<key>pausePrevVectorImplement</key>
+	<string>finishReusableChartContainer</string>
+	<key>quantizerIntermediateMatrixType</key>
+	<string>finishDirectReductionType</string>
+	<key>touchKeyMenuCollection</key>
+	<string>reflectImmutableDepthStack</string>
+</dict>
+</plist>

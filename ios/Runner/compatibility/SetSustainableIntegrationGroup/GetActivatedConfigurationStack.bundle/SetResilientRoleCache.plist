@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearCartesianMeshReference</key>
+	<string>getElasticSizeAdapter</string>
+	<key>findExplicitMeshType</key>
+	<string>setRobustDescriptionFilter</string>
+	<key>reduceIterativeTextCache</key>
+	<string>setMultiChapterTarget</string>
+	<key>restartTypicalResilienceAdapter</key>
+	<string>trainResilientRangeStack</string>
+</dict>
+</plist>

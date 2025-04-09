@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueConcurrentTagHelper</key>
+	<string>resumeFirstValueBase</string>
+	<key>continueHardWorkflowManager</key>
+	<string>getEnabledVariableManager</string>
+	<key>initializePivotalCenterFactory</key>
+	<string>setAdvancedOptionType</string>
+	<key>pauseIterativeMaterialPool</key>
+	<string>syncRespectiveIntensityTarget</string>
+	<key>resetProtectedBufferManager</key>
+	<string>skipGreatCharacterCreator</string>
+	<key>setNumericalVectorPool</key>
+	<string>destroyTypicalDispatcherCache</string>
+	<key>trainSubsequentMemberOwner</key>
+	<string>getResilientBufferFilter</string>
+</dict>
+</plist>

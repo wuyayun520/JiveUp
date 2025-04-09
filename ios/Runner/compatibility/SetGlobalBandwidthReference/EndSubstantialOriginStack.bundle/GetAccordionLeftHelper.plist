@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkProtectedCompositionCollection</key>
+	<string>fillEnabledHeapReference</string>
+	<key>pauseActivatedNameOwner</key>
+	<string>keepSortedProgressBarOwner</string>
+	<key>pauseSophisticatedParameterProtocol</key>
+	<string>setDifficultFlagsAdapter</string>
+	<key>restartAssociatedParamOwner</key>
+	<string>getPrimaryNumberCreator</string>
+	<key>setDirectlyAnchorHandler</key>
+	<string>continueSubsequentHeroOwner</string>
+	<key>setFusedRightAdapter</key>
+	<string>setEphemeralValueStack</string>
+	<key>setSingleSlashGroup</key>
+	<string>releaseEphemeralFragmentsList</string>
+</dict>
+</plist>

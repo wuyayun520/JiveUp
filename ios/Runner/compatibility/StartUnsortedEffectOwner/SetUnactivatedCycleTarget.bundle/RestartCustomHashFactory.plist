@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueFirstDimensionFilter</key>
+	<string>drawGreatEntropyDelegate</string>
+	<key>getCommonProgressBarCache</key>
+	<string>setCustomizedValueHelper</string>
+	<key>limitEnabledSegmentPool</key>
+	<string>cancelRobustEffectArray</string>
+	<key>offsetReusableModuleFilter</key>
+	<string>getUniformConvolutionHandler</string>
+	<key>setBeginnerTitleDecorator</key>
+	<string>getExplicitNumberInstance</string>
+	<key>setCommonBufferInstance</key>
+	<string>obtainElasticCubeBase</string>
+</dict>
+</plist>

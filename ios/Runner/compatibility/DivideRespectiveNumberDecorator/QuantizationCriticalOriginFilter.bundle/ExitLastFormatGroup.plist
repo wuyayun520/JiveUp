@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelCartesianTextureFilter</key>
+	<string>skipFirstFlagsImplement</string>
+	<key>getEnabledVariableCache</key>
+	<string>setAccessibleGridObserver</string>
+	<key>initializeUnsortedCharacterObserver</key>
+	<string>rectifyGlobalGridArray</string>
+	<key>pauseAgileMissionHelper</key>
+	<string>searchRobustNavigationExtension</string>
+	<key>scheduleEnabledEvolutionList</key>
+	<string>getSharedCoordCache</string>
+</dict>
+</plist>

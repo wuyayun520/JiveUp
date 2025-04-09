@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropoutBeginnerBufferType</key>
+	<string>getPivotalSceneHandler</string>
+	<key>locateNextBoundHandler</key>
+	<string>setTypicalFlagsManager</string>
+	<key>setIgnoredBufferCollection</key>
+	<string>reconcileCurrentRotationCache</string>
+	<key>skipUniqueVisibleCollection</key>
+	<string>holdElasticBorderFactory</string>
+</dict>
+</plist>

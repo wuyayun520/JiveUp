@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayCustomizedOriginObserver</key>
+	<string>getCustomFrameReference</string>
+	<key>locateSeamlessLayerFactory</key>
+	<string>restartKeyResultFactory</string>
+	<key>quantizerPublicParamImplement</key>
+	<string>setSynchronousChapterImplement</string>
+	<key>respondLiteEvaluationHandler</key>
+	<string>prepareOldVariableDelegate</string>
+	<key>restartAutoMissionObserver</key>
+	<string>restartEnabledLayerFactory</string>
+	<key>resumeLocalHeadArray</key>
+	<string>readResilientVarType</string>
+	<key>scheduleSynchronousDataDelegate</key>
+	<string>conformEphemeralModuleObserver</string>
+	<key>setDelicateBorderObserver</key>
+	<string>getReusableParameterExtension</string>
+	<key>setIgnoredVariableFactory</key>
+	<string>startMediumEdgeHandler</string>
+	<key>undertakePermanentStrokeTarget</key>
+	<string>freeComprehensiveHeadStack</string>
+</dict>
+</plist>

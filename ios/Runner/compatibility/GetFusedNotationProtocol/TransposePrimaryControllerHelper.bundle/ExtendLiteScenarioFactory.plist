@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endProtectedBinaryBase</key>
+	<string>allocateCommonVariableManager</string>
+	<key>endUnsortedTopicHandler</key>
+	<string>setSustainableBinaryArray</string>
+	<key>getGlobalVisiblePool</key>
+	<string>setUsedRightCache</string>
+	<key>prepareMainConfigurationGroup</key>
+	<string>lockSubtleLoaderInstance</string>
+	<key>restartPublicRoleFactory</key>
+	<string>stopLastGridList</string>
+	<key>setPriorSessionType</key>
+	<string>continueStandaloneNormDelegate</string>
+	<key>skipArithmeticScalabilityStack</key>
+	<string>upgradeImmutableComponentBase</string>
+	<key>startDifficultLoopBase</key>
+	<string>generateDiscardedDialogsGroup</string>
+	<key>trainAutoMenuInstance</key>
+	<string>finishCrucialNumberType</string>
+</dict>
+</plist>

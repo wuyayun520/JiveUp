@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueFirstVariableList</key>
+	<string>respondSymmetricTempleCollection</string>
+	<key>getRequiredNumberManager</key>
+	<string>initializeUnsortedSegmentManager</string>
+	<key>restartSemanticAnimationHandler</key>
+	<string>refreshSecondRowDelegate</string>
+	<key>resumeDiscardedGridExtension</key>
+	<string>getPrevFeatureObserver</string>
+	<key>setDisplayableEvaluationProtocol</key>
+	<string>setNumericalTempleList</string>
+	<key>skipBasicDocumentAdapter</key>
+	<string>getMultiValueOwner</string>
+</dict>
+</plist>

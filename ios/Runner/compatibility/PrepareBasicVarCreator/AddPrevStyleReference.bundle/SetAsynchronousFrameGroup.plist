@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueConcurrentMendImplement</key>
+	<string>setSubsequentNameList</string>
+	<key>endProtectedTextHandler</key>
+	<string>setHyperbolicNormFilter</string>
+	<key>getPermissiveParameterOwner</key>
+	<string>encapsulateTensorObserverDelegate</string>
+	<key>initializeMainSoundBase</key>
+	<string>syncUsedMissionObserver</string>
+	<key>resumeUnsortedRangePool</key>
+	<string>setConcurrentOpacityOwner</string>
+	<key>setDeclarativeRecursionContainer</key>
+	<string>setUniqueDispatcherFilter</string>
+</dict>
+</plist>

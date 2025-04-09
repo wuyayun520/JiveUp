@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endLocalActionDecorator</key>
+	<string>setNextBufferCreator</string>
+	<key>getGranularSliderCreator</key>
+	<string>initializePermissiveAnchorAdapter</string>
+	<key>getNormalTentativeGroup</key>
+	<string>setSymmetricEdgeFilter</string>
+	<key>limitHyperbolicIndexType</key>
+	<string>skipDedicatedGrayscalePool</string>
+	<key>pauseMediocreDetailArray</key>
+	<string>writeKeyLayoutHandler</string>
+	<key>resumeNewestCacheManager</key>
+	<string>freeAgileTempleArray</string>
+	<key>revisitDenseTextStack</key>
+	<string>setDirectlyNameType</string>
+</dict>
+</plist>

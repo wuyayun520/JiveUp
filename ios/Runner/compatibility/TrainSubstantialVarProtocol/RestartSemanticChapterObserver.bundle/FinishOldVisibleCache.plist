@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelExplicitRightHandler</key>
+	<string>stopDirectlyInterpolationBase</string>
+	<key>getKeyShapeBase</key>
+	<string>skipRobustPaddingTarget</string>
+	<key>prepareLocalChapterObserver</key>
+	<string>getLostPriorityManager</string>
+	<key>retrieveIntuitiveAllocatorArray</key>
+	<string>captureMutableBufferGroup</string>
+	<key>setSmartAnalogyStack</key>
+	<string>setRobustBufferType</string>
+	<key>startDiscardedCapacityCollection</key>
+	<string>getConcurrentTextDelegate</string>
+	<key>touchUniqueParameterCreator</key>
+	<string>startDenseEdgeHandler</string>
+</dict>
+</plist>

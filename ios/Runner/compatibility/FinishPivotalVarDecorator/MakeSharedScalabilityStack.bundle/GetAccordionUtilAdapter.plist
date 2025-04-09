@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exitSmartRectDelegate</key>
+	<string>limitBasicInterfaceDelegate</string>
+	<key>getDenseEventArray</key>
+	<string>generateAdvancedBufferExtension</string>
+	<key>keepAccordionSpriteDecorator</key>
+	<string>drawSemanticSkewYTarget</string>
+	<key>restoreLostNumberHandler</key>
+	<string>getUnsortedParamStack</string>
+	<key>setProtectedGateStack</key>
+	<string>combinePrimaryDeliveryHandler</string>
+	<key>setSecondAnalogyAdapter</key>
+	<string>setSortedStyleExtension</string>
+	<key>stopAdvancedOpacityExtension</key>
+	<string>markSustainableGroupExtension</string>
+</dict>
+</plist>

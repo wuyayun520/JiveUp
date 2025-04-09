@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getCrudeValueProtocol</key>
+	<string>clearUnsortedStrokeCollection</string>
+	<key>getHierarchicalParameterDecorator</key>
+	<string>getActivatedParamFilter</string>
+	<key>getPermanentPetDecorator</key>
+	<string>restartLargeBandwidthProtocol</string>
+	<key>introspectStaticCoordReference</key>
+	<string>concatenateUniquePreviewManager</string>
+	<key>resumeProtectedAxisExtension</key>
+	<string>extendStandaloneBufferManager</string>
+</dict>
+</plist>

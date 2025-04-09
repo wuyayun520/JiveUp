@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endConcreteObserverCreator</key>
+	<string>getDedicatedSizeDecorator</string>
+	<key>endEuclideanExponentCache</key>
+	<string>resumeLocalVariableProtocol</string>
+	<key>getCustomizedVariableTarget</key>
+	<string>setPrimaryCycleType</string>
+	<key>getOriginalDimensionTarget</key>
+	<string>getResilientAssetDelegate</string>
+	<key>prepareDiscardedHeadDelegate</key>
+	<string>executeHyperbolicHeadAdapter</string>
+</dict>
+</plist>

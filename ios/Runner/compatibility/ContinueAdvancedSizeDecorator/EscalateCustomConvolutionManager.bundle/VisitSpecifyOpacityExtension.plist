@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateTypicalBufferCache</key>
+	<string>keepHyperbolicZoneBase</string>
+	<key>dissociateOldAmortizationImplement</key>
+	<string>skipEnabledIntegerHelper</string>
+	<key>exitCustomVariableImplement</key>
+	<string>offsetDenseNumberReference</string>
+	<key>getActivatedLabelOwner</key>
+	<string>getAutoNumberCollection</string>
+	<key>getConcreteDimensionProtocol</key>
+	<string>skipStaticScaleArray</string>
+	<key>resizeTypicalParameterAdapter</key>
+	<string>getResilientPaddingType</string>
+	<key>setDedicatedParameterManager</key>
+	<string>searchPrismaticTempleImplement</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateOldReferenceContainer</key>
+	<string>skipUnactivatedQueueTarget</string>
+	<key>convertGranularLatencyReference</key>
+	<string>endSeamlessProgressBarObserver</string>
+	<key>equalElasticColorReference</key>
+	<string>exitAccessibleUtilOwner</string>
+	<key>getNewestKernelDecorator</key>
+	<string>setMutableMechanismType</string>
+	<key>getSophisticatedNumberProtocol</key>
+	<string>startDelicateValueObserver</string>
+	<key>initializeRobustLoopCache</key>
+	<string>reconcileConcurrentVectorType</string>
+	<key>pauseMissedSignatureHelper</key>
+	<string>setMediumMenuArray</string>
+</dict>
+</plist>

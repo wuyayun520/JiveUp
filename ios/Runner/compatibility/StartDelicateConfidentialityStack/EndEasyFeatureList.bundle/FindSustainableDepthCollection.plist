@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelOldValueTarget</key>
+	<string>getStaticSizeInstance</string>
+	<key>cancelResilientRangeCache</key>
+	<string>prepareConcreteAssetList</string>
+	<key>equalNumericalSceneCreator</key>
+	<string>trainAutoStatusList</string>
+	<key>getDisplayableParameterTarget</key>
+	<string>getCartesianBufferPool</string>
+	<key>getSemanticInformationArray</key>
+	<string>setBasicProjectionContainer</string>
+	<key>retainEphemeralTempleType</key>
+	<string>initializeSynchronousBoundGroup</string>
+	<key>setElasticBottomInstance</key>
+	<string>getIndependentRectangleReference</string>
+	<key>setIndependentCapacitiesFilter</key>
+	<string>skipPriorLoopTarget</string>
+	<key>skipDiversifiedBufferReference</key>
+	<string>floatCustomValueProtocol</string>
+	<key>writeSortedVisibleInstance</key>
+	<string>keepRequiredAllocatorCreator</string>
+</dict>
+</plist>

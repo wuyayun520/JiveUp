@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discoverGreatGemFilter</key>
+	<string>getResilientCoordExtension</string>
+	<key>executeRespectiveMetadataHandler</key>
+	<string>reflectLocalNumberDecorator</string>
+	<key>getDirectChapterList</key>
+	<string>initializeNewestRotationAdapter</string>
+	<key>navigateSortedUsageAdapter</key>
+	<string>setRobustResilienceObserver</string>
+	<key>stopAsynchronousProjectStack</key>
+	<string>finishDisplayableGridCache</string>
+</dict>
+</plist>

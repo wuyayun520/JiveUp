@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformIntuitiveDescriptionFactory</key>
+	<string>addSemanticTempleBase</string>
+	<key>getCustomizedPolygonObserver</key>
+	<string>getActivatedLabelCache</string>
+	<key>getPrimaryCacheHandler</key>
+	<string>setDisplayableSpriteTarget</string>
+	<key>insteadElasticEdgeFilter</key>
+	<string>setSophisticatedIntegerDelegate</string>
+	<key>removeMultiRowDecorator</key>
+	<string>setLocalRightImplement</string>
+	<key>setAdvancedVariableHelper</key>
+	<string>resumeIntuitiveSpriteArray</string>
+	<key>touchHierarchicalPositionTarget</key>
+	<string>trainNormalAnalogyCache</string>
+</dict>
+</plist>

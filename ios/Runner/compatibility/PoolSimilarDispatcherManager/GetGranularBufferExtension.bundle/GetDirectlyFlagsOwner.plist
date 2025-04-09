@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>encapsulateRespectivePlateCache</key>
+	<string>combineLostValueExtension</string>
+	<key>optimizeEuclideanDepthImplement</key>
+	<string>eraseMissedCapacityOwner</string>
+	<key>prepareGreatNumberPool</key>
+	<string>allocatePriorAlphaTarget</string>
+	<key>setResilientNodeStack</key>
+	<string>setStaticRightStack</string>
+</dict>
+</plist>

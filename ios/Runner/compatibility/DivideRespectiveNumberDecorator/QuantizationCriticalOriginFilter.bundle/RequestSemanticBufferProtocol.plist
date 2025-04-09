@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearDisplayableFormatHandler</key>
+	<string>getIgnoredBottomType</string>
+	<key>endBackwardQuaternionHandler</key>
+	<string>quantizerDirectEdgeHelper</string>
+	<key>endBasicNavigationReference</key>
+	<string>stopSemanticHashOwner</string>
+	<key>initializeDenseCycleAdapter</key>
+	<string>setRelationalVectorCache</string>
+	<key>quantizationDiscardedParameterList</key>
+	<string>finishDiscardedConvolutionOwner</string>
+	<key>restartPermanentProfileDecorator</key>
+	<string>prepareComprehensiveSliderAdapter</string>
+	<key>setLostCoordImplement</key>
+	<string>getArithmeticTempleStack</string>
+	<key>writeLargeVariableObserver</key>
+	<string>keepSharedRowDecorator</string>
+</dict>
+</plist>

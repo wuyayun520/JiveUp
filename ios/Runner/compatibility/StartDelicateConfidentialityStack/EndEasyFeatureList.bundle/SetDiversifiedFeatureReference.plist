@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getImmutableEfficiencyFilter</key>
+	<string>getUnactivatedVarDecorator</string>
+	<key>getPriorFragmentsCache</key>
+	<string>setTensorParamReference</string>
+	<key>poolRobustTagDelegate</key>
+	<string>pauseElasticToolFactory</string>
+	<key>rotateSustainablePlaybackImplement</key>
+	<string>getSemanticSignatureAdapter</string>
+	<key>startCustomizedParameterExtension</key>
+	<string>conformCurrentAspectCreator</string>
+	<key>startSemanticSizeDelegate</key>
+	<string>showUnactivatedDepthObserver</string>
+	<key>transposeDedicatedTrajectoryCache</key>
+	<string>restartFusedSceneObserver</string>
+</dict>
+</plist>

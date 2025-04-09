@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropoutSharedBufferManager</key>
+	<string>getPriorConstantOwner</string>
+	<key>getTypicalNodeExtension</key>
+	<string>setCartesianNameArray</string>
+	<key>pauseLocalBufferDecorator</key>
+	<string>initializePriorBitrateProtocol</string>
+	<key>restartCurrentBrushStack</key>
+	<string>setCriticalPetStack</string>
+	<key>setDiscardedTextureOwner</key>
+	<string>skipAccessibleBorderType</string>
+	<key>setNormalLayoutType</key>
+	<string>restartArithmeticSubpixelPool</string>
+</dict>
+</plist>

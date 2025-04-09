@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enumerateGeometricVariableTarget</key>
+	<string>getCriticalFormatCreator</string>
+	<key>initializeHardBehaviorOwner</key>
+	<string>floatEnabledParamCreator</string>
+	<key>quantizerMainSchemaContainer</key>
+	<string>finishLiteConstantReference</string>
+	<key>restartIterativeTagGroup</key>
+	<string>searchPrimarySkewYFactory</string>
+	<key>setCurrentMatrixImplement</key>
+	<string>getRobustTagInstance</string>
+</dict>
+</plist>

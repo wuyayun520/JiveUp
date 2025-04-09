@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDisplayableRectOwner</key>
+	<string>finishSemanticViewFactory</string>
+	<key>preparePermanentRotationHandler</key>
+	<string>getIgnoredCertificateExtension</string>
+	<key>provideTensorParamDecorator</key>
+	<string>calculateTensorGrainBase</string>
+	<key>requestDiscardedGemObserver</key>
+	<string>setSmartCatalystType</string>
+	<key>setDenseValueHandler</key>
+	<string>clearSpecifyVariableHandler</string>
+</dict>
+</plist>

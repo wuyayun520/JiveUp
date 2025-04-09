@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelKeyPopupPool</key>
+	<string>releaseLostTitleOwner</string>
+	<key>extendDirectlyScenarioFactory</key>
+	<string>setLiteWorkflowInstance</string>
+	<key>renameStaticFlagsBase</key>
+	<string>stopIterativeProjectionDelegate</string>
+	<key>restartIntuitiveTopicList</key>
+	<string>augmentRobustBottomBase</string>
+	<key>setLocalTimelineBase</key>
+	<string>reflectGranularSpriteExtension</string>
+</dict>
+</plist>

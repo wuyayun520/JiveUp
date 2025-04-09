@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enhancePrismaticSceneFilter</key>
+	<string>reduceEasyAscentFilter</string>
+	<key>getLostSkewYList</key>
+	<string>getUniformVarTarget</string>
+	<key>getSophisticatedBufferFilter</key>
+	<string>getHierarchicalParamHandler</string>
+	<key>releaseMediocreDescriptionAdapter</key>
+	<string>prepareMainVarManager</string>
+	<key>trainOriginalActivityInstance</key>
+	<string>animateSemanticRotationCollection</string>
+</dict>
+</plist>

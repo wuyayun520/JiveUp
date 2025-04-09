@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateProtectedTagExtension</key>
+	<string>getAccessibleProgressBarReference</string>
+	<key>getLostArithmeticExtension</key>
+	<string>startAccessibleNameDecorator</string>
+	<key>keepSingleChartFilter</key>
+	<string>getCurrentImpressionOwner</string>
+	<key>offsetLocalHashObserver</key>
+	<string>cancelAssociatedNotationArray</string>
+	<key>quantizationExplicitNumberInstance</key>
+	<string>setCustomizedValueTarget</string>
+</dict>
+</plist>

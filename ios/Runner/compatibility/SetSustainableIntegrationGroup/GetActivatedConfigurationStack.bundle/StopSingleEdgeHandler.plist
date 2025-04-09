@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getRelationalProgressBarOwner</key>
+	<string>skipOriginalPreviewList</string>
+	<key>keepLargePolygonCache</key>
+	<string>stopLiteEfficiencyTarget</string>
+	<key>markIgnoredSessionHandler</key>
+	<string>initializeBasicParameterDelegate</string>
+	<key>restoreExplicitNumberProtocol</key>
+	<string>readImmutableEqualizationDecorator</string>
+	<key>setGranularOriginTarget</key>
+	<string>resizeRelationalCapacitiesDecorator</string>
+	<key>setTensorExponentHandler</key>
+	<string>resumeMediumNodeInstance</string>
+	<key>skipPrimaryScopeDecorator</key>
+	<string>restartGranularPopupHandler</string>
+	<key>unlockNumericalAlphaCollection</key>
+	<string>getIndependentNumberInstance</string>
+</dict>
+</plist>

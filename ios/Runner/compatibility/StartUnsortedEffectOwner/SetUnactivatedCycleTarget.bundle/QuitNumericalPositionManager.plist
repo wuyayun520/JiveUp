@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeSubstantialVariableGroup</key>
+	<string>setMediumNameExtension</string>
+	<key>keepGranularSkirtCache</key>
+	<string>decoupleSymmetricQueueCreator</string>
+	<key>restartExplicitActionDelegate</key>
+	<string>moveEphemeralNumberObserver</string>
+	<key>restartMissedBehaviorImplement</key>
+	<string>combineCustomOptimizerDelegate</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelDisplayableRotationHandler</key>
+	<string>reflectDisparateImageImplement</string>
+	<key>getAsynchronousEdgeCache</key>
+	<string>parseUnsortedRectFilter</string>
+	<key>initializeSymmetricResolverBase</key>
+	<string>restartRapidBottomImplement</string>
+	<key>pausePrevCardDecorator</key>
+	<string>executeNewestVarFactory</string>
+	<key>prepareSortedRestrictionTarget</key>
+	<string>finishGreatVariableOwner</string>
+	<key>setActivatedItemBase</key>
+	<string>continueCustomDescriptionImplement</string>
+	<key>setEnabledValueHandler</key>
+	<string>writeSubtleVariableStack</string>
+</dict>
+</plist>

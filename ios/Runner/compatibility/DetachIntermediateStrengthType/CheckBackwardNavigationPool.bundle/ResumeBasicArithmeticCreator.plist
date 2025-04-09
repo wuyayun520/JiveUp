@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateCustomizedObserverHelper</key>
+	<string>setDedicatedEffectCollection</string>
+	<key>decouplePrismaticScaleHelper</key>
+	<string>makeCriticalInfoImplement</string>
+	<key>generateLiteViewImplement</key>
+	<string>setBasicFrameInstance</string>
+	<key>keepExplicitNodeStack</key>
+	<string>setPermanentStyleHelper</string>
+	<key>replaceHierarchicalStrokeInstance</key>
+	<string>setUniqueBufferExtension</string>
+	<key>resumeReusableWorkflowTarget</key>
+	<string>continueOriginalBatchReference</string>
+	<key>retrieveConcurrentBaselineType</key>
+	<string>startAgileVariableInstance</string>
+	<key>setTensorReliabilityDelegate</key>
+	<string>getHardElementContainer</string>
+	<key>storeGeometricIntegerObserver</key>
+	<string>markKeyEventStack</string>
+</dict>
+</plist>

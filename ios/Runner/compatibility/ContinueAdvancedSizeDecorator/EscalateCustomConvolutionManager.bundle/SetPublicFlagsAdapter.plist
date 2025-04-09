@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getFusedDataAdapter</key>
+	<string>cancelCurrentChecklistOwner</string>
+	<key>getLiteMaterialGroup</key>
+	<string>parseRequiredTaskList</string>
+	<key>pauseConcurrentScreenPool</key>
+	<string>finishSortedBufferFilter</string>
+	<key>pushLastValueImplement</key>
+	<string>captureSecondThresholdHandler</string>
+	<key>setCrudeColorFactory</key>
+	<string>setCurrentObserverFactory</string>
+	<key>startSynchronousTopHelper</key>
+	<string>getPublicInfoAdapter</string>
+	<key>trainSymmetricTopInstance</key>
+	<string>stopExplicitLabelTarget</string>
+</dict>
+</plist>

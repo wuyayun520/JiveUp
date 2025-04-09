@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipAccordionSpriteInstance</key>
+	<string>pauseConcurrentSpriteFilter</string>
+	<key>continueAsynchronousBufferBase</key>
+	<string>finishElasticElementFilter</string>
+	<key>executeUnsortedDataPool</key>
+	<string>locateKeyEquivalentInstance</string>
+	<key>getCartesianUtilList</key>
+	<string>getAdvancedStrokeCreator</string>
+	<key>prepareBeginnerColorFactory</key>
+	<string>navigateRelationalNumberManager</string>
+	<key>setAutoBufferArray</key>
+	<string>clearSubsequentTagCreator</string>
+	<key>setDirectDescriptionProtocol</key>
+	<string>getSynchronousGraphTarget</string>
+	<key>stopPrevValueAdapter</key>
+	<string>finishRespectiveTempleFactory</string>
+</dict>
+</plist>

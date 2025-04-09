@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelUsedProvisionInstance</key>
+	<string>setUnactivatedClusterBase</string>
+	<key>decoupleImmutableNavigationManager</key>
+	<string>cancelSingleVarReference</string>
+	<key>getAssociatedTopFactory</key>
+	<string>moveIntermediateClusterCache</string>
+	<key>prepareMultiTailBase</key>
+	<string>getOpaqueRectReference</string>
+	<key>requestConcreteMemberCreator</key>
+	<string>retainDelicateCosineCache</string>
+</dict>
+</plist>

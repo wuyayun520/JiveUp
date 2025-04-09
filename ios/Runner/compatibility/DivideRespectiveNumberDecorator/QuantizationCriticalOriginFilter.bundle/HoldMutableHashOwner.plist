@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enhanceDifficultProfileFilter</key>
+	<string>concatenateUniqueParamBase</string>
+	<key>getEuclideanParamFactory</key>
+	<string>combineStandaloneParameterGroup</string>
+	<key>getIndependentSkewXReference</key>
+	<string>setStandaloneVarDecorator</string>
+	<key>setAsynchronousLoopStack</key>
+	<string>drawOpaqueSignaturePool</string>
+	<key>setCrucialActivityObserver</key>
+	<string>initializeSemanticParameterArray</string>
+	<key>setDeclarativeLayerStack</key>
+	<string>stopAccessibleFrameStack</string>
+	<key>stopPermissiveRotationAdapter</key>
+	<string>getCrucialGrainHandler</string>
+	<key>updateSophisticatedIndexHandler</key>
+	<string>playAutoVarOwner</string>
+</dict>
+</plist>

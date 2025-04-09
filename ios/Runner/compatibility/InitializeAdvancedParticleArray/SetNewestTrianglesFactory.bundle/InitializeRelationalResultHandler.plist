@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getCommonComponentBase</key>
+	<string>dismissSmartSliderFilter</string>
+	<key>getOpaqueEdgePool</key>
+	<string>endGlobalThresholdDecorator</string>
+	<key>setOpaqueViewAdapter</key>
+	<string>retrieveStandaloneValueFilter</string>
+	<key>startMediumBufferAdapter</key>
+	<string>animateOldVisibleDelegate</string>
+</dict>
+</plist>

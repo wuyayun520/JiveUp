@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawGranularDescriptionDecorator</key>
+	<string>combineOldGraphTarget</string>
+	<key>getSemanticConfigurationImplement</key>
+	<string>clearNextSpriteInstance</string>
+	<key>navigateDisplayableBufferOwner</key>
+	<string>keepConcreteLabelCache</string>
+	<key>obtainEuclideanValueObserver</key>
+	<string>getGranularRightHandler</string>
+	<key>pausePriorBorderInstance</key>
+	<string>getDifficultNumberOwner</string>
+	<key>visitDelicateFlagsFactory</key>
+	<string>restartAccessibleVarDecorator</string>
+</dict>
+</plist>

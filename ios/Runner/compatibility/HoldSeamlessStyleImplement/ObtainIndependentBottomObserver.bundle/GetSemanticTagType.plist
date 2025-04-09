@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generateConcreteParamReference</key>
+	<string>getPivotalSkewYBase</string>
+	<key>getArithmeticStrengthExtension</key>
+	<string>provideNumericalParameterFilter</string>
+	<key>getEasyChannelsReference</key>
+	<string>setAsynchronousVarAdapter</string>
+	<key>getMainMetricsHelper</key>
+	<string>getEphemeralBandwidthList</string>
+	<key>prepareOldArithmeticCreator</key>
+	<string>eraseMainOriginList</string>
+	<key>resizeCurrentTopFactory</key>
+	<string>animateCrudeResilienceObserver</string>
+	<key>setNextParamGroup</key>
+	<string>getAccessibleShapeHandler</string>
+</dict>
+</plist>

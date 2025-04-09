@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentPermanentOpacityCache</key>
+	<string>keepUnactivatedInstructionFilter</string>
+	<key>dismissRequiredDispatcherProtocol</key>
+	<string>getConcreteBinaryContainer</string>
+	<key>endStaticParameterOwner</key>
+	<string>resumePrevBoundDecorator</string>
+	<key>getSubsequentSceneExtension</key>
+	<string>setSharedVolumeCreator</string>
+	<key>getSynchronousParameterHelper</key>
+	<string>initializeSubtleGraphicHelper</string>
+	<key>setDeclarativeVariableFactory</key>
+	<string>dropoutSpecifyGramCache</string>
+	<key>setDirectTagProtocol</key>
+	<string>setElasticHeadGroup</string>
+	<key>setHierarchicalConfigurationBase</key>
+	<string>setBackwardMovementProtocol</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropoutEuclideanBufferFilter</key>
+	<string>trainEuclideanStatusPool</string>
+	<key>freeDeclarativeStatusHandler</key>
+	<string>getProtectedOriginExtension</string>
+	<key>getProtectedAssetBase</key>
+	<string>pauseIntermediateFormatDecorator</string>
+	<key>getStandaloneLayoutCache</key>
+	<string>continueCrucialSignatureObserver</string>
+	<key>setLargeAllocatorObserver</key>
+	<string>appendReusableValueProtocol</string>
+	<key>skipTensorThresholdContainer</key>
+	<string>prepareMediocreArithmeticOwner</string>
+</dict>
+</plist>

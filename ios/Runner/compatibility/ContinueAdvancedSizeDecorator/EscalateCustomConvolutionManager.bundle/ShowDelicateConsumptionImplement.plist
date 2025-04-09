@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeRobustBulletManager</key>
+	<string>getSpecifyWorkflowFactory</string>
+	<key>pauseFirstHeroList</key>
+	<string>checkRequiredShapeProtocol</string>
+	<key>restartDenseIndexCreator</key>
+	<string>quitUnactivatedChecklistOwner</string>
+	<key>resumeSortedFragmentHandler</key>
+	<string>finishIgnoredScenarioList</string>
+	<key>setDisparateDimensionBase</key>
+	<string>getDenseSpriteInstance</string>
+	<key>setRobustNumberOwner</key>
+	<string>analyzeStaticScalabilityPool</string>
+	<key>stopSimilarTopicHelper</key>
+	<string>setPrismaticVariableProtocol</string>
+</dict>
+</plist>

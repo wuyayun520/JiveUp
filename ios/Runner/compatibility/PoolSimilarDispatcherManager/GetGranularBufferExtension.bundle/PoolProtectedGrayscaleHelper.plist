@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateLiteZoneReference</key>
+	<string>getSemanticStatusPool</string>
+	<key>getCustomAxisStack</key>
+	<string>continueRequiredNumberFilter</string>
+	<key>resumeEphemeralFragmentList</key>
+	<string>setMutablePreviewArray</string>
+	<key>resumePrevStyleCache</key>
+	<string>spinSemanticFlagsHandler</string>
+	<key>setAccessibleElementCreator</key>
+	<string>resizeCartesianInterfaceFilter</string>
+	<key>setGlobalQuaternionFilter</key>
+	<string>setPivotalQueueCache</string>
+	<key>setGreatAxisExtension</key>
+	<string>augmentRobustCapacitiesInstance</string>
+</dict>
+</plist>

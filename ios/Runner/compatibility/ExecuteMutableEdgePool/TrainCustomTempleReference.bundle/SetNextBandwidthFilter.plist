@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawExplicitSkewYAdapter</key>
+	<string>getCurrentParamReference</string>
+	<key>finishRespectiveValueList</key>
+	<string>preparePrismaticSymbolReference</string>
+	<key>getMediumAssetPool</key>
+	<string>getIterativeEffectBase</string>
+	<key>getSecondVariableOwner</key>
+	<string>skipBackwardVariableType</string>
+	<key>keepDirectlyNavigationAdapter</key>
+	<string>resumeMainInfoCache</string>
+	<key>prepareSharedArithmeticStack</key>
+	<string>keepLostParameterGroup</string>
+	<key>resumeRetainedViewCreator</key>
+	<string>endUniqueToleranceInstance</string>
+</dict>
+</plist>

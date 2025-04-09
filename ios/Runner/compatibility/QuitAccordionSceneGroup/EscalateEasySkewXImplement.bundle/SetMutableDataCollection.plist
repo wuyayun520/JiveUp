@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getElasticTextImplement</key>
+	<string>retainIndependentGraphInstance</string>
+	<key>getFirstHistogramHandler</key>
+	<string>prepareAccessibleQueueStack</string>
+	<key>getIterativeResultCreator</key>
+	<string>continueAgileCardTarget</string>
+	<key>keepMutableSliderFactory</key>
+	<string>getSubtleProgressBarTarget</string>
+	<key>prepareFirstVisibleDecorator</key>
+	<string>setMediocreSceneDecorator</string>
+	<key>setLastSessionTarget</key>
+	<string>getFirstCaptionAdapter</string>
+	<key>setLostCaptionContainer</key>
+	<string>getRespectiveNumberReference</string>
+</dict>
+</plist>

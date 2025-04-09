@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendGeometricElementExtension</key>
+	<string>continueSmallParamImplement</string>
+	<key>getHardBoxCache</key>
+	<string>prepareGeometricAnimationManager</string>
+	<key>getSymmetricGrainGroup</key>
+	<string>visitKeyParamFactory</string>
+	<key>retainDeclarativeExponentBase</key>
+	<string>prepareAgileFramePool</string>
+	<key>stopNextValueAdapter</key>
+	<string>initializeConcurrentUsageHelper</string>
+	<key>transposeStaticGroupFilter</key>
+	<string>cancelSortedLayoutArray</string>
+</dict>
+</plist>

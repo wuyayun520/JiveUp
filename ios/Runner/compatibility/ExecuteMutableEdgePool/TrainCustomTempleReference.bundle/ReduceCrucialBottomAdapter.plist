@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueSmallIndicatorStack</key>
+	<string>upgradeSeamlessBottomInstance</string>
+	<key>getLostMetadataStack</key>
+	<string>getOtherZoneHelper</string>
+	<key>readCommonValueDecorator</key>
+	<string>lockExplicitNodeProtocol</string>
+	<key>setIgnoredIntegrityPool</key>
+	<string>resumeNewestInterfaceList</string>
+	<key>stopIgnoredPopupTarget</key>
+	<string>reduceSortedHeadTarget</string>
+</dict>
+</plist>

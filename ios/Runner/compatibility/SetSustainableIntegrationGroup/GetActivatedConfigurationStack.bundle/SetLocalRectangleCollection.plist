@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertFusedMenuFactory</key>
+	<string>resumeDeclarativeValueFactory</string>
+	<key>freeActivatedVariableDecorator</key>
+	<string>startFirstReferenceExtension</string>
+	<key>revisitSemanticScaleExtension</key>
+	<string>conformAdvancedSizeOwner</string>
+	<key>setDenseMetricsGroup</key>
+	<string>startBeginnerRightCollection</string>
+	<key>setMultiValueContainer</key>
+	<string>getUniformDepthProtocol</string>
+</dict>
+</plist>

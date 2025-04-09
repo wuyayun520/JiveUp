@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkSinglePositionArray</key>
+	<string>skipStaticReductionAdapter</string>
+	<key>embedImmutableNodeManager</key>
+	<string>initializePublicValueAdapter</string>
+	<key>pushMainSceneTarget</key>
+	<string>pauseHyperbolicBufferDelegate</string>
+	<key>quitOriginalSignHandler</key>
+	<string>restartPublicBaseCreator</string>
+	<key>restoreLargePositionArray</key>
+	<string>setMissedVariableHandler</string>
+	<key>setUsedRightBase</key>
+	<string>restartAssociatedTentativeCreator</string>
+</dict>
+</plist>

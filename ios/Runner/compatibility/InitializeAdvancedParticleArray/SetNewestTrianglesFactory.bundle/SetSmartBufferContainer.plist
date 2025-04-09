@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSignificantPositionImplement</key>
+	<string>restartSeamlessCapsuleInstance</string>
+	<key>computeSignificantProvisionType</key>
+	<string>quantizerCriticalStepDelegate</string>
+	<key>getDiscardedStrokeExtension</key>
+	<string>setEasyTempleDecorator</string>
+	<key>getLastToleranceArray</key>
+	<string>restartGlobalEquivalentGroup</string>
+	<key>quantizerCommonViewHelper</key>
+	<string>getPriorSpotContainer</string>
+	<key>requestPrismaticCoordCollection</key>
+	<string>getDeclarativeBatchTarget</string>
+	<key>setKeyMenuDecorator</key>
+	<string>keepSmartBorderArray</string>
+	<key>startDisplayableValueExtension</key>
+	<string>continueSemanticApertureTarget</string>
+</dict>
+</plist>

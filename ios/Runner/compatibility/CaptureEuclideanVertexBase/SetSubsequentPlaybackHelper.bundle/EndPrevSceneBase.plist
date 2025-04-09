@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismissOpaqueCoordProtocol</key>
+	<string>retainUnactivatedStampFactory</string>
+	<key>endConcurrentGrainAdapter</key>
+	<string>getSingleNodeDelegate</string>
+	<key>getAgileViewHelper</key>
+	<string>retrieveSophisticatedTextGroup</string>
+	<key>keepSignificantVariableGroup</key>
+	<string>reconcileStaticGrayscaleCache</string>
+	<key>playMutableSpriteManager</key>
+	<string>getResilientRectangleCollection</string>
+	<key>replaceRequiredDepthManager</key>
+	<string>continueRequiredAccessoryBase</string>
+	<key>setSignificantVariableDelegate</key>
+	<string>skipSubstantialVisibleOwner</string>
+	<key>updateFirstLayerDelegate</key>
+	<string>getIterativeChartDelegate</string>
+</dict>
+</plist>

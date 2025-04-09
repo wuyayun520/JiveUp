@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertMissedPositionReference</key>
+	<string>pauseEasySceneFilter</string>
+	<key>getCustomizedActionStack</key>
+	<string>finishMutableValueHandler</string>
+	<key>getOldGroupList</key>
+	<string>keepCustomizedPositionTarget</string>
+	<key>keepGreatDurationReference</key>
+	<string>cancelConcreteVertexHelper</string>
+	<key>searchCustomizedEquivalentFactory</key>
+	<string>renameCustomBorderOwner</string>
+	<key>wrapReusableChallengeFactory</key>
+	<string>setAutoAllocatorReference</string>
+</dict>
+</plist>

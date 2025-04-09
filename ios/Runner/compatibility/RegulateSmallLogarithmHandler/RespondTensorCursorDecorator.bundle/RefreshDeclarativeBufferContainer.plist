@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateHierarchicalVectorCache</key>
+	<string>getIgnoredLeftReference</string>
+	<key>continueConcurrentContrastPool</key>
+	<string>storeGeometricVariableManager</string>
+	<key>convertReusableClusterPool</key>
+	<string>limitReusableElasticityFactory</string>
+	<key>initializeEphemeralButtonList</key>
+	<string>getEnabledBaselineAdapter</string>
+	<key>pauseImmutableCoordCollection</key>
+	<string>prepareAccordionDispatcherGroup</string>
+	<key>replaceIndependentInteractionTarget</key>
+	<string>getMissedDepthFilter</string>
+	<key>setBackwardBufferAdapter</key>
+	<string>visitDensePaddingGroup</string>
+	<key>setComprehensiveIndicatorStack</key>
+	<string>reflectIgnoredTextureArray</string>
+	<key>setLargeTempleCache</key>
+	<string>setMediumHashDecorator</string>
+</dict>
+</plist>

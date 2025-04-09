@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compareStaticIntegrityArray</key>
+	<string>trainPrismaticSampleAdapter</string>
+	<key>setDedicatedBottomImplement</key>
+	<string>analyzePrevGemInstance</string>
+	<key>setDedicatedControllerInstance</key>
+	<string>restorePrevMetadataAdapter</string>
+	<key>setLiteFormatDecorator</key>
+	<string>continueUniformParticleBase</string>
+	<key>setLiteTaskHandler</key>
+	<string>skipEphemeralVariantFactory</string>
+	<key>skipRespectiveToleranceProtocol</key>
+	<string>skipArithmeticSkewXManager</string>
+</dict>
+</plist>

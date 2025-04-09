@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateRobustCapacitiesList</key>
+	<string>quantizationRapidContrastArray</string>
+	<key>continueMainNumberCreator</key>
+	<string>transposeSubsequentLayoutHelper</string>
+	<key>convertSortedComponentExtension</key>
+	<string>getNewestBufferExtension</string>
+	<key>setDiscardedChannelsCollection</key>
+	<string>keepAsynchronousSampleExtension</string>
+	<key>setIntermediateDetailGroup</key>
+	<string>visitKeyCacheReference</string>
+	<key>undertakeBeginnerInitiatorsFactory</key>
+	<string>unlockOldBufferCreator</string>
+</dict>
+</plist>

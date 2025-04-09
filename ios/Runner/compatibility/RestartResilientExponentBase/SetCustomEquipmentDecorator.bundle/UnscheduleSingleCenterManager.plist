@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getIndependentFeatureDecorator</key>
+	<string>setSmartVarStack</string>
+	<key>getSortedSchemaBase</key>
+	<string>keepPriorConfigurationManager</string>
+	<key>keepEnabledAssetBase</key>
+	<string>setLargeAccessoryDecorator</string>
+	<key>keepNextTextExtension</key>
+	<string>initializeGranularCenterAdapter</string>
+	<key>locateNextTextureType</key>
+	<string>getLargeTitleHelper</string>
+	<key>obtainSophisticatedParamPool</key>
+	<string>eraseUniformVarType</string>
+	<key>setRelationalDialogsCreator</key>
+	<string>setOriginalStyleExtension</string>
+</dict>
+</plist>

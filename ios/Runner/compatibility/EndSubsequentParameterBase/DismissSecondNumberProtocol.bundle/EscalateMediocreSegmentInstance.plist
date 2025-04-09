@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>restartReusableTitleHandler</key>
+	<string>optimizeConcurrentParticleHelper</string>
+	<key>resumeEnabledResilienceDecorator</key>
+	<string>setUniformParameterInstance</string>
+	<key>setPivotalBufferBase</key>
+	<string>revisitStaticSymbolManager</string>
+	<key>skipSeamlessTextureImplement</key>
+	<string>syncSubtleChartAdapter</string>
+	<key>startAssociatedTopicList</key>
+	<string>rotateStaticFragmentsHandler</string>
+	<key>stopDiversifiedDescentBase</key>
+	<string>getGreatNumberAdapter</string>
+</dict>
+</plist>

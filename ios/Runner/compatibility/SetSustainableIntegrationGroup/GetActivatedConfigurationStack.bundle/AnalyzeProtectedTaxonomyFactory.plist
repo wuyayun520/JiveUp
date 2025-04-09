@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeActivatedGroupFilter</key>
+	<string>holdConcurrentValueInstance</string>
+	<key>mitigateIntuitiveValueStack</key>
+	<string>getSubsequentParameterHelper</string>
+	<key>optimizeIntuitiveListenerInstance</key>
+	<string>getMediumPlaybackDecorator</string>
+	<key>setBeginnerParamBase</key>
+	<string>getPermissiveNumberFilter</string>
+	<key>setSubtleIndexHandler</key>
+	<string>skipUniformStatusFactory</string>
+	<key>trainDirectStyleHandler</key>
+	<string>getIgnoredVolumeDecorator</string>
+</dict>
+</plist>

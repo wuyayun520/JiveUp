@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endIndependentShaderFactory</key>
+	<string>keepEasyRotationList</string>
+	<key>getRobustParamManager</key>
+	<string>releaseUsedTailExtension</string>
+	<key>initializeSpecifyBufferDelegate</key>
+	<string>discoverUnsortedReplicaCache</string>
+	<key>insteadDiscardedEdgeDelegate</key>
+	<string>trainKeyCenterContainer</string>
+	<key>locateStandaloneSizeBase</key>
+	<string>adjustCartesianTopicDelegate</string>
+	<key>setEnabledResultArray</key>
+	<string>prepareSubtleTempleManager</string>
+	<key>syncAccessibleEdgeReference</key>
+	<string>cancelIndependentIndexCache</string>
+	<key>trainOriginalMetadataDecorator</key>
+	<string>restartPermissiveResolverGroup</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureSmallEvolutionObserver</key>
+	<string>prepareOriginalMatrixHandler</string>
+	<key>clearFirstLogDelegate</key>
+	<string>getCustomBufferType</string>
+	<key>enhanceSustainableSizeBase</key>
+	<string>limitSeamlessPolyfillDelegate</string>
+	<key>getDelicateZoneType</key>
+	<string>restartBackwardHeadCreator</string>
+	<key>releaseUniquePreviewTarget</key>
+	<string>compareRelationalFragmentList</string>
+</dict>
+</plist>

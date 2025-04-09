@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keepGlobalVisibleTarget</key>
+	<string>skipOpaquePopupStack</string>
+	<key>mitigateCrucialElementOwner</key>
+	<string>cancelNextParamOwner</string>
+	<key>mitigatePivotalAssetBase</key>
+	<string>finishMediumButtonOwner</string>
+	<key>reflectResilientAssetGroup</key>
+	<string>keepUnsortedConfigurationDelegate</string>
+	<key>setLocalGiftFactory</key>
+	<string>cancelSingleRecursionCollection</string>
+	<key>startBeginnerParamExtension</key>
+	<string>getNextBufferTarget</string>
+	<key>stopFirstSegmentGroup</key>
+	<string>pauseElasticMapHelper</string>
+</dict>
+</plist>

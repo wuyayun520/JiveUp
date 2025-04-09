@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getGeometricInterfaceType</key>
+	<string>getPublicEquivalentTarget</string>
+	<key>pausePermanentTagType</key>
+	<string>continueCurrentValueInstance</string>
+	<key>setActivatedPlaybackObserver</key>
+	<string>initializeMediumResolverCache</string>
+	<key>setReusableLatencyFilter</key>
+	<string>getSimilarFeatureManager</string>
+	<key>startRapidParameterPool</key>
+	<string>findMediumParamCollection</string>
+	<key>stopEphemeralValueCache</key>
+	<string>unlockCustomizedProjectStack</string>
+</dict>
+</plist>

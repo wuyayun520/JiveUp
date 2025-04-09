@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelHierarchicalParamExtension</key>
+	<string>keepDedicatedVarPool</string>
+	<key>endGreatFrameExtension</key>
+	<string>initializePrimaryResultDecorator</string>
+	<key>getBackwardLeftCreator</key>
+	<string>getSymmetricProgressBarTarget</string>
+	<key>getIterativeSpriteHandler</key>
+	<string>restoreHyperbolicOptimizerBase</string>
+	<key>keepUnactivatedBufferHandler</key>
+	<string>prepareSharedMemberGroup</string>
+	<key>setUnsortedDescentObserver</key>
+	<string>setSingleProjectionFactory</string>
+	<key>undertakeCriticalDocumentCollection</key>
+	<string>skipMissedVarCreator</string>
+</dict>
+</plist>

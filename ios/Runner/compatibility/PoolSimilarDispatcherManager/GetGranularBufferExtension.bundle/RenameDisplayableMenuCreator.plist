@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endAccessibleCoordinatorHandler</key>
+	<string>setMultiStyleManager</string>
+	<key>getDisplayableMetadataObserver</key>
+	<string>getReusableInteractionTarget</string>
+	<key>insteadSemanticResourceOwner</key>
+	<string>setDirectCaptionHelper</string>
+	<key>keepIterativeScaleStack</key>
+	<string>setReusableTextureList</string>
+	<key>pauseNewestOccasionContainer</key>
+	<string>resumeEasyBorderExtension</string>
+	<key>resumeDenseBufferHelper</key>
+	<string>getGranularParamList</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateCurrentParticleHelper</key>
+	<string>setRobustVariableList</string>
+	<key>getEnabledIntensityHelper</key>
+	<string>setSimilarTailCache</string>
+	<key>getEphemeralPetCreator</key>
+	<string>pauseAccordionVarReference</string>
+	<key>getNewestFrameGroup</key>
+	<string>movePrismaticPositionInstance</string>
+	<key>poolDiversifiedRecursionInstance</key>
+	<string>getRetainedObjectTarget</string>
+	<key>refreshRetainedActionCreator</key>
+	<string>getPrismaticBoundHandler</string>
+	<key>restartDiscardedActivityImplement</key>
+	<string>continueNormalNameList</string>
+	<key>setRapidNormExtension</key>
+	<string>reducePermissiveScopeTarget</string>
+	<key>setSortedIndexBase</key>
+	<string>updateSophisticatedScreenAdapter</string>
+	<key>transposeIterativePlaybackCreator</key>
+	<string>setUnsortedScaleContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concatenateBasicNodeCache</key>
+	<string>cleanFirstGraphicDelegate</string>
+	<key>getDirectLayoutHelper</key>
+	<string>setPriorIndexCache</string>
+	<key>keepFusedDataDelegate</key>
+	<string>setAsynchronousFragmentsExtension</string>
+	<key>skipMutableNumberHelper</key>
+	<string>setUsedMasterCreator</string>
+	<key>startDenseLayoutBase</key>
+	<string>finishPrismaticHashImplement</string>
+	<key>storeUsedMultiplicationList</key>
+	<string>prepareKeyTempleCreator</string>
+	<key>unscheduleDiversifiedBufferManager</key>
+	<string>acceleratePivotalConstantHelper</string>
+</dict>
+</plist>

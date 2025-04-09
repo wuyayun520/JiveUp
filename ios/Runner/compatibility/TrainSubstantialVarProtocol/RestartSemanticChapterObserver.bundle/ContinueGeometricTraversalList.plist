@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeCrucialMaterialType</key>
+	<string>setCriticalBufferCache</string>
+	<key>initializeSimilarValueBase</key>
+	<string>pauseCrudeScopePool</string>
+	<key>resumeRespectiveIndexType</key>
+	<string>startCustomizedZoneBase</string>
+	<key>trainAssociatedToolHandler</key>
+	<string>setAssociatedBufferList</string>
+</dict>
+</plist>

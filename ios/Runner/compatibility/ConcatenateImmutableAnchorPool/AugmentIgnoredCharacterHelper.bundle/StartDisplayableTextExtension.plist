@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateIgnoredControllerTarget</key>
+	<string>computeIgnoredBoundCache</string>
+	<key>drawElasticDepthManager</key>
+	<string>getGreatFlagsAdapter</string>
+	<key>endAsynchronousValueBase</key>
+	<string>skipDiversifiedOptimizerPool</string>
+	<key>setMissedValueType</key>
+	<string>concatenatePermissiveDeliveryGroup</string>
+	<key>setSignificantVisiblePool</key>
+	<string>getCrucialCenterDecorator</string>
+</dict>
+</plist>

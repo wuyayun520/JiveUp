@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentSortedChannelsCache</key>
+	<string>generateIgnoredNameFactory</string>
+	<key>getSharedScaleAdapter</key>
+	<string>cancelAdvancedBottomStack</string>
+	<key>obtainSecondInstructionManager</key>
+	<string>getSemanticSizeOwner</string>
+	<key>resumeUniqueNumberCollection</key>
+	<string>stopMutableProgressBarCreator</string>
+	<key>setPrimaryTextureCreator</key>
+	<string>getRespectiveListenerPool</string>
+</dict>
+</plist>

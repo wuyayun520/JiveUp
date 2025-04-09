@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>divideStaticProfileObserver</key>
+	<string>getSortedRecursionTarget</string>
+	<key>freeAssociatedVertexImplement</key>
+	<string>getRespectiveChapterHandler</string>
+	<key>setExplicitParamFilter</key>
+	<string>getSecondPermutationObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateMainIndexHandler</key>
+	<string>finishNextVarFilter</string>
+	<key>getGeometricShapeAdapter</key>
+	<string>getUsedFeatureCollection</string>
+	<key>getMissedDetailManager</key>
+	<string>getBackwardParameterFilter</string>
+	<key>getSingleChecklistList</key>
+	<string>removeMissedMobileAdapter</string>
+	<key>holdPermissiveAllocatorFactory</key>
+	<string>getBackwardVariableHelper</string>
+	<key>introspectActivatedNumberCollection</key>
+	<string>cancelOldBitrateContainer</string>
+	<key>offsetAutoPointDelegate</key>
+	<string>makeMultiTopProtocol</string>
+	<key>restoreTensorStyleHelper</key>
+	<string>getUniformTaskObserver</string>
+</dict>
+</plist>

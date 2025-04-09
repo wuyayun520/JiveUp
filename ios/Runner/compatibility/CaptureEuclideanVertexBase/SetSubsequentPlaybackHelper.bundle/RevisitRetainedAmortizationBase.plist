@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelRespectiveBorderFactory</key>
+	<string>skipLiteResultCreator</string>
+	<key>getSemanticVariableList</key>
+	<string>getCrudeGemType</string>
+	<key>pauseNumericalParameterReference</key>
+	<string>getHyperbolicNameReference</string>
+	<key>renameCriticalMenuAdapter</key>
+	<string>moveDiscardedCosineCache</string>
+	<key>setGlobalArchitectureCreator</key>
+	<string>setStaticFormatHelper</string>
+	<key>setRequiredResourceAdapter</key>
+	<string>destroyConcreteBaselineFilter</string>
+	<key>writeGeometricEdgeBase</key>
+	<string>dismissDeclarativeColorBase</string>
+</dict>
+</plist>

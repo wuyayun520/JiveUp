@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentSemanticCenterTarget</key>
+	<string>setUnactivatedDepthList</string>
+	<key>drawAgileVariableFactory</key>
+	<string>updateBasicVertexArray</string>
+	<key>getSemanticBufferFactory</key>
+	<string>obtainHierarchicalScaleBase</string>
+	<key>locateRapidRotationCreator</key>
+	<string>playConsultativeVariableFilter</string>
+	<key>lockDelicatePreviewFactory</key>
+	<string>readSmartGroupTarget</string>
+	<key>navigateSmartInitiatorsTarget</key>
+	<string>optimizeSymmetricPolygonAdapter</string>
+	<key>setTensorNodeProtocol</key>
+	<string>getLostValueGroup</string>
+	<key>startCustomizedDialogsContainer</key>
+	<string>setAccessibleVariableCache</string>
+</dict>
+</plist>

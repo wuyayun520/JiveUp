@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkPrismaticDescriptionFactory</key>
+	<string>getSingleMatrixContainer</string>
+	<key>getLargeHeadFactory</key>
+	<string>setCriticalLayerInstance</string>
+	<key>keepEuclideanTempleList</key>
+	<string>quitLiteValueAdapter</string>
+	<key>prepareDirectlyNumberFactory</key>
+	<string>setTypicalHashStack</string>
+	<key>prepareIterativeComponentStack</key>
+	<string>setRespectiveViewOwner</string>
+	<key>quitEasyVisibleImplement</key>
+	<string>initializeSubtleBorderArray</string>
+	<key>refreshProtectedDataTarget</key>
+	<string>trainSemanticParamHelper</string>
+	<key>replaceTensorLayerHelper</key>
+	<string>skipMissedTextAdapter</string>
+	<key>resetAccordionOriginExtension</key>
+	<string>pauseNextDocumentDelegate</string>
+</dict>
+</plist>

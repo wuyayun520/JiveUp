@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getRelationalViewAdapter</key>
+	<string>getLocalEffectHandler</string>
+	<key>initializeActivatedEdgeCreator</key>
+	<string>skipNormalValueProtocol</string>
+	<key>markSecondBufferReference</key>
+	<string>generateRespectiveTweakManager</string>
+	<key>optimizeRespectivePolygonTarget</key>
+	<string>getUnsortedDurationProtocol</string>
+	<key>resizeAccordionGroupContainer</key>
+	<string>getGranularLayoutList</string>
+	<key>seekCurrentReplicaContainer</key>
+	<string>setNumericalStyleBase</string>
+	<key>spinConcurrentCompositionAdapter</key>
+	<string>seekCrudeOriginGroup</string>
+</dict>
+</plist>

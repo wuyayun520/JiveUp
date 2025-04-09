@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelRespectiveWorkflowCollection</key>
+	<string>allocateDirectlyHashCollection</string>
+	<key>encapsulateUniformMendManager</key>
+	<string>keepCrudeBufferStack</string>
+	<key>getEphemeralGridTarget</key>
+	<string>playLostVarHandler</string>
+	<key>setLastIntegrationReference</key>
+	<string>cleanAutoProgressBarFactory</string>
+	<key>skipPrismaticVarOwner</key>
+	<string>getIterativeBulletOwner</string>
+	<key>streamlinePermissiveParamHelper</key>
+	<string>obtainActivatedProgressBarStack</string>
+</dict>
+</plist>

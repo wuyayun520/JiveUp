@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkCommonThreadCache</key>
+	<string>getOpaqueValueInstance</string>
+	<key>getAdvancedCenterReference</key>
+	<string>setCriticalVariableGroup</string>
+	<key>getEasyResultBase</key>
+	<string>setLastVolumeStack</string>
+	<key>getLargeBufferReference</key>
+	<string>restartPublicNameList</string>
+	<key>getPrismaticStyleProtocol</key>
+	<string>setAccessibleValueImplement</string>
+	<key>requestDedicatedExponentImplement</key>
+	<string>initializeProtectedTagOwner</string>
+	<key>setSecondThresholdPool</key>
+	<string>initializeMainLatencyFilter</string>
+	<key>writeDirectlyParamStack</key>
+	<string>cancelSemanticParamBase</string>
+</dict>
+</plist>

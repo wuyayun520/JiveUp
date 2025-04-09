@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSemanticGridAdapter</key>
+	<string>discoverBeginnerObserverTarget</string>
+	<key>prepareIntermediateLeftHelper</key>
+	<string>resumeStandaloneNavigationProtocol</string>
+	<key>retrieveMultiDocumentExtension</key>
+	<string>getPublicResultFilter</string>
+	<key>setBackwardZoneHandler</key>
+	<string>reduceRequiredColorCache</string>
+	<key>setGreatLossOwner</key>
+	<string>wrapOpaqueNumberManager</string>
+	<key>setReusableSkewYPool</key>
+	<string>getCrudeParameterAdapter</string>
+	<key>startHyperbolicTempleAdapter</key>
+	<string>trainRapidCenterAdapter</string>
+	<key>upgradeNextBufferPool</key>
+	<string>setEnabledEntropyPool</string>
+</dict>
+</plist>

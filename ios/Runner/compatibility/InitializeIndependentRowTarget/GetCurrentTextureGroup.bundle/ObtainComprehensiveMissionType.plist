@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addConsultativeVectorFactory</key>
+	<string>getDisparateHashCreator</string>
+	<key>aggregateGlobalOpacityExtension</key>
+	<string>resumeAccordionAnchorHandler</string>
+	<key>augmentDeclarativeVarType</key>
+	<string>endSmartTimelineStack</string>
+	<key>augmentUniformNormCollection</key>
+	<string>initializeIntuitiveStyleExtension</string>
+	<key>getBasicSliderFilter</key>
+	<string>getOpaqueSizeProtocol</string>
+	<key>moveMediumRightTarget</key>
+	<string>reconcileElasticBandwidthObserver</string>
+	<key>readSustainableTrianglesObserver</key>
+	<string>revisitSharedEntropyPool</string>
+	<key>resumeMissedGraphCollection</key>
+	<string>startPrevVertexFactory</string>
+	<key>setTensorVectorPool</key>
+	<string>getUniformRestrictionStack</string>
+	<key>startAsynchronousAssetCollection</key>
+	<string>clearSynchronousBrushContainer</string>
+</dict>
+</plist>

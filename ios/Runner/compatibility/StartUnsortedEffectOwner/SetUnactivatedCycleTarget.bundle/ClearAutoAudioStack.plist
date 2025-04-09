@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getOriginalVariableBase</key>
+	<string>pauseCustomizedSegmentGroup</string>
+	<key>initializeBasicMemberDelegate</key>
+	<string>continueDirectOpacityDelegate</string>
+	<key>prepareSingleDialogsDelegate</key>
+	<string>getCrucialBufferDecorator</string>
+	<key>setSeamlessPetArray</key>
+	<string>startComprehensiveGramCreator</string>
+	<key>trainCommonReliabilityImplement</key>
+	<string>startConcurrentEffectReference</string>
+</dict>
+</plist>

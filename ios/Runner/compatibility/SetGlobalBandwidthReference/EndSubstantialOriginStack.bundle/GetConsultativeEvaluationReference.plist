@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getConcreteSymbolHandler</key>
+	<string>embraceGlobalIndexManager</string>
+	<key>getMutableBufferManager</key>
+	<string>allocateGlobalParamArray</string>
+	<key>initializeLargeIntegrityHandler</key>
+	<string>startActivatedMediaExtension</string>
+	<key>initializeMainBorderReference</key>
+	<string>clearCriticalCapsuleExtension</string>
+	<key>initializeSecondClusterCache</key>
+	<string>pauseCriticalRowCache</string>
+	<key>reflectConcurrentScopeDecorator</key>
+	<string>keepFusedTempleCache</string>
+	<key>setNewestBufferManager</key>
+	<string>setNumericalTagReference</string>
+</dict>
+</plist>

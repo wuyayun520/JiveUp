@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>encapsulateSemanticVarHelper</key>
+	<string>prepareExplicitNameCache</string>
+	<key>getUniquePositionCollection</key>
+	<string>accelerateUniqueSessionDecorator</string>
+	<key>removeLocalDescriptionCollection</key>
+	<string>startConcreteVariablePool</string>
+	<key>setDedicatedUnaryCache</key>
+	<string>getNewestScalabilityGroup</string>
+	<key>stopDisparateInterfaceArray</key>
+	<string>endSignificantApertureExtension</string>
+</dict>
+</plist>

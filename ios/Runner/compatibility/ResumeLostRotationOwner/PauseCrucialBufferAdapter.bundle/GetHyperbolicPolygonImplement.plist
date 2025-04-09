@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>freeCriticalEffectBase</key>
+	<string>aggregateDirectValueProtocol</string>
+	<key>freeHierarchicalSkewYFactory</key>
+	<string>endRobustSizeDelegate</string>
+	<key>getDeclarativeCapacityHandler</key>
+	<string>computeAccessibleParameterAdapter</string>
+	<key>getKeySkewYArray</key>
+	<string>quantizerAccessibleColorDelegate</string>
+	<key>prepareSemanticRotationAdapter</key>
+	<string>drawSubsequentTopGroup</string>
+	<key>setSynchronousParamCache</key>
+	<string>finishUnsortedVariableExtension</string>
+	<key>touchCurrentScenarioCreator</key>
+	<string>createFusedLogarithmExtension</string>
+</dict>
+</plist>

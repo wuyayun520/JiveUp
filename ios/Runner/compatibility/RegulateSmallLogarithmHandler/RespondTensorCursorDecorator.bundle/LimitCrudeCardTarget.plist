@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedEnabledSpriteBase</key>
+	<string>combineSubsequentFrameType</string>
+	<key>getCustomizedChartAdapter</key>
+	<string>getLargeDescentStack</string>
+	<key>getGreatMediaCollection</key>
+	<string>pauseDisplayableVariableStack</string>
+	<key>keepIgnoredReplicaStack</key>
+	<string>drawExplicitTagObserver</string>
+	<key>keepRequiredDescriptionImplement</key>
+	<string>getHardTrianglesCollection</string>
+	<key>restartDisplayableVariableAdapter</key>
+	<string>compareProtectedListenerHandler</string>
+</dict>
+</plist>

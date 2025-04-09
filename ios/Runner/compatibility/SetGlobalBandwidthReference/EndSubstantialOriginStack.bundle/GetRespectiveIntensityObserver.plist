@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelLiteTopHandler</key>
+	<string>setEnabledBoundFactory</string>
+	<key>combineAdvancedFramePool</key>
+	<string>setAssociatedVarGroup</string>
+	<key>finishOriginalScaleOwner</key>
+	<string>trainCustomFeaturePool</string>
+	<key>getHyperbolicVariableHelper</key>
+	<string>discoverDiversifiedTextureDecorator</string>
+	<key>initializeMainVectorHandler</key>
+	<string>getUniformRectangleHelper</string>
+	<key>setPrimaryParamPool</key>
+	<string>setIterativeCosinePool</string>
+	<key>setSustainableVariableHandler</key>
+	<string>setOldPolygonList</string>
+	<key>streamlineDeclarativeTagDelegate</key>
+	<string>trainLastVarHelper</string>
+</dict>
+</plist>

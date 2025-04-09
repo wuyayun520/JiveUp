@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedNextSkewXArray</key>
+	<string>setCurrentGridDelegate</string>
+	<key>getSubsequentSizeCreator</key>
+	<string>trainGranularDimensionCache</string>
+	<key>initializeMultiModuleCreator</key>
+	<string>prepareIndependentNodeContainer</string>
+	<key>replaceAccordionFragmentsList</key>
+	<string>continuePermanentIndexPool</string>
+</dict>
+</plist>

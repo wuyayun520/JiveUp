@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachSharedChartProtocol</key>
+	<string>drawNextBufferType</string>
+	<key>holdNumericalDepthObserver</key>
+	<string>resizeProtectedBottomContainer</string>
+	<key>prepareReusableCurveDelegate</key>
+	<string>getMissedNumberContainer</string>
+	<key>resumeTypicalBoundManager</key>
+	<string>skipStaticNumberOwner</string>
+	<key>setHardValueDecorator</key>
+	<string>stopActivatedActionObserver</string>
+	<key>startCurrentClusterOwner</key>
+	<string>limitSubtleAudioHandler</string>
+	<key>wrapSynchronousDescriptionReference</key>
+	<string>skipPrismaticResultFilter</string>
+</dict>
+</plist>

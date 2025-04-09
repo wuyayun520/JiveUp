@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelPermissiveBufferReference</key>
+	<string>divideLostStatusReference</string>
+	<key>generateMutableParamReference</key>
+	<string>getImmutableVarCollection</string>
+	<key>setGranularBufferArray</key>
+	<string>skipPublicValueArray</string>
+	<key>setTypicalInterpolationCreator</key>
+	<string>keepExplicitShapeProtocol</string>
+	<key>updateReusableLayoutManager</key>
+	<string>augmentPermanentGrainList</string>
+</dict>
+</plist>

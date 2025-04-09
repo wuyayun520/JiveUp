@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismissProtectedPreviewHandler</key>
+	<string>cancelSmallBufferObserver</string>
+	<key>dissociateBasicOpacityList</key>
+	<string>getPrevQueueInstance</string>
+	<key>equalSubsequentCenterArray</key>
+	<string>clearSemanticValueContainer</string>
+	<key>getCustomSizeArray</key>
+	<string>setStandaloneLeftManager</string>
+	<key>introspectStandaloneGridCreator</key>
+	<string>restartDiversifiedVarFilter</string>
+	<key>markSemanticVarReference</key>
+	<string>adjustSubtleRoleManager</string>
+	<key>releaseEuclideanParamHandler</key>
+	<string>displayExplicitMissionTarget</string>
+	<key>resumeTypicalLayoutGroup</key>
+	<string>makeConcurrentDeliveryBase</string>
+	<key>setRapidDescriptionCreator</key>
+	<string>getComprehensiveFrameType</string>
+	<key>startReusableObserverStack</key>
+	<string>quantizationSophisticatedNumberPool</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueStaticFlagsArray</key>
+	<string>discoverBeginnerInstructionArray</string>
+	<key>getDirectlyLabelTarget</key>
+	<string>getCommonBufferArray</string>
+	<key>getRequiredAnimationStack</key>
+	<string>restartSustainableStateStack</string>
+	<key>pushIgnoredItemAdapter</key>
+	<string>offsetHierarchicalStrengthFactory</string>
+	<key>rotateOldTailReference</key>
+	<string>analyzeOpaqueParamObserver</string>
+	<key>seekPublicTagFilter</key>
+	<string>setPriorCharacterType</string>
+	<key>setIterativeVarManager</key>
+	<string>setGeometricNameAdapter</string>
+</dict>
+</plist>

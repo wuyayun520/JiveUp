@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keepRequiredCoordStack</key>
+	<string>dissociateSemanticMapGroup</string>
+	<key>keepSynchronousFlagsFilter</key>
+	<string>setOtherTernaryFilter</string>
+	<key>pushDeclarativeTopTarget</key>
+	<string>finishSimilarCapacityCache</string>
+	<key>renameBackwardLatencyCreator</key>
+	<string>getSynchronousLogHelper</string>
+	<key>restartIgnoredLabelHandler</key>
+	<string>setIterativeArithmeticType</string>
+	<key>restartResilientSampleList</key>
+	<string>enumerateStaticLatencyHelper</string>
+	<key>retrieveIntermediateMomentumHelper</key>
+	<string>getMediocreSizeTarget</string>
+	<key>skipTypicalTempleProtocol</key>
+	<string>resumeIntuitiveEquivalentFilter</string>
+</dict>
+</plist>

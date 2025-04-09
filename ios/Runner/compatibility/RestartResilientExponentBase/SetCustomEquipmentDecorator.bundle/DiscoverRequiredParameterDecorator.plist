@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endIntermediateSpriteTarget</key>
+	<string>getDenseParameterFilter</string>
+	<key>getBasicLoaderPool</key>
+	<string>wrapCrudeParameterContainer</string>
+	<key>getPrevBitrateManager</key>
+	<string>finishDirectlyResultDelegate</string>
+	<key>setBasicBottomManager</key>
+	<string>finishHierarchicalPlateProtocol</string>
+	<key>setDisparateArchitectureTarget</key>
+	<string>skipPivotalInterfaceObserver</string>
+	<key>setTypicalScreenCollection</key>
+	<string>getDiversifiedValueInstance</string>
+	<key>syncIntuitiveSoundHandler</key>
+	<string>initializeRequiredAnchorFactory</string>
+</dict>
+</plist>

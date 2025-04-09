@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>encapsulateLostTweakDelegate</key>
+	<string>pauseNumericalModulusHelper</string>
+	<key>getLastEdgeOwner</key>
+	<string>touchSymmetricQueuePool</string>
+	<key>getMutableTextManager</key>
+	<string>provideEasyScaleOwner</string>
+	<key>getNormalLabelDecorator</key>
+	<string>keepHardSpriteHelper</string>
+	<key>mitigateCrudeHeroCache</key>
+	<string>endDedicatedTopList</string>
+	<key>setPivotalTempleList</key>
+	<string>startPermissiveVisibleOwner</string>
+</dict>
+</plist>

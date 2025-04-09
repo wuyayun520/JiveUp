@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishSynchronousSceneManager</key>
+	<string>setSemanticDescriptionReference</string>
+	<key>getAccordionVarHandler</key>
+	<string>setMutableAnchorList</string>
+	<key>setDenseValueCache</key>
+	<string>allocateAssociatedVariableCache</string>
+	<key>setSmallColorFilter</key>
+	<string>setIgnoredStrokeCollection</string>
+	<key>trainLastSlashHelper</key>
+	<string>addDiversifiedOriginExtension</string>
+</dict>
+</plist>

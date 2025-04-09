@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzePermissiveCursorType</key>
+	<string>finishSemanticFrameList</string>
+	<key>captureRetainedParameterCache</key>
+	<string>setMissedCapsuleCollection</string>
+	<key>insteadStaticVectorInstance</key>
+	<string>initializeStandaloneRotationManager</string>
+	<key>retrieveTypicalSkewYAdapter</key>
+	<string>getPriorKernelInstance</string>
+	<key>setCartesianHeadAdapter</key>
+	<string>resumeSharedSignatureBase</string>
+	<key>setCommonConfidentialityFilter</key>
+	<string>setIterativeEffectContainer</string>
+	<key>setLargeMenuContainer</key>
+	<string>setOtherDialogsCollection</string>
+	<key>startPermanentEventHelper</key>
+	<string>trainPriorInteractionHandler</string>
+	<key>trainCriticalVariableBase</key>
+	<string>keepAgileShapeDelegate</string>
+</dict>
+</plist>

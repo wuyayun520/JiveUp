@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getAdvancedRectangleManager</key>
+	<string>augmentDisplayableScaleHelper</string>
+	<key>getPriorNumberCollection</key>
+	<string>getCustomizedValueType</string>
+	<key>getSeamlessSpriteStack</key>
+	<string>limitResilientLayerObserver</string>
+	<key>offsetCriticalDurationImplement</key>
+	<string>cancelAssociatedValueCollection</string>
+	<key>resumeSignificantBorderDelegate</key>
+	<string>discoverPrismaticStrengthAdapter</string>
+	<key>setSingleTimelineList</key>
+	<string>getCustomDimensionArray</string>
+</dict>
+</plist>

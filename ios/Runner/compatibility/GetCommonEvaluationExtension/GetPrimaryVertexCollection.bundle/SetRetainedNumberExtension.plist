@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pauseStandaloneBottomFilter</key>
+	<string>initializeOldLabelReference</string>
+	<key>quantizationIntuitiveBufferArray</key>
+	<string>setIgnoredVariableOwner</string>
+	<key>restartLocalValueTarget</key>
+	<string>setSingleHeadPool</string>
+	<key>restoreSmallCoordAdapter</key>
+	<string>refreshMissedParameterHelper</string>
+	<key>scheduleSmallVarObserver</key>
+	<string>exitOriginalNumberGroup</string>
+	<key>setDisplayableEquivalentOwner</key>
+	<string>setGranularPopupBase</string>
+	<key>stopNormalParameterExtension</key>
+	<string>moveUniformCapacityInstance</string>
+	<key>stopProtectedArchitectureDecorator</key>
+	<string>setAssociatedProvisionType</string>
+</dict>
+</plist>

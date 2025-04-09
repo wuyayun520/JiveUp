@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getGranularTagStack</key>
+	<string>restartUnactivatedDescriptorHelper</string>
+	<key>mitigateNumericalEfficiencyStack</key>
+	<string>initializePermissiveBufferContainer</string>
+	<key>pushRapidValueFactory</key>
+	<string>continueMutableProfileAdapter</string>
+	<key>restartTensorStampOwner</key>
+	<string>trainGeometricNumberExtension</string>
+</dict>
+</plist>

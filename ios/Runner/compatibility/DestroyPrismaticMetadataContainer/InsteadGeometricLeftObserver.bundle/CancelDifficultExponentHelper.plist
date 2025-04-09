@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>destroyCriticalSkewXDelegate</key>
+	<string>replaceActivatedDescriptionBase</string>
+	<key>endSemanticParamOwner</key>
+	<string>initializeCartesianParamOwner</string>
+	<key>finishMainTopManager</key>
+	<string>restartBasicModuleDecorator</string>
+	<key>limitSubtleTailAdapter</key>
+	<string>prepareHierarchicalTextureObserver</string>
+	<key>reduceSpecifyQuaternionHandler</key>
+	<string>revisitResilientTempleFactory</string>
+</dict>
+</plist>

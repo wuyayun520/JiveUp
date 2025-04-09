@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustIgnoredParameterAdapter</key>
+	<string>getDiscardedHeapCollection</string>
+	<key>animateUnactivatedDepthObserver</key>
+	<string>trainActivatedIndicatorTarget</string>
+	<key>finishSubsequentTrajectoryStack</key>
+	<string>setMissedVarStack</string>
+	<key>keepRobustOperationHandler</key>
+	<string>discoverDelicateIndexList</string>
+	<key>setOtherDescriptionExtension</key>
+	<string>setRapidGroupStack</string>
+	<key>trainUnsortedScenarioArray</key>
+	<string>getDiversifiedInformationCollection</string>
+	<key>upgradeHyperbolicFragmentOwner</key>
+	<string>getNumericalApertureProtocol</string>
+</dict>
+</plist>

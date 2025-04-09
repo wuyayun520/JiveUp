@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelGreatEdgeImplement</key>
+	<string>setGlobalSubpixelList</string>
+	<key>generateDenseNotationArray</key>
+	<string>getStandaloneVariableTarget</string>
+	<key>getPriorPopupDelegate</key>
+	<string>skipGlobalMapCollection</string>
+	<key>setImmutableTaskArray</key>
+	<string>setComprehensivePriorityObserver</string>
+</dict>
+</plist>

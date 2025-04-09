@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endGreatPrecisionFilter</key>
+	<string>limitDirectAnchorList</string>
+	<key>parseOpaqueBorderDelegate</key>
+	<string>embedEuclideanDetailAdapter</string>
+	<key>reduceSemanticBorderReference</key>
+	<string>insteadRespectiveMovementPool</string>
+	<key>setNumericalSkirtFilter</key>
+	<string>setNormalMetricsFactory</string>
+	<key>setResilientVariableContainer</key>
+	<string>updateDenseSubpixelDelegate</string>
+</dict>
+</plist>

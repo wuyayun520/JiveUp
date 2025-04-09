@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelComprehensiveMetricsProtocol</key>
+	<string>cancelPrevSceneDelegate</string>
+	<key>discoverSimilarSampleProtocol</key>
+	<string>stopUsedCatalystInstance</string>
+	<key>embedDeclarativeNumberOwner</key>
+	<string>setPriorResourceCreator</string>
+	<key>endFusedAmortizationDecorator</key>
+	<string>getCommonSizeGroup</string>
+	<key>finishLargeRowBase</key>
+	<string>getDedicatedBrushContainer</string>
+	<key>setGranularColorList</key>
+	<string>setHierarchicalGraphGroup</string>
+	<key>startUsedRestrictionStack</key>
+	<string>continueMultiBufferManager</string>
+	<key>trainCrucialElasticityHelper</key>
+	<string>trainSustainableSkewYManager</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generateSmartValueFactory</key>
+	<string>introspectMutableSizePool</string>
+	<key>getTypicalInterfaceAdapter</key>
+	<string>restartAccordionAspectList</string>
+	<key>getUniformSkirtHelper</key>
+	<string>getGlobalLabelImplement</string>
+</dict>
+</plist>

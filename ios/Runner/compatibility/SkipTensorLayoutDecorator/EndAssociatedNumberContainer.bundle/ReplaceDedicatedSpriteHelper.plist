@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishKeyStepHelper</key>
+	<string>dissociateSharedToleranceHelper</string>
+	<key>getEasySchedulerAdapter</key>
+	<string>checkElasticTagHelper</string>
+	<key>getPermissiveMetadataOwner</key>
+	<string>destroySemanticLeftFilter</string>
+	<key>keepSingleRectangleInstance</key>
+	<string>appendAccessibleBufferContainer</string>
+	<key>setPrimaryNumberContainer</key>
+	<string>finishCriticalAlphaHelper</string>
+	<key>setRespectiveTitleObserver</key>
+	<string>setBasicFlagsFilter</string>
+</dict>
+</plist>

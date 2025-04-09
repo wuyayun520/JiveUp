@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compareEnabledModuleImplement</key>
+	<string>restartRequiredRestrictionDecorator</string>
+	<key>detachNextSkewYDecorator</key>
+	<string>startNextDetailHelper</string>
+	<key>pauseGeometricValueDelegate</key>
+	<string>setDirectlySkewXFilter</string>
+	<key>resetAgileScenarioHandler</key>
+	<string>clearAdvancedInfoBase</string>
+	<key>setSingleConfigurationHelper</key>
+	<string>displayPrismaticParameterDecorator</string>
+	<key>skipHierarchicalElementInstance</key>
+	<string>resumeStaticPopupList</string>
+</dict>
+</plist>

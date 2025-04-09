@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>floatSortedSizeProtocol</key>
+	<string>spinPrevMetricsImplement</string>
+	<key>getAgileFlagsList</key>
+	<string>keepDenseVolumeStack</string>
+	<key>getDirectPointStack</key>
+	<string>prepareExplicitFrameContainer</string>
+	<key>getFirstPositionOwner</key>
+	<string>getHierarchicalQuaternionObserver</string>
+	<key>getLastProvisionReference</key>
+	<string>setCommonDepthContainer</string>
+	<key>getStaticFeatureDelegate</key>
+	<string>generateLostSkewYStack</string>
+	<key>getSymmetricListenerAdapter</key>
+	<string>escalateAsynchronousVarCollection</string>
+	<key>initializeReusableMetricsOwner</key>
+	<string>quitExplicitProjectionInstance</string>
+	<key>setCriticalBehaviorDelegate</key>
+	<string>trainExplicitQueueDecorator</string>
+	<key>trainSeamlessDescriptionDecorator</key>
+	<string>setPrevVisibleGroup</string>
+</dict>
+</plist>

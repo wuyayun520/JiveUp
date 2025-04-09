@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachMutableGiftDelegate</key>
+	<string>resizeOldColorGroup</string>
+	<key>finishMultiLabelGroup</key>
+	<string>setSubtleRemainderTarget</string>
+	<key>getMainDialogsDecorator</key>
+	<string>allocateLitePlaybackGroup</string>
+	<key>keepKeyScaleContainer</key>
+	<string>setNumericalEventCache</string>
+	<key>navigateSemanticModulusType</key>
+	<string>setSymmetricVarType</string>
+	<key>setLiteSkewYFactory</key>
+	<string>unscheduleLostLoopPool</string>
+	<key>stopConcreteParameterProtocol</key>
+	<string>setLostBottomGroup</string>
+</dict>
+</plist>

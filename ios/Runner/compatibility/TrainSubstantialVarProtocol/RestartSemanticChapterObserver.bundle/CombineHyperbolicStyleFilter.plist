@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addOriginalDescriptionAdapter</key>
+	<string>setAsynchronousVariableDelegate</string>
+	<key>getConcreteVariableFactory</key>
+	<string>getIntermediateDescriptionFilter</string>
+	<key>getSharedDescriptionList</key>
+	<string>retrieveEnabledToolArray</string>
+	<key>initializeCrucialPositionContainer</key>
+	<string>pauseKeyEdgeManager</string>
+	<key>initializeCustomRectHandler</key>
+	<string>trainUniformParamProtocol</string>
+	<key>setNextScaleList</key>
+	<string>prepareEasyOriginBase</string>
+</dict>
+</plist>

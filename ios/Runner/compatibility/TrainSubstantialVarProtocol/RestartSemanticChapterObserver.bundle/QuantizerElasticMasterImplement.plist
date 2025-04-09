@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueDiversifiedSpriteDelegate</key>
+	<string>convertMissedParameterPool</string>
+	<key>getHardZoneArray</key>
+	<string>getCrudePositionDecorator</string>
+	<key>prepareRapidParameterTarget</key>
+	<string>generateSubsequentNumberDecorator</string>
+	<key>setOtherNumberContainer</key>
+	<string>setMissedGrainHelper</string>
+	<key>setSymmetricTextureImplement</key>
+	<string>pauseGlobalBufferHelper</string>
+	<key>syncFusedValueReference</key>
+	<string>dropoutBeginnerOccasionPool</string>
+</dict>
+</plist>

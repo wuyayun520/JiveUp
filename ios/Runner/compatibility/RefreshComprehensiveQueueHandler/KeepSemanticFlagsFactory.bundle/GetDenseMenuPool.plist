@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>freeReusableScaleArray</key>
+	<string>getOldSpriteCollection</string>
+	<key>getBeginnerMenuContainer</key>
+	<string>setEnabledRightCache</string>
+	<key>startTypicalConfigurationType</key>
+	<string>trainRapidCoordinatorContainer</string>
+	<key>stopGranularComponentGroup</key>
+	<string>continuePublicPreviewDecorator</string>
+</dict>
+</plist>

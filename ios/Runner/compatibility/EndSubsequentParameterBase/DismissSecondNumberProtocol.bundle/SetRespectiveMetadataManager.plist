@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelStandaloneGraphicExtension</key>
+	<string>setMainCoordObserver</string>
+	<key>continueSemanticOperationPool</key>
+	<string>wrapStaticSizeType</string>
+	<key>getEuclideanTaxonomyDecorator</key>
+	<string>getOtherVarBase</string>
+	<key>lockSharedPolygonDelegate</key>
+	<string>addNextIntegrationObserver</string>
+	<key>prepareDifficultTextureHelper</key>
+	<string>resizeDisplayableGraphicAdapter</string>
+	<key>restartCartesianQueueHandler</key>
+	<string>skipRobustCenterList</string>
+	<key>setUniformTagContainer</key>
+	<string>pauseLostPositionFilter</string>
+	<key>skipFusedStepType</key>
+	<string>replaceActivatedCenterReference</string>
+	<key>startNumericalValueBase</key>
+	<string>replaceSustainableTailFilter</string>
+</dict>
+</plist>

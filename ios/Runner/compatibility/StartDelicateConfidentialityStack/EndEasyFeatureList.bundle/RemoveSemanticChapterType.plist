@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueConcurrentBufferTarget</key>
+	<string>startSubtleTimelineStack</string>
+	<key>restartDisplayableLayerExtension</key>
+	<string>convertOpaqueBoundCache</string>
+	<key>setCommonDepthBase</key>
+	<string>multiplyMediumProgressBarFactory</string>
+	<key>setComprehensiveValueFilter</key>
+	<string>requestUnsortedTailHandler</string>
+	<key>setCustomizedStateProtocol</key>
+	<string>searchSemanticLayoutCollection</string>
+	<key>setMediocreMenuArray</key>
+	<string>releaseSimilarParamPool</string>
+</dict>
+</plist>

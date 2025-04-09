@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateLargeRowCreator</key>
+	<string>stopOldIndexArray</string>
+	<key>detachRelationalModulusAdapter</key>
+	<string>setDirectCoordArray</string>
+	<key>initializeDirectCosineExtension</key>
+	<string>clipPublicMatrixCache</string>
+	<key>limitDiscardedSkewXTarget</key>
+	<string>restartCustomizedViewGroup</string>
+	<key>scheduleEphemeralResultCache</key>
+	<string>setLostSkewXPool</string>
+	<key>setFirstVarCollection</key>
+	<string>endCommonCertificateCollection</string>
+	<key>setLostUsageStack</key>
+	<string>restartIgnoredTempleCollection</string>
+</dict>
+</plist>

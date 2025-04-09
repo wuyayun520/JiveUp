@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelConcurrentReductionCache</key>
+	<string>poolTensorListenerInstance</string>
+	<key>cancelImmutableRotationReference</key>
+	<string>setUnsortedTimelineHelper</string>
+	<key>decoupleImmutableMechanismImplement</key>
+	<string>trainLiteStateType</string>
+	<key>getSustainableUnaryFilter</key>
+	<string>skipPublicNumberType</string>
+	<key>setTensorChallengeExtension</key>
+	<string>getPivotalToleranceCache</string>
+	<key>trainNextObjectDecorator</key>
+	<string>keepAgileHeapReference</string>
+</dict>
+</plist>

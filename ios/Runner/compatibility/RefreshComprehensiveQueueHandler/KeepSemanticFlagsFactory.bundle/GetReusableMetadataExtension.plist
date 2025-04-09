@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelAdvancedFlagsType</key>
+	<string>getRequiredPopupPool</string>
+	<key>cancelRobustTextureAdapter</key>
+	<string>initializeOldFragmentsDelegate</string>
+	<key>destroyCartesianTextureGroup</key>
+	<string>setResilientColorHandler</string>
+	<key>eraseDiscardedNumberContainer</key>
+	<string>trainSingleScaleManager</string>
+	<key>getIntuitiveEdgeStack</key>
+	<string>pauseSemanticParamFilter</string>
+	<key>setPrimaryPlaybackPool</key>
+	<string>trainUsedMaterialCreator</string>
+	<key>startTypicalTweakInstance</key>
+	<string>resumeSubsequentObserverBase</string>
+	<key>syncConcreteTopicPool</key>
+	<string>continueResilientAssetPool</string>
+</dict>
+</plist>

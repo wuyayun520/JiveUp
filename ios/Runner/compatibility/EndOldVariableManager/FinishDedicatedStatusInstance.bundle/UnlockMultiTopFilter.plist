@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endBackwardPopupStack</key>
+	<string>endImmutableEvaluationType</string>
+	<key>finishFusedVariableFactory</key>
+	<string>allocateGeometricVertexList</string>
+	<key>scheduleAccessibleFrameBase</key>
+	<string>extendUniformOperationImplement</string>
+	<key>setDifficultVarManager</key>
+	<string>endAssociatedGridDelegate</string>
+	<key>skipIndependentLeftFactory</key>
+	<string>prepareCurrentBufferArray</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateGeometricMetadataPool</key>
+	<string>setProtectedSliderDecorator</string>
+	<key>endNormalValueGroup</key>
+	<string>skipPrevVariableDecorator</string>
+	<key>getCurrentVisibleFactory</key>
+	<string>readSmartIntegrationPool</string>
+	<key>getResilientRangeReference</key>
+	<string>setActivatedCapacityFactory</string>
+	<key>pauseConsultativeSpriteObserver</key>
+	<string>endRapidPriorityCollection</string>
+	<key>prepareAgileSineCache</key>
+	<string>resumeDedicatedBufferManager</string>
+	<key>setBasicResolverReference</key>
+	<string>schedulePrismaticUnaryImplement</string>
+	<key>wrapRequiredTentativeManager</key>
+	<string>getMutableLabelProtocol</string>
+</dict>
+</plist>

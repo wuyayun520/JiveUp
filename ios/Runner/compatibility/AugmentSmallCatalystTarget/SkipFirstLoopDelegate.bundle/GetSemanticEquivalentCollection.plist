@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustLostMatrixTarget</key>
+	<string>getPrimaryParamReference</string>
+	<key>finishAdvancedAmortizationDelegate</key>
+	<string>pauseDirectFragmentsCreator</string>
+	<key>initializeRequiredPositionOwner</key>
+	<string>getSemanticMechanismHandler</string>
+	<key>keepSimilarParameterManager</key>
+	<string>initializeDelicateParamDecorator</string>
+	<key>setPivotalDispatcherHandler</key>
+	<string>getUniformDisclaimerImplement</string>
+</dict>
+</plist>

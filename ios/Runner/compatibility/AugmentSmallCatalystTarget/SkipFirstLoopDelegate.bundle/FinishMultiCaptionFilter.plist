@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enhanceCrucialCharacteristicAdapter</key>
+	<string>keepEphemeralEffectReference</string>
+	<key>getFirstCharacteristicCollection</key>
+	<string>endUnactivatedGrainAdapter</string>
+	<key>insteadRetainedTopCache</key>
+	<string>combineCurrentItemDelegate</string>
+	<key>restartCommonFlagsManager</key>
+	<string>initializeEnabledTopicHandler</string>
+	<key>setSubsequentMenuPool</key>
+	<string>getSubsequentScaleOwner</string>
+</dict>
+</plist>

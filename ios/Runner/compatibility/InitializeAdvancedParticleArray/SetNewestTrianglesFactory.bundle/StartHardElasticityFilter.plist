@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelFusedBorderProtocol</key>
+	<string>undertakeKeyPermutationOwner</string>
+	<key>createSymmetricProfileCache</key>
+	<string>cancelStandaloneSkirtFactory</string>
+	<key>pauseElasticOperationHelper</key>
+	<string>setRobustActionProtocol</string>
+	<key>setUniqueListenerFactory</key>
+	<string>prepareMultiFlagsList</string>
+	<key>skipUnsortedCoordBase</key>
+	<string>endSubtleThresholdHelper</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelUnsortedButtonObserver</key>
+	<string>getLocalScaleContainer</string>
+	<key>exitSophisticatedButtonList</key>
+	<string>setPermissiveTextureType</string>
+	<key>getIntuitiveEffectTarget</key>
+	<string>getCrucialPreviewDelegate</string>
+	<key>prepareSpecifyParamDelegate</key>
+	<string>setGlobalSymbolReference</string>
+</dict>
+</plist>

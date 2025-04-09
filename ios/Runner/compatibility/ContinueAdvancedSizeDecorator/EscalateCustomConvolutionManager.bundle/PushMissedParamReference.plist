@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueSignificantContrastTarget</key>
+	<string>skipPrevLayoutExtension</string>
+	<key>createLostLogBase</key>
+	<string>divideOpaqueAllocatorOwner</string>
+	<key>destroyIgnoredEdgeCollection</key>
+	<string>startSortedMeshProtocol</string>
+	<key>encapsulateOldDescriptionStack</key>
+	<string>setIntermediateFrameManager</string>
+	<key>getSinglePaddingCollection</key>
+	<string>setMutableLayoutFilter</string>
+	<key>keepIterativeVariableExtension</key>
+	<string>enumerateMediumBufferDecorator</string>
+	<key>setEnabledIndexObserver</key>
+	<string>cancelStandaloneParamStack</string>
+	<key>trainMainTextureCreator</key>
+	<string>streamlineBeginnerTextGroup</string>
+</dict>
+</plist>

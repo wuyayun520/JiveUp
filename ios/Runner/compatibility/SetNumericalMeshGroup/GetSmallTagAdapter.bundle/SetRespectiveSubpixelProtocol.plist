@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelUnsortedStampCreator</key>
+	<string>requestTypicalEdgeFactory</string>
+	<key>continueCommonFlagsCreator</key>
+	<string>setPermissiveDispatcherCache</string>
+	<key>discoverProtectedCenterArray</key>
+	<string>setStaticCenterReference</string>
+	<key>getBeginnerVarAdapter</key>
+	<string>initializeOtherPositionImplement</string>
+	<key>keepPermanentBaselineCache</key>
+	<string>startPriorSkewYImplement</string>
+	<key>pauseOldStyleContainer</key>
+	<string>setNumericalParamImplement</string>
+	<key>renameAssociatedScaleAdapter</key>
+	<string>getKeyOperationDecorator</string>
+	<key>setCustomVisiblePool</key>
+	<string>combinePrismaticFrameObserver</string>
+	<key>setHierarchicalMenuPool</key>
+	<string>requestRespectiveNumberFactory</string>
+	<key>setRapidLeftArray</key>
+	<string>initializeOriginalTempleAdapter</string>
+</dict>
+</plist>

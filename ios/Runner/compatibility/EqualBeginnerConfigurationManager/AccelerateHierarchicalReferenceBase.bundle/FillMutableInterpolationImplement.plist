@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateRetainedNumberContainer</key>
+	<string>prepareArithmeticPositionOwner</string>
+	<key>getNormalVarDelegate</key>
+	<string>convertAgileTextOwner</string>
+	<key>keepCriticalHeadCreator</key>
+	<string>prepareNormalParameterCreator</string>
+	<key>scheduleArithmeticProjectProtocol</key>
+	<string>pauseConcurrentSceneList</string>
+	<key>touchCustomizedScaleDelegate</key>
+	<string>retrieveEuclideanRangeBase</string>
+</dict>
+</plist>

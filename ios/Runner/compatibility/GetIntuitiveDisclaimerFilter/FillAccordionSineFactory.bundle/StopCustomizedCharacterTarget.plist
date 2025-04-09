@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>encapsulatePublicTailType</key>
+	<string>pauseLastShaderCache</string>
+	<key>endIgnoredTagHandler</key>
+	<string>setPriorChartObserver</string>
+	<key>endSeamlessPlatePool</key>
+	<string>skipMediocreIntegerTarget</string>
+	<key>freeLastVisibleCache</key>
+	<string>getCustomizedBufferTarget</string>
+	<key>setBackwardChartExtension</key>
+	<string>resizeOldParamReference</string>
+	<key>skipHardSpotProtocol</key>
+	<string>getMediumOpacityDelegate</string>
+</dict>
+</plist>

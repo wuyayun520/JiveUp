@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismissActivatedPopupTarget</key>
+	<string>keepTypicalMenuPool</string>
+	<key>getAccordionAxisDelegate</key>
+	<string>setCustomStyleInstance</string>
+	<key>markSmallOptionReference</key>
+	<string>getIndependentProgressBarAdapter</string>
+	<key>poolKeyNodeFilter</key>
+	<string>setBasicStateFilter</string>
+	<key>setComprehensiveBoundHandler</key>
+	<string>pauseAsynchronousAllocatorType</string>
+	<key>setEphemeralListenerImplement</key>
+	<string>limitActivatedIntensityReference</string>
+	<key>showRobustValueBase</key>
+	<string>setSubtleParameterCollection</string>
+	<key>unlockDelicateParamImplement</key>
+	<string>syncEnabledFragmentExtension</string>
+</dict>
+</plist>

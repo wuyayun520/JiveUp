@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelExplicitEdgeCreator</key>
+	<string>getCustomCenterExtension</string>
+	<key>enumeratePrimaryVarPool</key>
+	<string>getPrimaryPolygonArray</string>
+	<key>getSharedUsageAdapter</key>
+	<string>finishRobustSpriteTarget</string>
+	<key>pauseMutableParameterList</key>
+	<string>insteadIgnoredSignFilter</string>
+	<key>setIntuitiveInteractionAdapter</key>
+	<string>getAsynchronousTopProtocol</string>
+</dict>
+</plist>

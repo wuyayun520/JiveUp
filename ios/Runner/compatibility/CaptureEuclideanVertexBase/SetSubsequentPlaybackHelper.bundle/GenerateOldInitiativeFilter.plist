@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getExplicitHeadImplement</key>
+	<string>createArithmeticScaleHelper</string>
+	<key>getMediocreMendHandler</key>
+	<string>setEphemeralTrajectoryList</string>
+	<key>multiplyOtherSoundFilter</key>
+	<string>readAccessibleRendererCreator</string>
+	<key>prepareMainLoopDecorator</key>
+	<string>compareStaticMetadataInstance</string>
+	<key>setSymmetricHashCache</key>
+	<string>setPrimaryVolumeGroup</string>
+	<key>spinEnabledMeshBase</key>
+	<string>initializePermissiveSizeStack</string>
+</dict>
+</plist>

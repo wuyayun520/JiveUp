@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueOldSceneCreator</key>
+	<string>trainOpaqueMobileInstance</string>
+	<key>keepGranularRightHelper</key>
+	<string>showSortedActivityReference</string>
+	<key>resumeRapidLayerContainer</key>
+	<string>setLostMeshFactory</string>
+	<key>setCustomHeapPool</key>
+	<string>setIntermediatePreviewCreator</string>
+	<key>setImmutableTailType</key>
+	<string>cancelLocalCoordFilter</string>
+	<key>setRobustDimensionBase</key>
+	<string>getRespectiveAudioExtension</string>
+	<key>unscheduleConcurrentValueAdapter</key>
+	<string>setOldParameterList</string>
+</dict>
+</plist>

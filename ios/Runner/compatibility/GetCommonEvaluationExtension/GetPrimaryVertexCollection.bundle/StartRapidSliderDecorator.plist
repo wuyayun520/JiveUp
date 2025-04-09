@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelFirstInformationTarget</key>
+	<string>endMultiStrokeExtension</string>
+	<key>cancelGeometricAxisInstance</key>
+	<string>makeRobustRendererCreator</string>
+	<key>continueImmutableScaleContainer</key>
+	<string>getOtherVariableList</string>
+	<key>getConcurrentTempleManager</key>
+	<string>finishIterativeParticleObserver</string>
+	<key>getImmutableParameterDecorator</key>
+	<string>stopDiscardedLayerTarget</string>
+	<key>setKeyLabelImplement</key>
+	<string>setRetainedRotationList</string>
+	<key>setLargeMechanismImplement</key>
+	<string>getKeyGraphReference</string>
+	<key>trainRequiredChartObserver</key>
+	<string>getIndependentVarType</string>
+</dict>
+</plist>

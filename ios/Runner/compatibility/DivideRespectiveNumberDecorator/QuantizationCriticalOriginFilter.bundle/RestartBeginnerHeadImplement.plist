@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelNewestTaskHandler</key>
+	<string>prepareResilientActivityManager</string>
+	<key>getAgileValueHandler</key>
+	<string>floatConcreteVectorFilter</string>
+	<key>getBackwardGraphicFilter</key>
+	<string>stopConcreteValueReference</string>
+	<key>getElasticGridArray</key>
+	<string>skipEasyParameterTarget</string>
+	<key>getUsedParamManager</key>
+	<string>getSymmetricEventDelegate</string>
+	<key>startUsedLoopContainer</key>
+	<string>stopFirstTempleInstance</string>
+</dict>
+</plist>

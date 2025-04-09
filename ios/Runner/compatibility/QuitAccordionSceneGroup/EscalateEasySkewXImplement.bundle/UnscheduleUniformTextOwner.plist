@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeImmutableVariantTarget</key>
+	<string>setAgileStrokeContainer</string>
+	<key>eraseSmartVariableFactory</key>
+	<string>wrapActivatedMatrixExtension</string>
+	<key>finishActivatedButtonExtension</key>
+	<string>replacePrimaryQueueCollection</string>
+	<key>finishHardLabelHelper</key>
+	<string>setBasicAllocatorProtocol</string>
+	<key>getEuclideanVariableCache</key>
+	<string>skipOpaqueImpressionInstance</string>
+	<key>getOldUtilImplement</key>
+	<string>removeUsedIntensityDelegate</string>
+	<key>keepSynchronousValueTarget</key>
+	<string>checkBeginnerParameterList</string>
+	<key>setBeginnerMatrixBase</key>
+	<string>endPermanentEdgeInstance</string>
+	<key>showLocalTaskCache</key>
+	<string>initializeNormalScreenArray</string>
+</dict>
+</plist>

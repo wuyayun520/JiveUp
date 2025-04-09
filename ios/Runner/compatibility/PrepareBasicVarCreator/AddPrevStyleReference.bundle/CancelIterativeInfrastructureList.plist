@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exitOtherConfigurationHandler</key>
+	<string>getCartesianReductionTarget</string>
+	<key>getBackwardTimeGroup</key>
+	<string>getEasySkewXType</string>
+	<key>getSustainableBufferManager</key>
+	<string>keepMissedBufferDelegate</string>
+	<key>restartLargeBufferFilter</key>
+	<string>resetFusedItemCreator</string>
+	<key>setArithmeticValueHandler</key>
+	<string>scheduleGeometricBoundHelper</string>
+</dict>
+</plist>

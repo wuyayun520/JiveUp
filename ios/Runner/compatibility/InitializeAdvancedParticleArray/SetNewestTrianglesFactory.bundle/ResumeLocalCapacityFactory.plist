@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueConcreteSpriteType</key>
+	<string>skipConcurrentAllocatorObserver</string>
+	<key>finishBeginnerCenterCache</key>
+	<string>setOpaqueTempleStack</string>
+	<key>finishSemanticUtilGroup</key>
+	<string>restartAssociatedShapeBase</string>
+	<key>getOldVarDecorator</key>
+	<string>stopMainNumberPool</string>
+	<key>keepCustomizedOriginDecorator</key>
+	<string>unlockSubtleVariantHandler</string>
+	<key>releaseAssociatedLoopInstance</key>
+	<string>continueLargeEfficiencyAdapter</string>
+	<key>setPriorGiftContainer</key>
+	<string>detachBeginnerCaptionOwner</string>
+</dict>
+</plist>

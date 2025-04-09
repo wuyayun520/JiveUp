@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureNumericalResolverBase</key>
+	<string>setActivatedBorderTarget</string>
+	<key>compareAccessibleColorGroup</key>
+	<string>setUnactivatedBorderInstance</string>
+	<key>getCrudeMediaDelegate</key>
+	<string>getCrudeSkewXBase</string>
+	<key>introspectSemanticAllocatorType</key>
+	<string>getDedicatedParameterExtension</string>
+	<key>prepareCrudeVarPool</key>
+	<string>setUnactivatedNameGroup</string>
+	<key>retainConcurrentNumberCreator</key>
+	<string>transposeAdvancedVariableType</string>
+	<key>setRobustReductionGroup</key>
+	<string>prepareEphemeralTopicList</string>
+</dict>
+</plist>

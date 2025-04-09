@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendRetainedAmortizationObserver</key>
+	<string>keepSortedImpactArray</string>
+	<key>embedSpecifyVisibleInstance</key>
+	<string>insteadRequiredTopContainer</string>
+	<key>getUsedStatusContainer</key>
+	<string>skipSimilarParamDecorator</string>
+	<key>pauseSecondPositionList</key>
+	<string>moveCriticalParameterCreator</string>
+	<key>storeRespectiveConstantFactory</key>
+	<string>limitSecondToleranceManager</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDisparateListenerImplement</key>
+	<string>getOriginalVarInstance</string>
+	<key>initializeTensorRowProtocol</key>
+	<string>pauseExplicitHeadHelper</string>
+	<key>introspectSimilarSizeArray</key>
+	<string>obtainKeyVolumeImplement</string>
+	<key>pauseProtectedEfficiencyPool</key>
+	<string>getEuclideanEdgeCreator</string>
+	<key>restartBackwardGroupCreator</key>
+	<string>setOldEqualizationHandler</string>
+	<key>resumeHyperbolicCompositionPool</key>
+	<string>pauseCrudeBufferBase</string>
+	<key>setAdvancedMenuBase</key>
+	<string>spinAdvancedDepthContainer</string>
+	<key>setGlobalPlaybackBase</key>
+	<string>seekAccessibleIntensityHelper</string>
+</dict>
+</plist>

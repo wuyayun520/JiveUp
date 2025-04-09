@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentNormalVariableExtension</key>
+	<string>skipArithmeticTextInstance</string>
+	<key>cancelTensorMetricsImplement</key>
+	<string>getPriorRemainderImplement</string>
+	<key>captureTypicalAspectBase</key>
+	<string>finishSymmetricTimelineTarget</string>
+	<key>combineMutableMusicHelper</key>
+	<string>trainIterativeRestrictionStack</string>
+	<key>getConsultativeLatencyStack</key>
+	<string>aggregateUnsortedIndexType</string>
+	<key>getLargeTempleDelegate</key>
+	<string>getCustomCubeCreator</string>
+	<key>getSubtleBorderObserver</key>
+	<string>combineStandaloneInterfaceCreator</string>
+	<key>limitRetainedVarContainer</key>
+	<string>getIterativeTailCache</string>
+	<key>setDiversifiedEvolutionDelegate</key>
+	<string>getCustomParamHelper</string>
+</dict>
+</plist>

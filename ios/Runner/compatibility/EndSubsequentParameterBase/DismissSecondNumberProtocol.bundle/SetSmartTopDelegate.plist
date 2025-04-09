@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getGlobalAllocatorObserver</key>
+	<string>endDiscardedSpritePool</string>
+	<key>getSecondSoundImplement</key>
+	<string>setEuclideanContractionCreator</string>
+	<key>keepGlobalBinaryExtension</key>
+	<string>limitGlobalFlagsHandler</string>
+	<key>keepSecondPolygonHelper</key>
+	<string>drawAutoParticleCreator</string>
+	<key>rectifyEasyControllerCache</key>
+	<string>prepareSmartOpacityCollection</string>
+	<key>resetConcurrentChartStack</key>
+	<string>getComprehensiveMetadataContainer</string>
+	<key>searchComprehensiveHeadTarget</key>
+	<string>initializeKeyStrokeStack</string>
+	<key>setOtherMetadataDecorator</key>
+	<string>stopOpaqueNumberExtension</string>
+	<key>startEnabledBitrateTarget</key>
+	<string>getMutableShapePool</string>
+	<key>trainOpaqueTitleDecorator</key>
+	<string>restartUniformNumberType</string>
+</dict>
+</plist>

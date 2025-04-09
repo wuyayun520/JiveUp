@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanLastSpriteDecorator</key>
+	<string>stopTypicalResourceInstance</string>
+	<key>prepareStaticParamObserver</key>
+	<string>getDiversifiedBoxObserver</string>
+	<key>restartMultiTailManager</key>
+	<string>keepUnsortedToleranceAdapter</string>
+	<key>resumeFusedBoundHandler</key>
+	<string>clipSynchronousFlagsFilter</string>
+	<key>resumeRelationalTextFactory</key>
+	<string>extendLiteRendererList</string>
+	<key>setMediumBufferReference</key>
+	<string>finishDiversifiedVectorContainer</string>
+	<key>setSynchronousTopicHandler</key>
+	<string>getDenseMovementExtension</string>
+	<key>trainCustomizedRotationOwner</key>
+	<string>initializeCurrentVariableManager</string>
+</dict>
+</plist>

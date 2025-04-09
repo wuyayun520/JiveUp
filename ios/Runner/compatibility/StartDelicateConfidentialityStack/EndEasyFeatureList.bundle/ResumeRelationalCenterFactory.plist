@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentProtectedVariableTarget</key>
+	<string>dropoutStandaloneBottomType</string>
+	<key>getDisplayableUtilHandler</key>
+	<string>removeUsedTextureStack</string>
+	<key>pauseDifficultInterfaceReference</key>
+	<string>trainOriginalRowImplement</string>
+	<key>setCurrentValueCreator</key>
+	<string>getDifficultGrainInstance</string>
+	<key>setPrevParamFilter</key>
+	<string>continueOriginalSkewXStack</string>
+	<key>showCommonCoordCollection</key>
+	<string>equalSubtleAnchorDelegate</string>
+</dict>
+</plist>

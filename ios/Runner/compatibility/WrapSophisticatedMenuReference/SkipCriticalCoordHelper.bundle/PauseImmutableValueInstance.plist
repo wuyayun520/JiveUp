@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelMultiRightStack</key>
+	<string>setConcurrentShaderCollection</string>
+	<key>endOpaqueGridFactory</key>
+	<string>pushEuclideanFlagsAdapter</string>
+	<key>getSemanticDepthCollection</key>
+	<string>analyzePublicAxisList</string>
+	<key>getSynchronousMonsterReference</key>
+	<string>getOpaqueBehaviorAdapter</string>
+	<key>refreshRobustSkewYManager</key>
+	<string>convertGreatTopArray</string>
+	<key>setIntermediateNodeDelegate</key>
+	<string>setAutoBorderImplement</string>
+</dict>
+</plist>

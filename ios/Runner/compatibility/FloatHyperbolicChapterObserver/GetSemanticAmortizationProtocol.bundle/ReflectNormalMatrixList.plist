@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelConcurrentTopProtocol</key>
+	<string>getGreatGrainDelegate</string>
+	<key>getNumericalZoneDelegate</key>
+	<string>restartDisplayableProfileStack</string>
+	<key>mitigateEnabledBufferObserver</key>
+	<string>initializeDisparateValueFactory</string>
+	<key>resumeSubtleLogarithmCollection</key>
+	<string>cancelDenseProfileExtension</string>
+	<key>skipRapidVariableDecorator</key>
+	<string>poolTypicalTempleGroup</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelMutableTopicList</key>
+	<string>finishExplicitTagOwner</string>
+	<key>drawLastToolDecorator</key>
+	<string>offsetSmartThresholdCache</string>
+	<key>getGreatAllocatorOwner</key>
+	<string>convertRelationalMenuCollection</string>
+	<key>pauseDeclarativePermutationInstance</key>
+	<string>setRespectiveImpactOwner</string>
+	<key>setAsynchronousClusterDelegate</key>
+	<string>getAssociatedVariableTarget</string>
+	<key>setSmallNumberInstance</key>
+	<string>setActivatedIndexPool</string>
+	<key>skipGreatCycleManager</key>
+	<string>stopCustomizedVariableBase</string>
+	<key>skipHierarchicalCoordinatorFactory</key>
+	<string>associateAdvancedQueueImplement</string>
+</dict>
+</plist>

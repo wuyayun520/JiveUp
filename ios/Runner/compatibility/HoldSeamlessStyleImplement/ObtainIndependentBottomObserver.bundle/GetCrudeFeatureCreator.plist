@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureDisplayableBoundCache</key>
+	<string>provideCriticalFeatureDelegate</string>
+	<key>dismissDenseVarInstance</key>
+	<string>setGeometricCompositionObserver</string>
+	<key>equalOpaqueVarObserver</key>
+	<string>removeCustomizedDeliveryManager</string>
+	<key>prepareSemanticMetadataStack</key>
+	<string>setMediumMetadataObserver</string>
+	<key>transposeSortedUtilOwner</key>
+	<string>introspectOtherRotationReference</string>
+</dict>
+</plist>

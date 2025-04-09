@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateSemanticStyleArray</key>
+	<string>touchSemanticNotationFactory</string>
+	<key>getCommonBinaryFactory</key>
+	<string>visitCommonOpacityHelper</string>
+	<key>initializeDifficultOriginAdapter</key>
+	<string>continueLastOccasionObserver</string>
+	<key>restoreLiteDescriptionCollection</key>
+	<string>prepareUsedStatusBase</string>
+	<key>setSubtleQueueArray</key>
+	<string>exitUnsortedTempleContainer</string>
+	<key>storeUnsortedValuePool</key>
+	<string>shearOldOptionType</string>
+	<key>updateAsynchronousParamPool</key>
+	<string>parseCriticalIntegrationProtocol</string>
+</dict>
+</plist>

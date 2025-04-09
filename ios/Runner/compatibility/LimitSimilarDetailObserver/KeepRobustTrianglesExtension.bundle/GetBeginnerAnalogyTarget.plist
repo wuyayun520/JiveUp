@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelCurrentTentativeArray</key>
+	<string>pauseDisplayableAscentHelper</string>
+	<key>getDifficultAspectProtocol</key>
+	<string>differentiateSignificantFlagsHelper</string>
+	<key>getReusableRowExtension</key>
+	<string>resizePrevSkewYManager</string>
+	<key>initializeSubsequentTaskDelegate</key>
+	<string>pauseRequiredOpacityPool</string>
+	<key>pauseArithmeticSkewXPool</key>
+	<string>cleanAccessibleIndexCollection</string>
+</dict>
+</plist>

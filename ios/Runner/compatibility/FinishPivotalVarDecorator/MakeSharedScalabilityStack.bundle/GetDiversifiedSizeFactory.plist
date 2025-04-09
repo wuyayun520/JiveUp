@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendSeamlessGridObserver</key>
+	<string>holdHierarchicalFlagsAdapter</string>
+	<key>endProtectedCacheTarget</key>
+	<string>quantizerEnabledStrokeDecorator</string>
+	<key>getNextBitrateCollection</key>
+	<string>resumeGlobalMendHelper</string>
+	<key>getRelationalEdgeInstance</key>
+	<string>wrapBasicFlagsExtension</string>
+	<key>holdHierarchicalMatrixCache</key>
+	<string>setSemanticValueBase</string>
+	<key>setSemanticBorderFilter</key>
+	<string>getRelationalCompositionOwner</string>
+	<key>wrapSubtleToleranceArray</key>
+	<string>endRobustToleranceTarget</string>
+</dict>
+</plist>

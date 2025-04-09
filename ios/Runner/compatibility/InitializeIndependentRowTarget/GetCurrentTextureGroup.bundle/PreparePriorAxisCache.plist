@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embraceProtectedParticleList</key>
+	<string>getRequiredTextBase</string>
+	<key>fillSignificantAxisHandler</key>
+	<string>getLargeTangentHelper</string>
+	<key>getActivatedNodeList</key>
+	<string>getGlobalSlashDecorator</string>
+	<key>getGlobalSchemaHelper</key>
+	<string>setCurrentPermutationStack</string>
+	<key>getSingleLabelType</key>
+	<string>pauseSubtleOptimizerCreator</string>
+	<key>playNumericalGroupImplement</key>
+	<string>setDirectlyVarHelper</string>
+	<key>setAgileQueueContainer</key>
+	<string>getKeyParamFactory</string>
+	<key>setSecondBottomReference</key>
+	<string>setNumericalBottomProtocol</string>
+	<key>setSubtleLayoutPool</key>
+	<string>getPrimaryMonsterHelper</string>
+</dict>
+</plist>

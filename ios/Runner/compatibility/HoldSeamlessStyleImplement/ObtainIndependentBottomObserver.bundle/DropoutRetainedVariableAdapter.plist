@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedArithmeticBulletFactory</key>
+	<string>resumeIntermediateVisiblePool</string>
+	<key>exitPriorConstantCollection</key>
+	<string>drawDirectlyValueImplement</string>
+	<key>parseMainCharacterCollection</key>
+	<string>setSecondReductionExtension</string>
+	<key>removeTypicalOriginStack</key>
+	<string>visitCurrentVarFactory</string>
+	<key>setPrevParameterContainer</key>
+	<string>restartMissedResolverInstance</string>
+	<key>skipPublicValueHandler</key>
+	<string>startOtherChallengeList</string>
+	<key>unlockNormalTempleGroup</key>
+	<string>trainAssociatedMetadataDelegate</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addDisparateCycleObserver</key>
+	<string>cancelOldCenterFilter</string>
+	<key>playDirectlyVectorExtension</key>
+	<string>setGlobalParameterList</string>
+	<key>prepareMissedMetadataCollection</key>
+	<string>pauseAccessibleValueType</string>
+	<key>resumeUniqueDataInstance</key>
+	<string>convertPermanentLoopExtension</string>
+	<key>setComprehensiveWorkflowDecorator</key>
+	<string>setSecondNameDecorator</string>
+	<key>setSynchronousColorCollection</key>
+	<string>finishRobustTopProtocol</string>
+	<key>stopPriorMetadataManager</key>
+	<string>stopUnactivatedTimePool</string>
+</dict>
+</plist>

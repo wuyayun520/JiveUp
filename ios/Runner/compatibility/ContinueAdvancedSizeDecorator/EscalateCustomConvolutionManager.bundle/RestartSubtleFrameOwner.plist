@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachPrimaryProjectGroup</key>
+	<string>unscheduleDedicatedIndicatorManager</string>
+	<key>endMissedCapacityTarget</key>
+	<string>clearRetainedBufferTarget</string>
+	<key>endNextObserverPool</key>
+	<string>skipRequiredViewFilter</string>
+	<key>prepareSpecifyCoordCreator</key>
+	<string>setSubtleNumberProtocol</string>
+	<key>resumeCustomizedNameImplement</key>
+	<string>restartNextGroupType</string>
+	<key>skipConsultativeVariantCache</key>
+	<string>scheduleCommonBufferTarget</string>
+	<key>skipRetainedBehaviorContainer</key>
+	<string>setSingleSpriteFilter</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getUnsortedCapacityCollection</key>
+	<string>getDenseBoundGroup</string>
+	<key>holdStandaloneColorProtocol</key>
+	<string>initializeNextBaselineManager</string>
+	<key>provideStaticShaderInstance</key>
+	<string>setSemanticCoordOwner</string>
+	<key>quitKeyResolverDecorator</key>
+	<string>scheduleDisplayableVarType</string>
+	<key>restartAutoHashObserver</key>
+	<string>keepRespectiveSampleImplement</string>
+	<key>resumeSustainableMeshBase</key>
+	<string>trainDifficultHistogramArray</string>
+	<key>revisitNextVarHandler</key>
+	<string>continueOriginalColorInstance</string>
+	<key>setConsultativeTitlePool</key>
+	<string>setSemanticGroupHandler</string>
+	<key>setSynchronousParamDelegate</key>
+	<string>setDiscardedVariableArray</string>
+</dict>
+</plist>

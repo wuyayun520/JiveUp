@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropoutNormalModelDecorator</key>
+	<string>setSignificantParameterObserver</string>
+	<key>enhanceMainFlagsManager</key>
+	<string>getLocalDurationReference</string>
+	<key>resumeSpecifyIndexHandler</key>
+	<string>endCommonScalabilityDecorator</string>
+	<key>searchNewestRightType</key>
+	<string>getDisplayableTempleTarget</string>
+	<key>setStandaloneAssetHandler</key>
+	<string>setGreatOriginManager</string>
+</dict>
+</plist>

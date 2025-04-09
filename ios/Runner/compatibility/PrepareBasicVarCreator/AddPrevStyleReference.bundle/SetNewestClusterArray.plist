@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addSemanticAspectTarget</key>
+	<string>quitPublicBufferPool</string>
+	<key>clipDiversifiedBufferExtension</key>
+	<string>setSmartDispatcherProtocol</string>
+	<key>displayCurrentCursorInstance</key>
+	<string>getEuclideanWorkflowDecorator</string>
+	<key>getUsedTopObserver</key>
+	<string>getDirectCacheDelegate</string>
+	<key>resumeNormalTopicType</key>
+	<string>stopResilientIndexContainer</string>
+	<key>setIntuitiveParameterType</key>
+	<string>setPrismaticDescriptionCache</string>
+	<key>setNewestSignatureBase</key>
+	<string>trainDiscardedBorderProtocol</string>
+	<key>trainBackwardConvolutionDecorator</key>
+	<string>setOtherParameterCreator</string>
+</dict>
+</plist>

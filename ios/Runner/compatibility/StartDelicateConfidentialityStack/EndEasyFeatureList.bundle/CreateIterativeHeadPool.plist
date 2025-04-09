@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedRespectiveSegmentDelegate</key>
+	<string>getSortedViewType</string>
+	<key>equalPrimaryIndicatorProtocol</key>
+	<string>startSharedGemHelper</string>
+	<key>moveStaticBoxProtocol</key>
+	<string>undertakeBeginnerDialogsFactory</string>
+	<key>restartSustainableLatencyBase</key>
+	<string>trainSeamlessNumberTarget</string>
+	<key>setIndependentValueImplement</key>
+	<string>setPrimaryLoopInstance</string>
+</dict>
+</plist>

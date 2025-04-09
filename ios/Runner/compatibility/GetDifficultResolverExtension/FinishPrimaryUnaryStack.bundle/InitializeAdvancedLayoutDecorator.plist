@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getLocalPositionOwner</key>
+	<string>initializeCurrentQueueHandler</string>
+	<key>getLostTrianglesManager</key>
+	<string>rectifyDiscardedIndexFilter</string>
+	<key>setDedicatedTempleContainer</key>
+	<string>drawDirectlyBufferFactory</string>
+	<key>setResilientHeroExtension</key>
+	<string>prepareUniqueDeliveryManager</string>
+	<key>setSortedDescentFactory</key>
+	<string>skipTensorFragmentsDecorator</string>
+	<key>setSynchronousCubeList</key>
+	<string>setUsedGrainCreator</string>
+</dict>
+</plist>

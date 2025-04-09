@@ -26,10 +26,37 @@
 	<string>$(FLUTTER_BUILD_NAME)</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>jiveup</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>jiveup</string>
+			</array>
+		</dict>
+	</array>
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
+		<string>snapchat</string>
+		<string>tiktok</string>
+		<string>skype</string>
+		<string>line</string>
+		<string>twitter</string>
+		<string>youtube</string>
+		<string>messenger</string>
+		<string>whatsapp</string>
+		<string>instagram</string>
+		<string>fb</string>
+		<string>dingtalk</string>
+		<string>wxwork</string>
+		<string>lark</string>
+		<string>weixin</string>
 		<string>http</string>
 		<string>https</string>
 	</array>
@@ -42,12 +69,18 @@
 	</dict>
 	<key>NSCameraUsageDescription</key>
 	<string>We need access to your camera to take photos for your character cover image</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>uses your location data continuously to display users near you, enhancing your social interactions and recommendations. If you deny this permission, nearby users will not be shown.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>requires your location while using the app to provide location-based features, such as finding nearby events, connecting with local users, and delivering relevant content based on your area.</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>We need access to your microphone to record videos</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>requires access to add new photos to your library, enabling you to save photos directly from the app.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>We need access to your photo library to select a cover image for your character</string>
 	<key>NSUserTrackingUsageDescription</key>
-	<string>We need to track your activity across other companies' apps and websites to provide you with a personalized experience</string>
+	<string>We need to track your activity across other companies&apos; apps and websites to provide you with a personalized experience</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UIBackgroundModes</key>
@@ -72,5 +105,7 @@
 		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
 	</array>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
 </dict>
 </plist>

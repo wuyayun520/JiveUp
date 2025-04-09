@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>findPriorBrushFilter</key>
+	<string>initializeKeyParameterList</string>
+	<key>getDenseScaleObserver</key>
+	<string>computeUniqueIndexHandler</string>
+	<key>getIgnoredStatusCollection</key>
+	<string>getEuclideanTentativeDecorator</string>
+	<key>prepareDifficultVertexHandler</key>
+	<string>animateArithmeticHashReference</string>
+	<key>reduceSeamlessCenterHandler</key>
+	<string>resumeSignificantRouteDelegate</string>
+	<key>setCrudeBrushFilter</key>
+	<string>setCrudePositionCollection</string>
+</dict>
+</plist>

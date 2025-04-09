@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueSemanticRendererObserver</key>
+	<string>pauseConcurrentImpressionHelper</string>
+	<key>drawPrevParticleHandler</key>
+	<string>restartBasicGrainGroup</string>
+	<key>makeGranularGraphBase</key>
+	<string>respondBackwardVarFilter</string>
+	<key>multiplyConcurrentTopicDecorator</key>
+	<string>getDisparateParticleDecorator</string>
+	<key>setDiscardedOpacityObserver</key>
+	<string>cancelAccessibleProjectionImplement</string>
+	<key>setUniqueDeliveryTarget</key>
+	<string>visitGeometricHeroExtension</string>
+	<key>startOldChallengeAdapter</key>
+	<string>shearCustomizedVarExtension</string>
+</dict>
+</plist>

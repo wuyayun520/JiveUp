@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateFusedEventBase</key>
+	<string>continueOtherTimeManager</string>
+	<key>endKeyMetadataImplement</key>
+	<string>resumeLargeTitleFactory</string>
+	<key>getMainMatrixProtocol</key>
+	<string>resumeConcurrentBufferProtocol</string>
+	<key>getOpaqueOpacityHelper</key>
+	<string>resumeHardParamDelegate</string>
+	<key>initializeReusableBufferStack</key>
+	<string>getEphemeralTempleCreator</string>
+	<key>prepareFirstParameterImplement</key>
+	<string>divideBackwardTitleDecorator</string>
+	<key>resumeAutoSignStack</key>
+	<string>addPivotalBufferFilter</string>
+</dict>
+</plist>

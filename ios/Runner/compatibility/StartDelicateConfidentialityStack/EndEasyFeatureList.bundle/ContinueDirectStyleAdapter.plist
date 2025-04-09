@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelConcurrentLeftPool</key>
+	<string>spinPrimaryBufferDelegate</string>
+	<key>concatenateDisplayableColorFactory</key>
+	<string>setConcurrentMultiplicationFactory</string>
+	<key>keepAssociatedDepthManager</key>
+	<string>setUniformHashExtension</string>
+	<key>setGreatTextureTarget</key>
+	<string>stopSpecifyLayoutStack</string>
+	<key>setSignificantInterfaceObserver</key>
+	<string>setSmartBufferHelper</string>
+	<key>skipSubtleScaleStack</key>
+	<string>freeActivatedParameterInstance</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>divideBasicDialogsExtension</key>
+	<string>getCurrentTweakReference</string>
+	<key>getGeometricFrameExtension</key>
+	<string>parseFusedParamImplement</string>
+	<key>getGeometricParticleInstance</key>
+	<string>cancelExplicitShapeHelper</string>
+	<key>renameGeometricPreviewDelegate</key>
+	<string>prepareMissedAllocatorCreator</string>
+	<key>setFirstScaleBase</key>
+	<string>endSecondTopStack</string>
+	<key>startCrucialKernelGroup</key>
+	<string>skipArithmeticBaselineList</string>
+</dict>
+</plist>

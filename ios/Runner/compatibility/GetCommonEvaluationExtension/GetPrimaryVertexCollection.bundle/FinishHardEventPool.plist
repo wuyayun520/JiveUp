@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getSmartSceneProtocol</key>
+	<string>pauseUniqueTagTarget</string>
+	<key>getSubsequentMeshTarget</key>
+	<string>cancelUsedResultReference</string>
+	<key>makeNormalBottomInstance</key>
+	<string>setCustomizedVarFactory</string>
+	<key>trainCrudeIntensityContainer</key>
+	<string>keepAdvancedVarGroup</string>
+</dict>
+</plist>

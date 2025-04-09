@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>executeFirstMetadataAdapter</key>
+	<string>prepareGeometricStateGroup</string>
+	<key>getCurrentFragmentsCollection</key>
+	<string>fillProtectedParticleHelper</string>
+	<key>initializeMediumParameterProtocol</key>
+	<string>removeDisplayableVarExtension</string>
+	<key>setPivotalHistogramOwner</key>
+	<string>spinLostStrokeImplement</string>
+	<key>skipIntuitiveOptionExtension</key>
+	<string>endCommonMusicObserver</string>
+</dict>
+</plist>

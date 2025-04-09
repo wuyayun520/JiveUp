@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extendIndependentEdgePool</key>
+	<string>stopPrismaticCoordFilter</string>
+	<key>getReusableCenterInstance</key>
+	<string>finishSemanticSpineImplement</string>
+	<key>initializeGeometricValueCollection</key>
+	<string>setDisplayableRemainderInstance</string>
+	<key>multiplyLiteBoundType</key>
+	<string>trainSmallPriorityManager</string>
+	<key>setSemanticReliabilityStack</key>
+	<string>spinTypicalValueInstance</string>
+	<key>setStaticTagInstance</key>
+	<string>enhanceMutableParamInstance</string>
+	<key>trainAccessibleCenterDecorator</key>
+	<string>getSharedImpressionGroup</string>
+</dict>
+</plist>

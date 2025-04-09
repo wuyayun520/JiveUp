@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endPermissiveRestrictionProtocol</key>
+	<string>getGeometricViewProtocol</string>
+	<key>equalDiversifiedBorderDelegate</key>
+	<string>storeIgnoredVertexArray</string>
+	<key>preparePrevStateCreator</key>
+	<string>getSignificantSpriteFilter</string>
+	<key>setPublicBaseArray</key>
+	<string>continueSubtleNormCreator</string>
+	<key>trainTypicalParamCreator</key>
+	<string>setSecondSymbolManager</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishActivatedNumberDelegate</key>
+	<string>restartLastTextureCache</string>
+	<key>initializeAdvancedOptionFilter</key>
+	<string>rotateHierarchicalBufferCache</string>
+	<key>makeSubstantialInterfaceReference</key>
+	<string>prepareStandaloneSignatureCreator</string>
+	<key>pauseRelationalLayoutPool</key>
+	<string>compareRequiredNameManager</string>
+	<key>replaceMediocreLatencyObserver</key>
+	<string>requestSmallPriorityOwner</string>
+	<key>restartIndependentBulletHelper</key>
+	<string>clipMediumVarArray</string>
+	<key>resumeDirectlySignFactory</key>
+	<string>setMediocreInterfaceStack</string>
+	<key>setStandaloneBufferHelper</key>
+	<string>executePermanentNumberBase</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>freeRobustBufferFactory</key>
+	<string>trainSeamlessNumberList</string>
+	<key>getSmallBufferCreator</key>
+	<string>finishCustomSceneType</string>
+	<key>restartUnactivatedValueDelegate</key>
+	<string>startRapidVariableTarget</string>
+	<key>setPrimaryNumberDecorator</key>
+	<string>cancelMissedViewBase</string>
+	<key>stopPrismaticIntegrationOwner</key>
+	<string>respondConcreteDeliveryExtension</string>
+	<key>wrapDeclarativeViewProtocol</key>
+	<string>setSignificantZoneOwner</string>
+</dict>
+</plist>

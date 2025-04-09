@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentBasicBitrateFilter</key>
+	<string>shearCartesianParameterFactory</string>
+	<key>cancelLargeDepthReference</key>
+	<string>getDirectlyParameterBase</string>
+	<key>initializeSeamlessFormatArray</key>
+	<string>keepTensorBufferTarget</string>
+	<key>keepFusedVariableAdapter</key>
+	<string>undertakeFusedHistogramDelegate</string>
+	<key>playCommonZoneExtension</key>
+	<string>trainPrimaryInterfaceFactory</string>
+	<key>prepareIntuitiveElasticityOwner</key>
+	<string>prepareCriticalStampManager</string>
+	<key>resumeDirectlyArithmeticBase</key>
+	<string>removeOpaqueConstantFactory</string>
+	<key>resumeRequiredDescriptionImplement</key>
+	<string>equalPivotalVertexArray</string>
+	<key>setSignificantScreenManager</key>
+	<string>trainProtectedSkewXBase</string>
+</dict>
+</plist>

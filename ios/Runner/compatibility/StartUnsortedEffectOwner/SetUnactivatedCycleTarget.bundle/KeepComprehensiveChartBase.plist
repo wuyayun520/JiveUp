@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endFusedCardReference</key>
+	<string>getDifficultIntensityTarget</string>
+	<key>pauseDifficultChapterTarget</key>
+	<string>getSemanticResolverType</string>
+	<key>provideSustainableBulletHelper</key>
+	<string>associatePublicOperationReference</string>
+	<key>syncPrismaticVariantDecorator</key>
+	<string>getDedicatedObserverCache</string>
+</dict>
+</plist>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="CellTimeView">
+            <connections>
+                <outlet property="collectionButton" destination="K7c-NO-lX2" id="Jlw-y0-Xtd"/>
+                <outlet property="cuttingRoomButton" destination="WWC-ta-66u" id="cGb-tv-4Ii"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="ZX5-UF-byO" clipsSubviews="NO">
+            <rect key="frame" x="0.0" y="0.0" width="450.3" height="92.1"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView contentMode="bottomRight" spacing="14" translatesAutoresizingMaskIntoConstraints="NO" id="o3A-GY-0Fw" alignment="top">
+                    <rect key="frame" x="16" y="-4" width="389.5" height="65.8"/>
+                    <subviews>
+                        <button contentMode="center" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" contentHorizontalAlignment="fill" contentVerticalAlignment="bottom" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="K7c-NO-lX2" clipsSubviews="NO">
+                            <rect key="frame" x="193.6" y="3.8" width="187.7" height="65.8"/>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" title="sub" image="1242-2688">
+                                <color key="titleColor" red="0.17899455653174058" green="0.97043742538787875" blue="0.30561585996195717" alpha="0.85980394110989578" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="selected" title="border for" image="1242-2688">
+                                <color key="titleColor" red="0.394796696" green="0.83161484770000005" blue="0.75892637900000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="highlighted" title="text view role" image="1242-2688">
+                                <color key="titleColor" red="0.10640061081136" green="1" blue="0.23719198284049395" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                        </button>
+                        <button contentMode="bottomLeft" horizontalHuggingPriority="251" verticalHuggingPriority="251" contentHorizontalAlignment="right" contentVerticalAlignment="fill" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WWC-ta-66u">
+                            <rect key="frame" x="3.0" y="4.4" width="187.7" height="65.8"/>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" title="plot table jump collection play" image="1242-2688">
+                                <color key="titleColor" red="0.0" green="0.96919956124705914" blue="0.34437720981211251" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="disabled" title="local will model at constraint" image="1242-2688">
+                                <color key="titleColor" red="0.39475730880870921" green="0.6970084921648656" blue="0.7447235538540698" alpha="0.92511308755711083" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="highlighted" title="single text line view" image="1242-2688">
+                                <color key="titleColor" red="0.1167636465" green="1" blue="0.1985451956" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                        </button>
+                    </subviews>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="Rji-P1-o74"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="Rji-P1-o74" firstAttribute="trailing" secondItem="o3A-GY-0Fw" secondAttribute="trailing" constant="3" id="CGI-qq-dJW"/>
+                <constraint firstItem="o3A-GY-0Fw" firstAttribute="top" secondItem="ZX5-UF-byO" secondAttribute="top" constant="2" id="KVQ-hc-fsC"/>
+                <constraint firstItem="Rji-P1-o74" firstAttribute="bottom" secondItem="o3A-GY-0Fw" secondAttribute="bottom" constant="7" id="cfm-ZN-mJz"/>
+                <constraint firstItem="o3A-GY-0Fw" firstAttribute="leading" secondItem="Rji-P1-o74" secondAttribute="leading" constant="4" id="VnR-gh-slx"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-89.597434994542590" y="-430.31668551816187"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="1242-2688" width="52.5" height="69.3"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="0.88066325190724387" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

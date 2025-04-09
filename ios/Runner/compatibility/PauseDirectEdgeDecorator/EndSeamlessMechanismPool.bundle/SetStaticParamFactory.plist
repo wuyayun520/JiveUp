@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertTensorRemediationExtension</key>
+	<string>associateRequiredEquivalentInstance</string>
+	<key>dropoutSymmetricGroupObserver</key>
+	<string>getDiscardedBinaryGroup</string>
+	<key>getGlobalDescriptionManager</key>
+	<string>cancelEuclideanFlagsFactory</string>
+	<key>keepCustomLoopHelper</key>
+	<string>moveAgileDepthList</string>
+</dict>
+</plist>

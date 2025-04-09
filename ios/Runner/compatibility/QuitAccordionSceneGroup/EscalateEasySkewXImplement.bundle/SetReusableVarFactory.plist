@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureAccessibleAxisImplement</key>
+	<string>getMissedLabelGroup</string>
+	<key>captureLostOperationProtocol</key>
+	<string>dissociateCustomizedVideoFactory</string>
+	<key>generateRespectiveStatusHelper</key>
+	<string>stopMultiInterpolationContainer</string>
+	<key>getLocalTernaryProtocol</key>
+	<string>pushLocalRendererCreator</string>
+	<key>restartLargeIndexProtocol</key>
+	<string>cancelSharedVolumeReference</string>
+	<key>setMultiInteractionOwner</key>
+	<string>setSmartValueDelegate</string>
+	<key>setNumericalBufferStack</key>
+	<string>setCommonProjectType</string>
+	<key>startLastTaskDecorator</key>
+	<string>setSeamlessCycleType</string>
+</dict>
+</plist>

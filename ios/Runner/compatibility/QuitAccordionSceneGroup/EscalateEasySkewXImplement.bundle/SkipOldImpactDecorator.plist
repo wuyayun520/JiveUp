@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearEuclideanTopPool</key>
+	<string>initializeGeometricPreviewArray</string>
+	<key>discoverGeometricRightPool</key>
+	<string>getSemanticSessionCreator</string>
+	<key>keepMutableParameterHandler</key>
+	<string>retrieveSpecifyStatusDecorator</string>
+	<key>reflectDisplayableResolverCache</key>
+	<string>pauseResilientStrengthImplement</string>
+	<key>resumeIgnoredTraversalProtocol</key>
+	<string>floatNormalVariableHandler</string>
+	<key>setElasticMonsterInstance</key>
+	<string>searchUnactivatedTempleFilter</string>
+	<key>setMissedHistogramFilter</key>
+	<string>markMainSceneTarget</string>
+</dict>
+</plist>

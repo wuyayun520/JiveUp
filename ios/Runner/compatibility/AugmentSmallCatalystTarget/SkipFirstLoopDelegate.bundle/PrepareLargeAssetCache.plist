@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustSemanticSceneStack</key>
+	<string>playDifficultChallengeDecorator</string>
+	<key>getRelationalResolverHandler</key>
+	<string>restartSortedNameArray</string>
+	<key>prepareMainGroupObserver</key>
+	<string>exitMissedButtonDelegate</string>
+	<key>setCriticalNotationExtension</key>
+	<string>releaseNewestDialogsProtocol</string>
+	<key>setSpecifyAxisContainer</key>
+	<string>replaceRetainedVariableAdapter</string>
+	<key>startLargeGrainPool</key>
+	<string>getExplicitParameterDelegate</string>
+	<key>transposeConsultativeNumberProtocol</key>
+	<string>endCommonInitiativeType</string>
+</dict>
+</plist>

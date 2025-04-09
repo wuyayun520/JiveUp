@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateOtherRowInstance</key>
+	<string>discoverMissedParamAdapter</string>
+	<key>getCurrentSegmentAdapter</key>
+	<string>setDiscardedValuePool</string>
+	<key>getGlobalValueCache</key>
+	<string>skipDelicateSpineReference</string>
+	<key>prepareHardPositionCreator</key>
+	<string>prepareSeamlessValueFactory</string>
+	<key>prepareSeamlessChapterProtocol</key>
+	<string>finishCurrentVariableDelegate</string>
+	<key>quitPermanentMenuCollection</key>
+	<string>getSeamlessBufferHandler</string>
+	<key>setDenseIntegrationProtocol</key>
+	<string>startConcreteTaxonomyFactory</string>
+	<key>transposeSemanticFlagsProtocol</key>
+	<string>cancelSophisticatedStepObserver</string>
+</dict>
+</plist>

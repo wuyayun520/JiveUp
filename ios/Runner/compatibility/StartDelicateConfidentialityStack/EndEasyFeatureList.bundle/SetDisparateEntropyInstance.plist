@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embraceSmallAllocatorFactory</key>
+	<string>dividePermanentNodeDecorator</string>
+	<key>eraseEasyBatchCache</key>
+	<string>updateKeyEquivalentObserver</string>
+	<key>getCommonBaseFactory</key>
+	<string>resumeOriginalColorCache</string>
+	<key>getExplicitTailGroup</key>
+	<string>setSubtleVarGroup</string>
+	<key>getPrismaticClusterReference</key>
+	<string>getDifficultLayoutHandler</string>
+	<key>getSharedOccasionReference</key>
+	<string>makeSimilarFrameCreator</string>
+	<key>initializeFusedSpinePool</key>
+	<string>startDedicatedSceneObserver</string>
+	<key>offsetRobustTempleFilter</key>
+	<string>writeDirectParameterInstance</string>
+	<key>readRequiredParticleFilter</key>
+	<string>resumeImmutableNumberExtension</string>
+	<key>setDisplayableCubeCreator</key>
+	<string>stopMediumMusicImplement</string>
+</dict>
+</plist>

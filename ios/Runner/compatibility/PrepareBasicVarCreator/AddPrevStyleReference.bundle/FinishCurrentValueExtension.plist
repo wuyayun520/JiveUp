@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelCustomChartReference</key>
+	<string>setDiscardedBaselineType</string>
+	<key>getSortedStyleManager</key>
+	<string>stopCommonTextureHelper</string>
+	<key>pushLargeFrameTarget</key>
+	<string>getElasticScaleCreator</string>
+	<key>setCrucialTrajectoryCreator</key>
+	<string>getHierarchicalMetadataExtension</string>
+	<key>setRobustBufferStack</key>
+	<string>getProtectedValueDelegate</string>
+	<key>skipDedicatedLeftProtocol</key>
+	<string>setMainInformationPool</string>
+	<key>undertakeSmallNumberFilter</key>
+	<string>setFirstParamBase</string>
+	<key>upgradePermanentLeftHandler</key>
+	<string>getArithmeticAxisBase</string>
+</dict>
+</plist>

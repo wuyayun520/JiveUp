@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelFirstConvolutionBase</key>
+	<string>setBeginnerHeadBase</string>
+	<key>dropoutCartesianIntegrationFactory</key>
+	<string>requestPrevReliabilityDecorator</string>
+	<key>generateStaticNumberExtension</key>
+	<string>getGranularPointReference</string>
+	<key>prepareAutoParameterProtocol</key>
+	<string>getSpecifyMetricsList</string>
+	<key>showMainHeapPool</key>
+	<string>drawBasicOpacityObserver</string>
+	<key>syncPermanentUsageReference</key>
+	<string>setRespectiveEventArray</string>
+	<key>wrapLocalMetadataInstance</key>
+	<string>getCurrentElasticityImplement</string>
+</dict>
+</plist>

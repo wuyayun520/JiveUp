@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeIntuitiveBottomArray</key>
+	<string>pauseBackwardNodeCreator</string>
+	<key>generateSynchronousElementTarget</key>
+	<string>getBeginnerBufferManager</string>
+	<key>getSortedAnchorInstance</key>
+	<string>endLostEdgeCache</string>
+	<key>getSubsequentTextureImplement</key>
+	<string>analyzeSignificantRectProtocol</string>
+	<key>keepFirstBufferDelegate</key>
+	<string>floatCurrentColorFilter</string>
+	<key>setConcurrentThresholdReference</key>
+	<string>trainDeclarativeSliderImplement</string>
+	<key>setEnabledCompositionAdapter</key>
+	<string>drawUsedGrayscaleExtension</string>
+	<key>startMediumVariableGroup</key>
+	<string>keepPublicViewExtension</string>
+	<key>trainRequiredSignatureExtension</key>
+	<string>startGranularKernelDecorator</string>
+</dict>
+</plist>

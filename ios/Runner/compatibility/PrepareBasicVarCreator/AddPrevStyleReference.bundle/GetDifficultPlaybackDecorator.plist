@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeKeyMatrixManager</key>
+	<string>getMultiDepthFactory</string>
+	<key>continueEphemeralEdgeCreator</key>
+	<string>endHardAlphaArray</string>
+	<key>keepSubtleGrainExtension</key>
+	<string>setRobustUtilExtension</string>
+	<key>poolActivatedHeadFactory</key>
+	<string>eraseSynchronousAlphaFilter</string>
+	<key>setCommonTextureGroup</key>
+	<string>poolDeclarativeParticleType</string>
+	<key>setMissedTailStack</key>
+	<string>setSemanticColorProtocol</string>
+	<key>trainUsedValueDecorator</key>
+	<string>setDifficultEqualizationContainer</string>
+</dict>
+</plist>

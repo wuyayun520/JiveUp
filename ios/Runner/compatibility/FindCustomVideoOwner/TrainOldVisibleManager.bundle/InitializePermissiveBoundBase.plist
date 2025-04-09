@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compareExplicitRestrictionList</key>
+	<string>reflectReusableCapsuleList</string>
+	<key>finishAdvancedBinaryDelegate</key>
+	<string>resumeTypicalDescentFilter</string>
+	<key>initializeMissedTopHandler</key>
+	<string>getDifficultResolverStack</string>
+	<key>seekStandaloneOriginManager</key>
+	<string>setSemanticObjectInstance</string>
+	<key>skipProtectedHeadCollection</key>
+	<string>setDisplayableColorAdapter</string>
+	<key>trainRequiredStyleStack</key>
+	<string>initializeMutableVarType</string>
+</dict>
+</plist>

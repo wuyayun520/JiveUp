@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clonePrimaryMetadataObserver</key>
+	<string>prepareEphemeralLatencyDecorator</string>
+	<key>endAdvancedParameterFilter</key>
+	<string>setElasticLeftFilter</string>
+	<key>getOtherMendObserver</key>
+	<string>initializeSecondThreadTarget</string>
+	<key>setHardBufferExtension</key>
+	<string>insteadFusedEvolutionCache</string>
+	<key>setHardCenterInstance</key>
+	<string>getActivatedNumberFilter</string>
+	<key>syncComprehensiveColorPool</key>
+	<string>setMutableImageGroup</string>
+	<key>syncPermanentSignatureList</key>
+	<string>setRequiredEdgeFactory</string>
+</dict>
+</plist>

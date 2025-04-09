@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishSemanticUnaryHandler</key>
+	<string>trainIntermediateCapacityList</string>
+	<key>getPublicLeftImplement</key>
+	<string>setIntermediateFrameExtension</string>
+	<key>getSignificantLatencyHelper</key>
+	<string>finishOpaqueQuaternionPool</string>
+	<key>revisitLargeValueGroup</key>
+	<string>resumeOpaqueVisibleReference</string>
+	<key>seekMutableBoundBase</key>
+	<string>initializeSymmetricBufferAdapter</string>
+	<key>setLocalComponentImplement</key>
+	<string>showOpaqueChapterCollection</string>
+	<key>setSingleMeshExtension</key>
+	<string>reflectSynchronousLeftObserver</string>
+	<key>startSortedLeftStack</key>
+	<string>keepTensorBorderOwner</string>
+	<key>stopDiversifiedParamExtension</key>
+	<string>endSecondVarHandler</string>
+</dict>
+</plist>

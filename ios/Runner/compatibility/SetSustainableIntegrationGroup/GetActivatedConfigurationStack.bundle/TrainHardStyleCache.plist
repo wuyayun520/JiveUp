@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eraseIntermediateHashManager</key>
+	<string>stopSynchronousDialogsDelegate</string>
+	<key>getDiscardedPointProtocol</key>
+	<string>findCurrentResultAdapter</string>
+	<key>pauseSecondNotationStack</key>
+	<string>setCartesianRightAdapter</string>
+	<key>pauseSemanticParameterList</key>
+	<string>cloneRobustStyleInstance</string>
+	<key>setConsultativeSchemaProtocol</key>
+	<string>initializeMediocreUsageContainer</string>
+	<key>setDenseComponentCache</key>
+	<string>rotateSustainableVisibleFilter</string>
+</dict>
+</plist>

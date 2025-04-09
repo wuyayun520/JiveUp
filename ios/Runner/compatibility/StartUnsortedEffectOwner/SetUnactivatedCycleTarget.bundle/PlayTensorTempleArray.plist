@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>findMutableObjectArray</key>
+	<string>getSharedTraversalReference</string>
+	<key>getCrucialAccessoryFactory</key>
+	<string>finishCriticalConsumptionReference</string>
+	<key>getImmutableEdgeAdapter</key>
+	<string>cancelFusedGroupProtocol</string>
+	<key>initializeAutoFlagsReference</key>
+	<string>spinNewestTrajectoryDecorator</string>
+	<key>parseHierarchicalDispatcherHandler</key>
+	<string>pauseLargeMaterialFilter</string>
+	<key>pauseRelationalStyleObserver</key>
+	<string>visitDeclarativePolyfillCreator</string>
+	<key>skipPrimaryStrengthReference</key>
+	<string>getGeometricTaxonomyFilter</string>
+</dict>
+</plist>

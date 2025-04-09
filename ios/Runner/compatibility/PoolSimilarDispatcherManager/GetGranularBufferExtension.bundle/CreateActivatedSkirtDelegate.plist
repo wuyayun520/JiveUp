@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateSophisticatedValueHandler</key>
+	<string>setGranularValueObserver</string>
+	<key>discoverPriorEdgeHandler</key>
+	<string>markEphemeralValueReference</string>
+	<key>getDenseCoordinatorGroup</key>
+	<string>parseAsynchronousGiftHelper</string>
+	<key>getUniqueSkewXCollection</key>
+	<string>appendDenseGridGroup</string>
+	<key>rotateCustomBufferStack</key>
+	<string>initializeAccessibleTempleDelegate</string>
+	<key>setArithmeticSignDelegate</key>
+	<string>setRetainedVectorArray</string>
+	<key>setOtherVarBase</key>
+	<string>setConcreteFlagsReference</string>
+	<key>setSubsequentPriorityManager</key>
+	<string>finishSophisticatedIntensityFactory</string>
+</dict>
+</plist>

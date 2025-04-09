@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getRetainedDescentContainer</key>
+	<string>calculateUnactivatedMonsterArray</string>
+	<key>replaceDirectlyStatusList</key>
+	<string>getDirectStyleManager</string>
+	<key>revisitPublicResultDecorator</key>
+	<string>poolAsynchronousVariablePool</string>
+	<key>setEnabledViewFilter</key>
+	<string>endSharedParticleDelegate</string>
+	<key>stopPermanentTopicContainer</key>
+	<string>animateConcreteRightDelegate</string>
+</dict>
+</plist>

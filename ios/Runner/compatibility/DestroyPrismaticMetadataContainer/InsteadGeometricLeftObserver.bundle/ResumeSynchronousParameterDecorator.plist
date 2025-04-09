@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getReusableCubeList</key>
+	<string>setExplicitBoundHandler</string>
+	<key>markNextSessionGroup</key>
+	<string>getSortedGiftList</string>
+	<key>pauseDeclarativeScaleDelegate</key>
+	<string>getSemanticFormatInstance</string>
+	<key>resumeBasicParameterHelper</key>
+	<string>getConcurrentVariantDelegate</string>
+	<key>setPrismaticPreviewObserver</key>
+	<string>addNormalBufferExtension</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getKeyVarHandler</key>
+	<string>resetCurrentAspectHandler</string>
+	<key>getRapidLeftCollection</key>
+	<string>preparePriorBinaryImplement</string>
+	<key>initializeAdvancedGrayscaleDelegate</key>
+	<string>trainAutoMaterialPool</string>
+	<key>introspectArithmeticRowBase</key>
+	<string>setDirectNumberList</string>
+	<key>pauseSubstantialTextTarget</key>
+	<string>endIterativeVarCreator</string>
+	<key>setConsultativeMaterialList</key>
+	<string>provideEphemeralToleranceHandler</string>
+	<key>setKeyTitleObserver</key>
+	<string>clearFusedScaleHandler</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeMediumProjectHandler</key>
+	<string>getSignificantBufferTarget</string>
+	<key>continueDedicatedVariableHandler</key>
+	<string>augmentSmallVariableStack</string>
+	<key>eraseDenseSampleFactory</key>
+	<string>getSimilarVariableCollection</string>
+	<key>finishRobustRectFilter</key>
+	<string>getRelationalResourceFilter</string>
+	<key>resumeHardSceneType</key>
+	<string>resumeUniqueChartFilter</string>
+	<key>setHyperbolicCharacterProtocol</key>
+	<string>stopCurrentMetadataCollection</string>
+	<key>setKeyDistinctionCollection</key>
+	<string>setUniqueCosinePool</string>
+	<key>setMainTitleStack</key>
+	<string>getRetainedValueTarget</string>
+	<key>setSortedModelCreator</key>
+	<string>createDifficultHashInstance</string>
+	<key>trainRobustValueGroup</key>
+	<string>getUniqueCubeAdapter</string>
+</dict>
+</plist>

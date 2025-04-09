@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueEphemeralSkinInstance</key>
+	<string>holdPermissiveFrameManager</string>
+	<key>continuePublicDescriptionCreator</key>
+	<string>restartGlobalIndexDecorator</string>
+	<key>dismissSemanticDurationManager</key>
+	<string>setSmartContrastCreator</string>
+	<key>enhanceSemanticContrastGroup</key>
+	<string>resetRelationalChartHandler</string>
+	<key>finishCrucialLoopInstance</key>
+	<string>prepareBasicBinaryStack</string>
+	<key>getPermanentVolumeType</key>
+	<string>initializeLastQueueHelper</string>
+	<key>refreshGlobalPrecisionStack</key>
+	<string>setCurrentChecklistBase</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkRespectiveValueCreator</key>
+	<string>floatLostScalabilityDelegate</string>
+	<key>locateResilientTopGroup</key>
+	<string>setAsynchronousNumberDecorator</string>
+	<key>updateElasticCycleHandler</key>
+	<string>finishUniformPointInstance</string>
+</dict>
+</plist>

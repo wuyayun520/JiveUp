@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getEphemeralParamStack</key>
+	<string>setSeamlessBitrateArray</string>
+	<key>getImmutableParameterDelegate</key>
+	<string>pauseGlobalSampleList</string>
+	<key>lockKeyElasticityFactory</key>
+	<string>getFirstTrajectoryBase</string>
+	<key>respondMultiInstructionStack</key>
+	<string>endDelicateProvisionProtocol</string>
+	<key>restartFusedImageManager</key>
+	<string>getRetainedLeftAdapter</string>
+	<key>setSeamlessReferenceHandler</key>
+	<string>keepStandaloneVisibleBase</string>
+	<key>setUsedAnimationFactory</key>
+	<string>getSemanticConfigurationDecorator</string>
+</dict>
+</plist>

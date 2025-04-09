@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endDelicateBufferCreator</key>
+	<string>trainHierarchicalSpritePool</string>
+	<key>finishNextReductionExtension</key>
+	<string>retrieveUnactivatedFrameDecorator</string>
+	<key>getAssociatedHeadTarget</key>
+	<string>conformIntermediateNumberStack</string>
+	<key>getHierarchicalVariableFilter</key>
+	<string>setPrimaryProvisionReference</string>
+	<key>getSpecifyBoundContainer</key>
+	<string>keepRobustConfigurationManager</string>
+	<key>prepareUniqueAnimationContainer</key>
+	<string>prepareOriginalCapacitiesDecorator</string>
+	<key>setDelicateAllocatorInstance</key>
+	<string>fillEasyTechniqueCollection</string>
+	<key>setEasyLabelDecorator</key>
+	<string>setUniqueDispatcherFactory</string>
+	<key>setStaticProfileExtension</key>
+	<string>getConcreteEffectManager</string>
+</dict>
+</plist>

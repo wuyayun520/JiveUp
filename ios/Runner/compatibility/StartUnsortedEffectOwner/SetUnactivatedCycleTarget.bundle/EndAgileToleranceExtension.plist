@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getFirstImpactHandler</key>
+	<string>skipHierarchicalSkirtPool</string>
+	<key>getOtherAssetBase</key>
+	<string>startHierarchicalViewProtocol</string>
+	<key>getSharedSpriteBase</key>
+	<string>keepDenseBottomObserver</string>
+	<key>getSmartInterpolationManager</key>
+	<string>pauseOldBitrateContainer</string>
+	<key>pauseCustomBufferReference</key>
+	<string>lockNewestReductionFactory</string>
+	<key>setNumericalInitiativeGroup</key>
+	<string>enumerateElasticOpacityCreator</string>
+	<key>stopDeclarativeBufferList</key>
+	<string>setAgileChapterFactory</string>
+	<key>transposeSignificantNumberCreator</key>
+	<string>getMultiStyleFilter</string>
+</dict>
+</plist>

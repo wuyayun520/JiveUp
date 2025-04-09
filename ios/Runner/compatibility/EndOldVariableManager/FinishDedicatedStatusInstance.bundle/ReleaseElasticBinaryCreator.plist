@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelAccessibleButtonDelegate</key>
+	<string>prepareAsynchronousMatrixHandler</string>
+	<key>conformImmutableBulletImplement</key>
+	<string>prepareDifficultTagCreator</string>
+	<key>getConcreteNumberCollection</key>
+	<string>pauseSubsequentColorFilter</string>
+	<key>movePriorRangeGroup</key>
+	<string>getFusedScaleContainer</string>
+	<key>rotateCriticalSkewYBase</key>
+	<string>getOpaqueParamHelper</string>
+	<key>setNextBufferFilter</key>
+	<string>prepareFirstDataDelegate</string>
+	<key>skipUsedEdgeBase</key>
+	<string>showIndependentBottomArray</string>
+	<key>wrapDisparateCosineCreator</key>
+	<string>endSingleVariableDelegate</string>
+</dict>
+</plist>

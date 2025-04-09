@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendGranularSpineObserver</key>
+	<string>accelerateMutableTextFilter</string>
+	<key>getPrismaticUnaryStack</key>
+	<string>retainKeyTimelineImplement</string>
+	<key>pauseDiscardedVarCache</key>
+	<string>setIntermediateObjectExtension</string>
+	<key>setDirectParameterTarget</key>
+	<string>endGeometricFragmentsList</string>
+	<key>setFirstGrainFactory</key>
+	<string>freeGlobalRangeExtension</string>
+	<key>setRetainedMenuTarget</key>
+	<string>calculateMissedAspectFilter</string>
+</dict>
+</plist>

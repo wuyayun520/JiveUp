@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzePrevTailContainer</key>
+	<string>quantizerBackwardEvolutionObserver</string>
+	<key>initializeNewestPointAdapter</key>
+	<string>setEuclideanBulletAdapter</string>
+	<key>poolNewestParameterStack</key>
+	<string>executePivotalParameterStack</string>
+	<key>prepareElasticStrengthContainer</key>
+	<string>getTensorResolverHelper</string>
+	<key>retainDeclarativeRotationFactory</key>
+	<string>exitPrismaticCoordHandler</string>
+	<key>syncProtectedCenterCache</key>
+	<string>keepDedicatedEdgeCreator</string>
+</dict>
+</plist>

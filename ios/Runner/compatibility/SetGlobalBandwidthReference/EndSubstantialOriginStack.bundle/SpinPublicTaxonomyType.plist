@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeRequiredFlagsCollection</key>
+	<string>setUniformHeadBase</string>
+	<key>getImmutableEquipmentStack</key>
+	<string>getBackwardEvolutionStack</string>
+	<key>mitigateCommonGrayscaleOwner</key>
+	<string>resumeSortedVariableFactory</string>
+	<key>readLostInformationCollection</key>
+	<string>convertLargeOpacityCollection</string>
+	<key>resizePublicVariableGroup</key>
+	<string>stopDedicatedLeftArray</string>
+</dict>
+</plist>

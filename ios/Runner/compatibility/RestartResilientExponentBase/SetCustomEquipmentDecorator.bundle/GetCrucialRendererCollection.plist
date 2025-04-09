@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishArithmeticValueObserver</key>
+	<string>continueOldChecklistDelegate</string>
+	<key>restartSemanticBorderCache</key>
+	<string>startSeamlessModelHandler</string>
+	<key>setCommonSkewYTarget</key>
+	<string>obtainGreatMasterInstance</string>
+	<key>setCriticalLabelHandler</key>
+	<string>getConcurrentHeadManager</string>
+	<key>setSmallSkewXCache</key>
+	<string>trainGeometricLayoutGroup</string>
+	<key>skipDenseKernelArray</key>
+	<string>prepareLocalElementOwner</string>
+</dict>
+</plist>

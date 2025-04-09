@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combineStaticUnaryDecorator</key>
+	<string>setSecondValueCache</string>
+	<key>multiplyLastSizePool</key>
+	<string>startActivatedIndexImplement</string>
+	<key>revisitIntuitiveCoordPool</key>
+	<string>setSortedAscentHelper</string>
+	<key>setDelicateRectangleList</key>
+	<string>stopArithmeticRightImplement</string>
+	<key>setPrismaticVarStack</key>
+	<string>getDirectParameterContainer</string>
+	<key>setSmartVariableDelegate</key>
+	<string>stopRetainedSceneAdapter</string>
+	<key>skipAssociatedBufferPool</key>
+	<string>setMissedUnaryHandler</string>
+	<key>skipDiversifiedEffectDecorator</key>
+	<string>setUniqueEffectStack</string>
+</dict>
+</plist>

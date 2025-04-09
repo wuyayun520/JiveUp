@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuePrimaryToleranceFactory</key>
+	<string>getCriticalSkewXAdapter</string>
+	<key>finishEasyLayoutExtension</key>
+	<string>restoreFirstDocumentTarget</string>
+	<key>generateGeometricSliderReference</key>
+	<string>computeHardOccasionContainer</string>
+	<key>prepareAccessibleVarExtension</key>
+	<string>stopImmutableParamHelper</string>
+	<key>setBeginnerBaseTarget</key>
+	<string>displayAssociatedRestrictionType</string>
+	<key>setCustomVariableHelper</key>
+	<string>setSemanticBottomExtension</string>
+</dict>
+</plist>

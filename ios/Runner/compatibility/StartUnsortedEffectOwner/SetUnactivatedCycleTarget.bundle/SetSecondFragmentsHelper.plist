@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformSignificantTextureCollection</key>
+	<string>setUniqueTopFilter</string>
+	<key>getNormalReliabilityList</key>
+	<string>getDirectlyPreviewPool</string>
+	<key>getOpaqueEfficiencyInstance</key>
+	<string>trainNormalBorderTarget</string>
+	<key>keepGranularVariableImplement</key>
+	<string>pauseMediumParameterDecorator</string>
+	<key>locateIntermediateTextureProtocol</key>
+	<string>quitSpecifyValueGroup</string>
+	<key>prepareRetainedGraphCreator</key>
+	<string>prepareLiteMusicObserver</string>
+	<key>releaseActivatedTagContainer</key>
+	<string>getActivatedStyleCache</string>
+	<key>setMediumParameterAdapter</key>
+	<string>getCurrentNumberExtension</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelAccessibleStateOwner</key>
+	<string>setMissedAnimationCreator</string>
+	<key>cancelUnsortedAxisFactory</key>
+	<string>getPermissivePopupFactory</string>
+	<key>convertOpaquePaddingStack</key>
+	<string>setCriticalChapterPool</string>
+	<key>keepBasicParamDelegate</key>
+	<string>trainUnactivatedRouteReference</string>
+	<key>pushUsedParamPool</key>
+	<string>playFusedVariableDecorator</string>
+	<key>resumeRequiredScaleExtension</key>
+	<string>setUniqueCycleInstance</string>
+	<key>setSubstantialMasterFilter</key>
+	<string>startSmallQuaternionCollection</string>
+</dict>
+</plist>

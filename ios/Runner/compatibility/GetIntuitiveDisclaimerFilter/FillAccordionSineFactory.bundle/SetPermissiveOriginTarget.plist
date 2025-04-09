@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeSortedBorderContainer</key>
+	<string>encapsulateMediumScaleBase</string>
+	<key>dismissCustomizedSliderInstance</key>
+	<string>skipUniformSpriteAdapter</string>
+	<key>prepareSecondBufferBase</key>
+	<string>drawElasticMeshInstance</string>
+	<key>restoreSemanticAnalogyType</key>
+	<string>getLargeChartList</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keepGlobalDocumentFactory</key>
+	<string>skipTensorVarDecorator</string>
+	<key>scheduleConsultativeThresholdStack</key>
+	<string>updateElasticNumberReference</string>
+	<key>transposeAssociatedNameDecorator</key>
+	<string>resumeAdvancedSliderPool</string>
+</dict>
+</plist>

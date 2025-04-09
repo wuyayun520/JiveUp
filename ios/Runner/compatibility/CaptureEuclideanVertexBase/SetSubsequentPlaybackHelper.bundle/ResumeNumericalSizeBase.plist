@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capturePermissiveEvaluationList</key>
+	<string>pushProtectedFrameDecorator</string>
+	<key>cleanDirectlyPreviewHelper</key>
+	<string>getIgnoredSkirtType</string>
+	<key>navigateNormalBufferAdapter</key>
+	<string>restartSynchronousInterfaceAdapter</string>
+	<key>resetTensorTempleStack</key>
+	<string>optimizeAssociatedWorkflowAdapter</string>
+	<key>restartDisplayableGramDecorator</key>
+	<string>getBeginnerQueueList</string>
+	<key>resumeDifficultBottomGroup</key>
+	<string>poolOriginalSessionAdapter</string>
+	<key>touchCurrentOpacityList</key>
+	<string>startAccessibleValueDecorator</string>
+</dict>
+</plist>

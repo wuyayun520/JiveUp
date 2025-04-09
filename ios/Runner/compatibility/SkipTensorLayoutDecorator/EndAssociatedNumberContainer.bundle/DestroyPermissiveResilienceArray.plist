@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resizeSemanticPaddingPool</key>
+	<string>setAssociatedSpriteHandler</string>
+	<key>restoreUsedParameterCache</key>
+	<string>clearSubtleGateObserver</string>
+	<key>setEphemeralParamReference</key>
+	<string>stopAutoSceneTarget</string>
+	<key>setGlobalSkewXFactory</key>
+	<string>resizePublicBoxGroup</string>
+	<key>trainGranularFeatureArray</key>
+	<string>setSmartDepthCreator</string>
+</dict>
+</plist>

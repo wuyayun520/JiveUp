@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelStaticResolverList</key>
+	<string>cancelCommonImpressionStack</string>
+	<key>getRetainedThroughputList</key>
+	<string>keepOtherVarReference</string>
+	<key>quantizationPrimaryFormatInstance</key>
+	<string>prepareFirstBufferCollection</string>
+	<key>setFirstCenterOwner</key>
+	<string>restoreCrudeListenerManager</string>
+	<key>setHardParticleImplement</key>
+	<string>setStandaloneTempleFactory</string>
+	<key>stopEuclideanButtonReference</key>
+	<string>finishProtectedVariableHelper</string>
+	<key>stopIgnoredVectorType</key>
+	<string>transposeElasticTextureOwner</string>
+</dict>
+</plist>

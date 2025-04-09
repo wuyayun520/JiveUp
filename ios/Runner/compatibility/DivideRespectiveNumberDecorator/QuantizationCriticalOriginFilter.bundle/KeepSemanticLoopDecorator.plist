@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendSimilarSceneCache</key>
+	<string>setSharedSchedulerTarget</string>
+	<key>dissociateSeamlessOpacityOwner</key>
+	<string>setMultiApertureInstance</string>
+	<key>enhanceCriticalProfilePool</key>
+	<string>restartSimilarFeatureAdapter</string>
+	<key>finishEuclideanParameterContainer</key>
+	<string>getConcurrentBufferFilter</string>
+	<key>getSmallTempleExtension</key>
+	<string>keepLargeSessionCollection</string>
+	<key>pausePrevShaderManager</key>
+	<string>retrieveMainAssetImplement</string>
+	<key>showLiteTempleDecorator</key>
+	<string>stopDisplayableVariablePool</string>
+</dict>
+</plist>

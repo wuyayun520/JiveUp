@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endMissedEquivalentCache</key>
+	<string>poolLastMediaFilter</string>
+	<key>finishLargeBorderHandler</key>
+	<string>setNewestOpacityContainer</string>
+	<key>freeRequiredLayerManager</key>
+	<string>finishGlobalInteractionReference</string>
+	<key>getPermissiveStampOwner</key>
+	<string>restartDifficultListenerFactory</string>
+	<key>getRapidParameterCache</key>
+	<string>destroyEuclideanSpecifierGroup</string>
+	<key>getSmallScaleOwner</key>
+	<string>resumeDiversifiedMenuObserver</string>
+	<key>resumeDeclarativePrecisionType</key>
+	<string>getSingleParameterHelper</string>
+	<key>startResilientNumberHelper</key>
+	<string>getActivatedTernaryCreator</string>
+	<key>stopConcurrentStatusOwner</key>
+	<string>getRequiredSkewXCache</string>
+</dict>
+</plist>

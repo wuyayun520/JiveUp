@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeSymmetricChartHandler</key>
+	<string>skipEphemeralRowProtocol</string>
+	<key>reconcileUniformElementType</key>
+	<string>cancelLargeVarExtension</string>
+	<key>setBackwardEntropyList</key>
+	<string>setDelicateImpressionType</string>
+</dict>
+</plist>

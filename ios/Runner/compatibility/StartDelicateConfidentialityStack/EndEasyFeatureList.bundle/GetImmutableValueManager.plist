@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getMainVarOwner</key>
+	<string>setMultiImageCache</string>
+	<key>preparePrevTextureImplement</key>
+	<string>getMutableValueTarget</string>
+	<key>provideDenseSizeHelper</key>
+	<string>enumerateUniformScopeDelegate</string>
+	<key>setKeyResourceExtension</key>
+	<string>freeTensorInteractionTarget</string>
+	<key>setPrimaryStrengthAdapter</key>
+	<string>executeIterativeBitrateCollection</string>
+	<key>stopAccordionButtonBase</key>
+	<string>getCriticalShaderAdapter</string>
+</dict>
+</plist>

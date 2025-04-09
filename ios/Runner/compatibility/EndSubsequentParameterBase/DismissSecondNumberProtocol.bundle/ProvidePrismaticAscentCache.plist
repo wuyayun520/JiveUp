@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendPermanentParameterPool</key>
+	<string>getRetainedBinaryBase</string>
+	<key>parseSubsequentVectorPool</key>
+	<string>endCriticalTempleStack</string>
+	<key>prepareDedicatedParamStack</key>
+	<string>searchOldTempleDecorator</string>
+	<key>restartGlobalVariableProtocol</key>
+	<string>pauseSynchronousParticleManager</string>
+	<key>resumeLocalRotationArray</key>
+	<string>getUnactivatedResilienceBase</string>
+	<key>setOldChapterBase</key>
+	<string>setHardAnalogyHandler</string>
+	<key>showSignificantBoundContainer</key>
+	<string>resumeNormalResourceBase</string>
+	<key>skipOtherVarArray</key>
+	<string>prepareCustomAnimationCache</string>
+</dict>
+</plist>

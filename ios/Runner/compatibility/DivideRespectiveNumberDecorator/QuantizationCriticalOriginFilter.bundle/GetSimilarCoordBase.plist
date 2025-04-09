@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelMissedNumberManager</key>
+	<string>keepArithmeticTopicDelegate</string>
+	<key>cancelNormalToolAdapter</key>
+	<string>getRobustBufferAdapter</string>
+	<key>captureEasyBorderCache</key>
+	<string>readGlobalQueueHandler</string>
+	<key>generateConcurrentTimelineManager</key>
+	<string>setElasticHashHelper</string>
+	<key>generateResilientAllocatorCreator</key>
+	<string>getElasticPolyfillHandler</string>
+	<key>keepMutableResolverList</key>
+	<string>stopCustomizedDescriptionFactory</string>
+	<key>prepareAgileTimelineManager</key>
+	<string>setFirstTimeCollection</string>
+	<key>setHyperbolicGraphGroup</key>
+	<string>compareSemanticImpactHandler</string>
+	<key>skipHyperbolicCoordContainer</key>
+	<string>shearPriorImpactArray</string>
+	<key>startIntuitiveObserverExtension</key>
+	<string>continueSeamlessNumberStack</string>
+</dict>
+</plist>

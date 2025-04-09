@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getHierarchicalGraphicManager</key>
+	<string>getIterativeCenterManager</string>
+	<key>getMutableLabelManager</key>
+	<string>decoupleRespectiveParamStack</string>
+	<key>offsetNextFrameStack</key>
+	<string>getStandaloneGraphExtension</string>
+	<key>setConsultativeResilienceArray</key>
+	<string>executeDisplayableSpriteCollection</string>
+	<key>setSynchronousValueList</key>
+	<string>rectifyUsedTextureInstance</string>
+	<key>touchDeclarativeThreadStack</key>
+	<string>pauseCrudeParamAdapter</string>
+</dict>
+</plist>

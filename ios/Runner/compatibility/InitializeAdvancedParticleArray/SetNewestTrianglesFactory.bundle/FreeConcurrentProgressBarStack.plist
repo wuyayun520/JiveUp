@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getAsynchronousValueDelegate</key>
+	<string>getCurrentFrameTarget</string>
+	<key>getOpaqueFrameDelegate</key>
+	<string>keepDirectActivityTarget</string>
+	<key>obtainExplicitCosineAdapter</key>
+	<string>setSmartVertexArray</string>
+	<key>offsetKeyParamFilter</key>
+	<string>analyzeBackwardArchitectureCache</string>
+	<key>playCurrentBorderObserver</key>
+	<string>eraseNumericalTextureList</string>
+	<key>prepareCrudeHashHandler</key>
+	<string>startExplicitCacheCreator</string>
+	<key>setSeamlessShapeBase</key>
+	<string>getGeometricTrianglesCache</string>
+	<key>setSignificantRangeInstance</key>
+	<string>resumeFirstWorkflowType</string>
+	<key>setSustainableSessionTarget</key>
+	<string>getSynchronousFlagsCreator</string>
+	<key>stopDifficultTailBase</key>
+	<string>generateAccessibleParameterManager</string>
+</dict>
+</plist>

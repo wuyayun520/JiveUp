@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkNewestBufferDelegate</key>
+	<string>rotateDisplayablePreviewDelegate</string>
+	<key>getDedicatedBufferImplement</key>
+	<string>getCartesianTextureOwner</string>
+	<key>getDelicateDepthCollection</key>
+	<string>setDedicatedScreenManager</string>
+	<key>getUnactivatedCurveList</key>
+	<string>keepOriginalImpressionObserver</string>
+	<key>setAccordionResultExtension</key>
+	<string>finishNextNumberDecorator</string>
+	<key>skipEuclideanAnchorObserver</key>
+	<string>discoverUsedVariableImplement</string>
+	<key>wrapCommonSkewXAdapter</key>
+	<string>upgradeOtherDescriptionInstance</string>
+</dict>
+</plist>

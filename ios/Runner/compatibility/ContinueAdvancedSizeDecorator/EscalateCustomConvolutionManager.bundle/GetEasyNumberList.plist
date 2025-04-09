@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getCommonMetadataDelegate</key>
+	<string>setMultiInfrastructureGroup</string>
+	<key>getGeometricNameFilter</key>
+	<string>cleanCartesianSkewYOwner</string>
+	<key>getGreatPlateOwner</key>
+	<string>cancelUniformMediaObserver</string>
+	<key>holdLocalTitleFactory</key>
+	<string>setEnabledTempleManager</string>
+	<key>setAutoCompositionHelper</key>
+	<string>setUniformTempleAdapter</string>
+	<key>setBasicFrameList</key>
+	<string>resizeMutableEntropyObserver</string>
+	<key>setRequiredSignArray</key>
+	<string>pauseTensorTernaryReference</string>
+	<key>skipSecondParamBase</key>
+	<string>getSortedPaddingArray</string>
+</dict>
+</plist>

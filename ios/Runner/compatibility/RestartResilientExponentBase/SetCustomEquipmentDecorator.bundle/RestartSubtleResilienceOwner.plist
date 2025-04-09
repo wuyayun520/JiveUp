@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelOriginalLeftOwner</key>
+	<string>showDisplayableUtilPool</string>
+	<key>getUnactivatedGraphPool</key>
+	<string>endFirstFrameGroup</string>
+	<key>getUsedConvolutionCache</key>
+	<string>finishBeginnerConfigurationStack</string>
+	<key>poolIntermediateGrayscaleInstance</key>
+	<string>cleanAutoMenuPool</string>
+	<key>setUsedBinaryArray</key>
+	<string>getDirectMenuInstance</string>
+</dict>
+</plist>
